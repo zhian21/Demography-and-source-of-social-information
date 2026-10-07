@@ -17,7 +17,7 @@ Preregistration: https://doi.org/10.17605/OSF.IO/P6EX3
 | `data/statements.csv` | Full text and displayed reference value for each of the 12 statements. |
 | `data/confidence.csv` | Overall confidence in initial estimates; 903 records. |
 | `data/ssi.csv` | Four auxiliary social-influence items and the saved composite; 902 complete records. |
-| `data/qualitative_coding_final.xlsx` | Open-ended responses and independent codes in two worksheets; final consensus codes for the 722-record frequency-analysis subset. |
+| `data/qualitative_coding_final.csv` | Response text, independent coder assignments, and final consensus codes for all 903 participants. |
 | `data/pilot_cleaned.csv` | The 12 relevant agreement responses for each of 879 pilot participants; 10,548 rows. |
 | `code/pilot-reference-values.py` | Calculate pilot agreement percentages and check all 12 displayed references. |
 | `code/main-analysis.py` | Main quantitative outcomes, tests, figure inputs, and derived supplementary-analysis datasets. |
@@ -34,7 +34,7 @@ This repository contains 18 source and documentation files. The supplementary in
 
 ## Environment
 
-The scripts were tested with Python 3.13.5 and the package versions in `requirements.txt`. Jinja2 is included because the existing pandas LaTeX export requires it. The qualitative workbook can be opened in spreadsheet software; none of the seven scripts reads the workbook. No qualitative-analysis script is supplied.
+The scripts were tested with Python 3.13.5 and the package versions in `requirements.txt`. Jinja2 is included because the existing pandas LaTeX export requires it. The qualitative CSV can be opened in spreadsheet software or read as UTF-8 text; none of the seven scripts reads this file. No qualitative-analysis script is supplied.
 
 The tested replication environment is distinct from the historical analysis environment described in the manuscript. No network access is needed during analysis once the dependencies have been installed.
 
@@ -77,7 +77,7 @@ python figures.py > ../output/figures.log
 | Table S9 and demographic breakdowns | `si-randomization.py`; printed counts/proportions and `balance_check_results.csv`. Full S7/S10 publication-format tables are not exported. |
 | Tables S11–S13 | `si-anova.py`; printed ANOVA tables, descriptive statistics, and LaTeX text. |
 | Tables S14–S19 | `si-robustness.py`; printed sensitivity analyses and `statement_level_results.csv` for the statement-level table. |
-| Qualitative theme frequencies | `final_coding` worksheet and the procedures in `DATA_DICTIONARY.md`; no automatic qualitative output is generated. |
+| Qualitative theme frequencies | `data/qualitative_coding_final.csv` and the procedures in `DATA_DICTIONARY.md`; no automatic qualitative output is generated. |
 
 All listed output filenames are relative to `output/`, except the three generated datasets explicitly placed in `data/`.
 
@@ -87,9 +87,9 @@ The extended regression tables retain the OLS coefficients but print `NA` for HC
 
 ## Qualitative records
 
-`pilot_coding` contains 181 records used for codebook development. `final_coding` contains the remaining 722 records and their consensus assignments. Theme frequencies use only `final_coding`, with the number of records within each condition as the denominator. Keep both worksheets; do not infer pilot consensus assignments from whether the two original coders matched.
+`data/qualitative_coding_final.csv` contains one record for each of the 903 main-study participants. A randomly selected subset of 181 responses was used to develop and refine the codebook. The finalized codebook was applied to all 903 responses, including the development subset. Theme frequencies use the `Consensus` column for the full sample, with the number of records within each condition as the denominator.
 
-The independent coder columns support unweighted Cohen’s kappa calculations within each coding stage. The code definitions and hierarchical coding rule are described in the study-materials document and supplementary methods. The dictionary gives the corresponding column names and calculation steps.
+The `Coder 1` and `Coder 2` columns retain the independent assignments. Use the coding-stage participant IDs documented in `DATA_DICTIONARY.md` to reproduce stage-specific Cohen’s kappa. The code definitions and hierarchical coding rule are described in the study-materials document and supplementary methods. The dictionary gives the column definitions and calculation steps.
 
 ## Documentation scope
 
