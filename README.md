@@ -30,8 +30,7 @@ Preregistration: https://doi.org/10.17605/OSF.IO/P6EX3
 | `requirements.txt` | Exact versions of the direct analysis dependencies. |
 | `materials/study_materials_and_protocol.pdf` | Statement bank, available question wording, source framing, pilot reference derivation, and documented procedures. |
 
-This repository contains 18 source and documentation files. The supplementary information will be available with the published article on the publisher’s website and is not included in this repository. It is not an input to the analysis scripts.
-
+This repository contains 18 source and documentation files. The supplementary information will be available with the published article on the publisher’s website and is not included in this repository.
 ## Environment
 
 The scripts were tested with Python 3.13.5 and the package versions in `requirements.txt`. Jinja2 is included because the existing pandas LaTeX export requires it. The qualitative CSV can be opened in spreadsheet software or read as UTF-8 text; none of the seven scripts reads this file. No qualitative-analysis script is supplied.
