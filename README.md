@@ -30,7 +30,7 @@ Preregistration: https://doi.org/10.17605/OSF.IO/P6EX3
 | `requirements.txt` | Exact versions of the direct analysis dependencies. |
 | `materials/study_materials_and_protocol.pdf` | Statement bank, available question wording, source framing, pilot reference derivation, and documented procedures. |
 
-The final `materials/Supplementary_information.pdf` will be added after manuscript and supplementary-document revisions. It is not an input to the scripts. This repository-preparation version contains 18 source and documentation files, excluding that pending document.
+This repository contains 18 source and documentation files. The supplementary information will be available with the published article on the publisher’s website and is not included in this repository. It is not an input to the analysis scripts.
 
 ## Environment
 
