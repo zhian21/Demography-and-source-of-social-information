@@ -1,0 +1,904 @@
+Participant ID,Gender,Age,Education,Marital Status,Race,Political Affiliation,Favorite Season
+P0001,Female,50,Some college (no degree),"In relationship, but not married",White,Democratic,Autumn
+P0002,Female,64,Bachelor's degree,Married,White,Democratic,Autumn
+P0003,Female,50,"Graduate or professional degree (Masters, PhD, JD, MD, etc.)",Married,White,Democratic,Summer
+P0004,Female,49,Bachelor's degree,Married,White,Republican,Autumn
+P0005,Female,61,Bachelor's degree,Married,Asian,Democratic,Autumn
+P0006,Female,46,High school diploma or equivalent,Married,White,Republican,Spring
+P0007,Female,59,"Graduate or professional degree (Masters, PhD, JD, MD, etc.)",Married,Asian,Democratic,Summer
+P0008,Female,48,"Graduate or professional degree (Masters, PhD, JD, MD, etc.)",Married,White,Democratic,Autumn
+P0009,Female,47,Some college (no degree),Married,White,Democratic,Summer
+P0010,Male,45,Bachelor's degree,Married,White,Independent,Autumn
+P0011,Male,45,"Graduate or professional degree (Masters, PhD, JD, MD, etc.)","Single, never married",White,Democratic,Winter
+P0012,Female,45,"Graduate or professional degree (Masters, PhD, JD, MD, etc.)",Married,"Asian,White",Republican,Autumn
+P0013,Female,52,"Graduate or professional degree (Masters, PhD, JD, MD, etc.)",Married,White,Democratic,Autumn
+P0014,Female,45,Bachelor's degree,Married,Asian,Democratic,Spring
+P0015,Female,47,Associate degree,Married,White,Republican,Autumn
+P0016,Male,51,Some college (no degree),Married,White,Democratic,Spring
+P0017,Male,59,Bachelor's degree,Married,White,Republican,Winter
+P0018,Female,49,Bachelor's degree,"Single, never married",White,Republican,Spring
+P0019,Female,52,Bachelor's degree,Married,White,Democratic,Autumn
+P0020,Female,47,Bachelor's degree,Married,Black or African American,Democratic,Spring
+P0021,Female,46,Some college (no degree),"In relationship, but not married",White,Democratic,Winter
+P0022,Male,59,"Graduate or professional degree (Masters, PhD, JD, MD, etc.)","Single, never married",White,Independent,Autumn
+P0023,Female,50,Some college (no degree),Divorced or separated,White,Independent,Spring
+P0024,Male,49,Bachelor's degree,Married,White,Republican,Summer
+P0025,Male,64,"Graduate or professional degree (Masters, PhD, JD, MD, etc.)",Married,White,Democratic,Autumn
+P0026,Female,48,Bachelor's degree,Married,White,Independent,Summer
+P0027,Female,46,Associate degree,Divorced or separated,White,Democratic,Autumn
+P0028,Male,49,Some college (no degree),Divorced or separated,"Native American or Alaska Native,Native Hawaiian or Other Pacific Islander,White",Independent,Autumn
+P0029,Female,52,Some college (no degree),"Single, never married",White,Republican,Autumn
+P0030,Male,64,Some college (no degree),"Single, never married",White,Independent,Autumn
+P0031,Female,48,"Graduate or professional degree (Masters, PhD, JD, MD, etc.)","Single, never married","Asian,White",Independent,Autumn
+P0032,Female,56,Less than high school,Married,"Native American or Alaska Native,White",Independent,Summer
+P0033,Male,53,Bachelor's degree,Married,White,Independent,Autumn
+P0034,Female,54,Bachelor's degree,Married,Black or African American,Democratic,Summer
+P0035,Female,52,Some college (no degree),"In relationship, but not married",White,Democratic,Summer
+P0036,Male,54,Bachelor's degree,Married,White,Libertarian,Autumn
+P0037,Female,59,"Graduate or professional degree (Masters, PhD, JD, MD, etc.)",Divorced or separated,White,Democratic,Autumn
+P0038,Male,53,Associate degree,Divorced or separated,Hispanic or Latino/a/x,Democratic,Winter
+P0039,Male,59,Some college (no degree),Married,White,Independent,Autumn
+P0040,Male,55,Bachelor's degree,Married,Black or African American,Republican,Spring
+P0041,Male,59,Bachelor's degree,Divorced or separated,"Native American or Alaska Native,White",Independent,Autumn
+P0042,Male,44,Bachelor's degree,"In relationship, but not married",Black or African American,Independent,Summer
+P0043,Female,64,"Graduate or professional degree (Masters, PhD, JD, MD, etc.)","Single, never married","Asian,Middle Eastern or North African,White",Independent,Autumn
+P0044,Male,52,Bachelor's degree,Married,Black or African American,Republican,Summer
+P0045,Female,49,"Graduate or professional degree (Masters, PhD, JD, MD, etc.)",Married,White,Independent,Summer
+P0046,Male,46,Associate degree,Married,White,Democratic,Autumn
+P0047,Male,50,Bachelor's degree,Married,Black or African American,Democratic,Summer
+P0048,Female,50,Associate degree,Married,Black or African American,Independent,Autumn
+P0049,Female,52,Bachelor's degree,Married,"Hispanic or Latino/a/x,White",Democratic,Winter
+P0050,Male,50,Bachelor's degree,Married,Black or African American,Democratic,Summer
+P0051,Male,49,Bachelor's degree,Married,Hispanic or Latino/a/x,Republican,Summer
+P0052,Male,54,Associate degree,"In relationship, but not married",White,Republican,Summer
+P0053,Female,51,Some college (no degree),Married,White,Republican,Autumn
+P0054,Female,45,Bachelor's degree,Married,White,Democratic,Autumn
+P0055,Female,45,Bachelor's degree,Married,White,Democratic,Winter
+P0056,Male,55,"Graduate or professional degree (Masters, PhD, JD, MD, etc.)",Married,"Hispanic or Latino/a/x,White",Independent,Winter
+P0057,Female,53,Some college (no degree),Married,White,Democratic,Autumn
+P0058,Male,57,Bachelor's degree,"Single, never married",White,Republican,Autumn
+P0059,Male,50,Bachelor's degree,Married,White,Independent,Winter
+P0060,Female,49,High school diploma or equivalent,Widowed,"Hispanic or Latino/a/x,White",Republican,Autumn
+P0061,Female,45,Associate degree,Married,White,Republican,Autumn
+P0062,Female,50,Bachelor's degree,Married,White,Democratic,Autumn
+P0063,Female,48,Bachelor's degree,Married,White,Republican,Autumn
+P0064,Male,47,Associate degree,Married,White,Independent,Summer
+P0065,Female,49,Some college (no degree),Married,White,Democratic,Autumn
+P0066,Male,54,Bachelor's degree,Married,White,Democratic,Winter
+P0067,Female,48,"Graduate or professional degree (Masters, PhD, JD, MD, etc.)","In relationship, but not married",White,Independent,Summer
+P0068,Female,47,High school diploma or equivalent,Married,White,Democratic,Autumn
+P0069,Male,52,"Graduate or professional degree (Masters, PhD, JD, MD, etc.)",Married,White,Democratic,Autumn
+P0070,Female,59,High school diploma or equivalent,Married,White,Republican,Autumn
+P0071,Male,50,High school diploma or equivalent,"Single, never married",White,Democratic,Spring
+P0072,Male,48,Bachelor's degree,Married,White,Democratic,Autumn
+P0073,Female,56,Bachelor's degree,Married,White,Republican,Summer
+P0074,Male,56,"Graduate or professional degree (Masters, PhD, JD, MD, etc.)",Married,White,Democratic,Autumn
+P0075,Female,49,"Graduate or professional degree (Masters, PhD, JD, MD, etc.)",Divorced or separated,White,Republican,Summer
+P0076,Male,45,High school diploma or equivalent,"Single, never married",Hispanic or Latino/a/x,Democratic,Winter
+P0077,Female,45,High school diploma or equivalent,Married,White,Independent,Autumn
+P0078,Female,58,Bachelor's degree,Married,White,Independent,Autumn
+P0079,Male,62,"Graduate or professional degree (Masters, PhD, JD, MD, etc.)","Single, never married",White,Democratic,Spring
+P0080,Female,45,"Graduate or professional degree (Masters, PhD, JD, MD, etc.)",Married,White,Republican,Spring
+P0081,Female,48,Associate degree,Divorced or separated,"Hispanic or Latino/a/x,White",Independent,Summer
+P0082,Female,46,Associate degree,Married,White,Republican,Autumn
+P0083,Male,60,Some college (no degree),Married,White,Democratic,Autumn
+P0084,Male,49,Bachelor's degree,Divorced or separated,White,Libertarian,Autumn
+P0085,Female,54,High school diploma or equivalent,Married,White,Democratic,Spring
+P0086,Female,53,"Graduate or professional degree (Masters, PhD, JD, MD, etc.)","In relationship, but not married",White,Democratic,Autumn
+P0087,Female,47,High school diploma or equivalent,Married,White,Republican,Spring
+P0088,Male,53,Bachelor's degree,Married,Black or African American,Democratic,Winter
+P0089,Male,60,Bachelor's degree,"In relationship, but not married",White,Democratic,Autumn
+P0090,Female,51,Bachelor's degree,Married,Black or African American,Democratic,Summer
+P0091,Female,42,Some college (no degree),Married,White,Republican,Summer
+P0092,Female,50,Bachelor's degree,Divorced or separated,White,Republican,Summer
+P0093,Female,57,Some college (no degree),Married,White,Republican,Spring
+P0094,Male,58,Associate degree,Married,White,Republican,Autumn
+P0095,Female,55,Bachelor's degree,Married,White,Democratic,Autumn
+P0096,Female,54,Some college (no degree),Divorced or separated,White,Independent,Autumn
+P0097,Male,47,Associate degree,Married,White,Republican,Autumn
+P0098,Female,46,Associate degree,"Single, never married",White,Democratic,Winter
+P0099,Male,61,Associate degree,"Single, never married",Asian,Republican,Spring
+P0100,Female,58,High school diploma or equivalent,Widowed,White,Democratic,Spring
+P0101,Female,53,High school diploma or equivalent,"In relationship, but not married",Black or African American,Independent,Winter
+P0102,Female,63,Bachelor's degree,"Single, never married",White,Republican,Autumn
+P0103,Female,53,Associate degree,"In relationship, but not married",White,Independent,Autumn
+P0104,Male,48,Bachelor's degree,Married,White,Republican,Winter
+P0105,Female,48,Associate degree,"Single, never married",White,Democratic,Autumn
+P0106,Female,56,Bachelor's degree,Divorced or separated,White,Democratic,Autumn
+P0107,Female,46,Some college (no degree),Married,White,Independent,Spring
+P0108,Female,57,"Graduate or professional degree (Masters, PhD, JD, MD, etc.)",Divorced or separated,White,Republican,Autumn
+P0109,Female,54,Bachelor's degree,"In relationship, but not married",White,Democratic,Spring
+P0110,Female,50,Bachelor's degree,"Single, never married",White,Democratic,Winter
+P0111,Male,54,Some college (no degree),Divorced or separated,Black or African American,Democratic,Autumn
+P0112,Female,58,Some college (no degree),Married,White,Republican,Winter
+P0113,Male,53,Bachelor's degree,Married,White,Republican,Winter
+P0114,Male,57,Bachelor's degree,"Single, never married",White,Independent,Autumn
+P0115,Male,56,Bachelor's degree,Divorced or separated,White,Democratic,Autumn
+P0116,Female,49,Bachelor's degree,Widowed,"Hispanic or Latino/a/x,White",Republican,Autumn
+P0117,Female,46,Associate degree,Divorced or separated,Black or African American,Democratic,Autumn
+P0118,Male,61,High school diploma or equivalent,Married,White,Democratic,Summer
+P0119,Male,54,Some college (no degree),Married,White,Democratic,Summer
+P0120,Female,59,Associate degree,Married,White,Democratic,Autumn
+P0121,Female,54,Associate degree,Married,White,Independent,Autumn
+P0122,Male,49,Some college (no degree),Married,White,Independent,Autumn
+P0123,Female,61,Bachelor's degree,Divorced or separated,Black or African American,Democratic,Autumn
+P0124,Male,59,Bachelor's degree,Married,White,Democratic,Summer
+P0125,Female,53,Some college (no degree),Married,White,Republican,Spring
+P0126,Female,55,Some college (no degree),Married,White,Republican,Summer
+P0127,Female,45,Bachelor's degree,Married,White,Republican,Autumn
+P0128,Female,46,Bachelor's degree,"Single, never married",Hispanic or Latino/a/x,Democratic,Autumn
+P0129,Female,51,Associate degree,Married,White,Republican,Spring
+P0130,Female,57,Bachelor's degree,Married,White,Democratic,Spring
+P0131,Female,58,Associate degree,Married,White,Republican,Autumn
+P0132,Female,47,Some college (no degree),"Single, never married","Asian,White",Independent,Autumn
+P0133,Female,48,"Graduate or professional degree (Masters, PhD, JD, MD, etc.)",Married,White,Democratic,Summer
+P0134,Male,49,"Graduate or professional degree (Masters, PhD, JD, MD, etc.)",Divorced or separated,White,Independent,Autumn
+P0135,Female,51,Associate degree,Married,White,Democratic,Autumn
+P0136,Female,59,High school diploma or equivalent,Divorced or separated,White,Republican,Autumn
+P0137,Male,52,High school diploma or equivalent,Married,White,Republican,Winter
+P0138,Female,58,Some college (no degree),Widowed,White,Democratic,Spring
+P0139,Male,62,Bachelor's degree,Divorced or separated,White,Independent,Autumn
+P0140,Female,60,Some college (no degree),"In relationship, but not married",White,Independent,Summer
+P0141,Male,52,Some college (no degree),"Single, never married",White,Independent,Summer
+P0142,Female,64,Associate degree,Married,White,Republican,Autumn
+P0143,Female,64,Bachelor's degree,Divorced or separated,White,Independent,Spring
+P0144,Female,50,Some college (no degree),"Single, never married",White,Democratic,Autumn
+P0145,Female,55,Associate degree,Widowed,White,Independent,Autumn
+P0146,Female,62,High school diploma or equivalent,Widowed,White,Republican,Autumn
+P0147,Female,49,Associate degree,"Single, never married",White,Republican,Autumn
+P0148,Male,63,Bachelor's degree,Married,White,Republican,Summer
+P0149,Female,50,Bachelor's degree,Married,White,Republican,Autumn
+P0150,Male,63,"Graduate or professional degree (Masters, PhD, JD, MD, etc.)",Divorced or separated,White,Democratic,Spring
+P0151,Female,47,Some college (no degree),Divorced or separated,White,Democratic,Autumn
+P0152,Female,53,Bachelor's degree,"In relationship, but not married",White,Democratic,Autumn
+P0153,Male,50,Bachelor's degree,Married,Asian,Democratic,Spring
+P0154,Male,49,Bachelor's degree,"In relationship, but not married",White,Democratic,Summer
+P0155,Female,52,High school diploma or equivalent,Married,White,Democratic,Autumn
+P0156,Male,46,Bachelor's degree,Married,White,Democratic,Autumn
+P0157,Male,52,Bachelor's degree,Married,White,Republican,Autumn
+P0158,Female,49,"Graduate or professional degree (Masters, PhD, JD, MD, etc.)",Married,White,Republican,Winter
+P0159,Female,46,Bachelor's degree,"In relationship, but not married",Asian,Independent,Summer
+P0160,Female,47,High school diploma or equivalent,Married,White,Democratic,Summer
+P0161,Male,46,Bachelor's degree,"Single, never married",White,Green Party,Summer
+P0162,Male,51,Bachelor's degree,Married,White,Independent,Autumn
+P0163,Female,46,High school diploma or equivalent,"In relationship, but not married",White,Republican,Autumn
+P0164,Male,55,Some college (no degree),Divorced or separated,White,Independent,Autumn
+P0165,Female,50,Bachelor's degree,Married,Asian,Republican,Summer
+P0166,Male,60,Some college (no degree),Married,White,Republican,Autumn
+P0167,Female,60,Bachelor's degree,Married,White,Democratic,Winter
+P0168,Female,49,Some college (no degree),Married,White,Independent,Autumn
+P0169,Male,48,Bachelor's degree,Married,Asian,Independent,Autumn
+P0170,Female,57,High school diploma or equivalent,Married,White,Republican,Autumn
+P0171,Female,51,Associate degree,"In relationship, but not married",White,Democratic,Spring
+P0172,Female,57,Bachelor's degree,"Single, never married",White,Republican,Spring
+P0173,Female,54,Associate degree,Married,White,Republican,Autumn
+P0174,Female,50,Bachelor's degree,"Single, never married",White,Democratic,Autumn
+P0175,Female,55,Some college (no degree),Divorced or separated,Black or African American,Independent,Autumn
+P0176,Male,48,"Graduate or professional degree (Masters, PhD, JD, MD, etc.)",Married,White,Independent,Spring
+P0177,Female,45,"Graduate or professional degree (Masters, PhD, JD, MD, etc.)",Married,White,Democratic,Spring
+P0178,Male,48,Bachelor's degree,"In relationship, but not married",Black or African American,Democratic,Winter
+P0179,Male,53,Bachelor's degree,"Single, never married",White,Democratic,Spring
+P0180,Female,49,High school diploma or equivalent,Married,White,Democratic,Autumn
+P0181,Female,62,High school diploma or equivalent,"Single, never married",White,Democratic,Spring
+P0182,Male,48,"Graduate or professional degree (Masters, PhD, JD, MD, etc.)",Married,Asian,Democratic,Spring
+P0183,Male,48,Bachelor's degree,Married,White,Republican,Spring
+P0184,Female,55,Bachelor's degree,Divorced or separated,White,Democratic,Autumn
+P0185,Female,51,Bachelor's degree,Married,White,Democratic,Autumn
+P0186,Male,47,Bachelor's degree,"In relationship, but not married",White,Republican,Summer
+P0187,Male,57,Bachelor's degree,Divorced or separated,White,Independent,Autumn
+P0188,Female,49,Bachelor's degree,Married,Asian,Republican,Autumn
+P0189,Female,48,High school diploma or equivalent,Divorced or separated,Black or African American,Democratic,Autumn
+P0190,Female,58,"Graduate or professional degree (Masters, PhD, JD, MD, etc.)",Divorced or separated,White,Independent,Spring
+P0191,Female,45,Bachelor's degree,Married,White,Republican,Autumn
+P0192,Female,44,Bachelor's degree,"In relationship, but not married",Black or African American,Republican,Spring
+P0193,Female,64,Bachelor's degree,"Single, never married",Black or African American,Democratic,Spring
+P0194,Female,52,High school diploma or equivalent,Married,White,Independent,Autumn
+P0195,Female,64,Some college (no degree),Divorced or separated,White,Republican,Winter
+P0196,Female,58,"Graduate or professional degree (Masters, PhD, JD, MD, etc.)",Married,White,Democratic,Autumn
+P0197,Female,47,High school diploma or equivalent,"In relationship, but not married",White,Democratic,Spring
+P0198,Male,50,Bachelor's degree,Divorced or separated,Black or African American,Democratic,Spring
+P0199,Female,60,"Graduate or professional degree (Masters, PhD, JD, MD, etc.)",Married,White,Democratic,Autumn
+P0200,Female,47,Bachelor's degree,"In relationship, but not married",White,Democratic,Autumn
+P0201,Male,53,"Graduate or professional degree (Masters, PhD, JD, MD, etc.)",Married,White,Democratic,Autumn
+P0202,Female,54,Bachelor's degree,Divorced or separated,White,Republican,Autumn
+P0203,Male,51,Bachelor's degree,"In relationship, but not married",Asian,Democratic,Autumn
+P0204,Male,51,Some college (no degree),Married,White,Libertarian,Autumn
+P0205,Male,58,High school diploma or equivalent,"Single, never married",White,Independent,Autumn
+P0206,Female,46,"Graduate or professional degree (Masters, PhD, JD, MD, etc.)",Divorced or separated,White,Democratic,Summer
+P0207,Female,57,"Graduate or professional degree (Masters, PhD, JD, MD, etc.)",Married,White,Republican,Winter
+P0208,Female,44,"Graduate or professional degree (Masters, PhD, JD, MD, etc.)",Married,White,Democratic,Summer
+P0209,Female,51,Bachelor's degree,Married,White,Republican,Summer
+P0210,Male,54,"Graduate or professional degree (Masters, PhD, JD, MD, etc.)",Married,White,Democratic,Autumn
+P0211,Male,50,Some college (no degree),Married,White,Independent,Autumn
+P0212,Female,50,"Graduate or professional degree (Masters, PhD, JD, MD, etc.)","In relationship, but not married",White,Independent,Summer
+P0213,Female,47,"Graduate or professional degree (Masters, PhD, JD, MD, etc.)","In relationship, but not married",White,Democratic,Spring
+P0214,Female,53,Associate degree,Divorced or separated,White,Democratic,Summer
+P0215,Male,46,"Graduate or professional degree (Masters, PhD, JD, MD, etc.)",Married,White,Democratic,Spring
+P0216,Female,47,Bachelor's degree,Married,White,Democratic,Autumn
+P0217,Female,45,Some college (no degree),"Single, never married",White,Democratic,Autumn
+P0218,Male,50,Bachelor's degree,Married,White,Democratic,Autumn
+P0219,Female,57,Bachelor's degree,"In relationship, but not married","Middle Eastern or North African,White",Green Party,Summer
+P0220,Male,49,Bachelor's degree,Married,White,Republican,Spring
+P0221,Female,54,Associate degree,Widowed,Black or African American,Democratic,Autumn
+P0222,Male,56,Bachelor's degree,"Single, never married","Middle Eastern or North African,White",Independent,Summer
+P0223,Male,45,"Graduate or professional degree (Masters, PhD, JD, MD, etc.)",Married,Asian,Republican,Autumn
+P0224,Female,46,Some college (no degree),"In relationship, but not married",White,Democratic,Winter
+P0225,Female,45,Associate degree,"Single, never married",Hispanic or Latino/a/x,Democratic,Summer
+P0226,Female,49,"Graduate or professional degree (Masters, PhD, JD, MD, etc.)",Married,White,Independent,Spring
+P0227,Male,45,"Graduate or professional degree (Masters, PhD, JD, MD, etc.)",Married,White,Democratic,Autumn
+P0228,Female,63,High school diploma or equivalent,Widowed,White,Prefer not to say,Autumn
+P0229,Female,30,Associate degree,"In relationship, but not married",Black or African American,Democratic,Summer
+P0230,Male,54,Bachelor's degree,Married,White,Democratic,Winter
+P0231,Male,54,Some college (no degree),"Single, never married",White,Republican,Autumn
+P0232,Female,48,Bachelor's degree,Married,White,Democratic,Winter
+P0233,Male,52,Bachelor's degree,"Single, never married",Black or African American,Democratic,Summer
+P0234,Male,50,Bachelor's degree,Married,White,Democratic,Autumn
+P0235,Female,45,Bachelor's degree,Married,White,Democratic,Summer
+P0236,Male,48,"Graduate or professional degree (Masters, PhD, JD, MD, etc.)",Married,White,Prefer not to say,Spring
+P0237,Female,63,"Graduate or professional degree (Masters, PhD, JD, MD, etc.)",Married,"Hispanic or Latino/a/x,White",Republican,Winter
+P0238,Female,61,Bachelor's degree,Married,White,Republican,Autumn
+P0239,Male,46,Associate degree,Married,White,Democratic,Autumn
+P0240,Male,48,Bachelor's degree,"Single, never married",White,Independent,Winter
+P0241,Female,25,Bachelor's degree,"In relationship, but not married","Asian,Hispanic or Latino/a/x",Democratic,Autumn
+P0242,Male,29,High school diploma or equivalent,Married,White,Independent,Autumn
+P0243,Male,33,Bachelor's degree,"Single, never married",White,Democratic,Autumn
+P0244,Male,37,Some college (no degree),Married,White,Democratic,Spring
+P0245,Female,42,Bachelor's degree,Married,"Hispanic or Latino/a/x,White",Democratic,Autumn
+P0246,Male,43,High school diploma or equivalent,"Single, never married",Asian,Republican,Summer
+P0247,Female,25,Bachelor's degree,"In relationship, but not married",White,Democratic,Summer
+P0248,Female,26,Associate degree,"In relationship, but not married",White,Democratic,Autumn
+P0249,Female,36,High school diploma or equivalent,"Single, never married",White,Democratic,Summer
+P0250,Male,32,Associate degree,"Single, never married",White,Independent,Autumn
+P0251,Male,31,Bachelor's degree,Married,White,Republican,Autumn
+P0252,Male,34,High school diploma or equivalent,"In relationship, but not married",Hispanic or Latino/a/x,Democratic,Winter
+P0253,Female,42,"Graduate or professional degree (Masters, PhD, JD, MD, etc.)","In relationship, but not married",White,Independent,Autumn
+P0254,Male,21,Some college (no degree),"Single, never married",White,Independent,Autumn
+P0255,Male,36,"Graduate or professional degree (Masters, PhD, JD, MD, etc.)","In relationship, but not married",White,Democratic,Winter
+P0256,Male,39,"Graduate or professional degree (Masters, PhD, JD, MD, etc.)",Married,White,Independent,Autumn
+P0257,Female,26,Some college (no degree),Married,White,Independent,Autumn
+P0258,Male,33,Some college (no degree),"Single, never married",White,Independent,Autumn
+P0259,Male,37,Some college (no degree),Married,Asian,Independent,Winter
+P0260,Male,32,Associate degree,"In relationship, but not married",White,Democratic,Autumn
+P0261,Male,34,"Graduate or professional degree (Masters, PhD, JD, MD, etc.)",Married,White,Democratic,Spring
+P0262,Female,24,Bachelor's degree,"In relationship, but not married","Asian,Hispanic or Latino/a/x",Democratic,Autumn
+P0263,Male,38,"Graduate or professional degree (Masters, PhD, JD, MD, etc.)",Married,White,Republican,Autumn
+P0264,Female,26,High school diploma or equivalent,"Single, never married","Hispanic or Latino/a/x,White",Democratic,Winter
+P0265,Female,38,Some college (no degree),"In relationship, but not married",White,Independent,Spring
+P0266,Male,29,Associate degree,"In relationship, but not married",Asian,Independent,Spring
+P0267,Female,28,"Graduate or professional degree (Masters, PhD, JD, MD, etc.)","In relationship, but not married",White,Democratic,Autumn
+P0268,Male,34,Bachelor's degree,"Single, never married",White,Democratic,Autumn
+P0269,Female,38,"Graduate or professional degree (Masters, PhD, JD, MD, etc.)",Married,White,Democratic,Summer
+P0270,Female,22,Bachelor's degree,"Single, never married",White,Independent,Summer
+P0271,Male,27,"Graduate or professional degree (Masters, PhD, JD, MD, etc.)","In relationship, but not married",Asian,Independent,Autumn
+P0272,Female,36,Bachelor's degree,Married,White,Republican,Autumn
+P0273,Male,22,Bachelor's degree,"In relationship, but not married",White,Independent,Winter
+P0274,Female,32,"Graduate or professional degree (Masters, PhD, JD, MD, etc.)",Married,White,Democratic,Winter
+P0275,Male,40,"Graduate or professional degree (Masters, PhD, JD, MD, etc.)",Married,White,Republican,Autumn
+P0276,Female,24,High school diploma or equivalent,"Single, never married",White,Independent,Autumn
+P0277,Male,28,High school diploma or equivalent,Married,Black or African American,Independent,Winter
+P0278,Male,34,High school diploma or equivalent,Married,White,Republican,Autumn
+P0279,Male,36,Some college (no degree),"In relationship, but not married",White,Independent,Autumn
+P0280,Male,32,"Graduate or professional degree (Masters, PhD, JD, MD, etc.)",Married,White,Democratic,Autumn
+P0281,Male,44,Some college (no degree),Married,"Hispanic or Latino/a/x,White",Republican,Autumn
+P0282,Male,37,Less than high school,"Single, never married",Hispanic or Latino/a/x,Independent,Summer
+P0283,Male,42,Associate degree,Married,White,Republican,Summer
+P0284,Male,30,Bachelor's degree,Married,Black or African American,Democratic,Summer
+P0285,Female,28,"Graduate or professional degree (Masters, PhD, JD, MD, etc.)","In relationship, but not married","Hispanic or Latino/a/x,White",Democratic,Spring
+P0286,Female,43,"Graduate or professional degree (Masters, PhD, JD, MD, etc.)",Married,White,Democratic,Winter
+P0287,Male,39,"Graduate or professional degree (Masters, PhD, JD, MD, etc.)","Single, never married",Asian,Democratic,Summer
+P0288,Female,30,High school diploma or equivalent,"In relationship, but not married",White,Independent,Autumn
+P0289,Male,37,Bachelor's degree,"In relationship, but not married",Asian,Republican,Autumn
+P0290,Female,42,"Graduate or professional degree (Masters, PhD, JD, MD, etc.)","In relationship, but not married",White,Democratic,Spring
+P0291,Female,29,High school diploma or equivalent,Married,White,Republican,Summer
+P0292,Male,35,Bachelor's degree,"In relationship, but not married",White,Independent,Autumn
+P0293,Female,29,Bachelor's degree,Married,Asian,Democratic,Autumn
+P0294,Female,36,"Graduate or professional degree (Masters, PhD, JD, MD, etc.)",Married,White,Democratic,Autumn
+P0295,Male,35,Bachelor's degree,Married,White,Independent,Autumn
+P0296,Female,31,High school diploma or equivalent,"In relationship, but not married",White,Independent,Autumn
+P0297,Male,27,Some college (no degree),"Single, never married","Hispanic or Latino/a/x,White",Democratic,Winter
+P0298,Male,37,High school diploma or equivalent,"In relationship, but not married","Asian,Hispanic or Latino/a/x",Democratic,Spring
+P0299,Male,26,Some college (no degree),"Single, never married",Black or African American,Independent,Spring
+P0300,Male,44,Associate degree,Married,White,Independent,Spring
+P0301,Male,32,Bachelor's degree,Married,Asian,Independent,Spring
+P0302,Male,37,Some college (no degree),"Single, never married",Asian,Democratic,Winter
+P0303,Male,29,Bachelor's degree,"In relationship, but not married",Hispanic or Latino/a/x,Democratic,Summer
+P0304,Male,32,"Graduate or professional degree (Masters, PhD, JD, MD, etc.)",Married,White,Republican,Autumn
+P0305,Female,32,"Graduate or professional degree (Masters, PhD, JD, MD, etc.)",Married,White,Democratic,Autumn
+P0306,Male,41,"Graduate or professional degree (Masters, PhD, JD, MD, etc.)",Married,White,Democratic,Spring
+P0307,Male,42,Some college (no degree),Married,White,Republican,Summer
+P0308,Male,39,High school diploma or equivalent,"Single, never married",White,Democratic,Autumn
+P0309,Male,39,Bachelor's degree,Married,White,Democratic,Autumn
+P0310,Male,27,"Graduate or professional degree (Masters, PhD, JD, MD, etc.)","In relationship, but not married",White,Independent,Autumn
+P0311,Female,35,Bachelor's degree,Married,White,Democratic,Winter
+P0312,Male,28,High school diploma or equivalent,"Single, never married",White,Independent,Summer
+P0313,Male,31,"Graduate or professional degree (Masters, PhD, JD, MD, etc.)","In relationship, but not married",White,Democratic,Autumn
+P0314,Male,41,"Graduate or professional degree (Masters, PhD, JD, MD, etc.)",Married,White,Democratic,Autumn
+P0315,Male,31,Some college (no degree),"In relationship, but not married",White,Democratic,Autumn
+P0316,Male,37,"Graduate or professional degree (Masters, PhD, JD, MD, etc.)","Single, never married",White,Independent,Autumn
+P0317,Male,19,Less than high school,"Single, never married",White,Independent,Autumn
+P0318,Female,34,"Graduate or professional degree (Masters, PhD, JD, MD, etc.)","In relationship, but not married",White,Democratic,Summer
+P0319,Male,23,High school diploma or equivalent,"Single, never married",White,Independent,Winter
+P0320,Male,34,Less than high school,"Single, never married",White,Democratic,Autumn
+P0321,Female,44,"Graduate or professional degree (Masters, PhD, JD, MD, etc.)",Divorced or separated,White,Republican,Spring
+P0322,Male,29,High school diploma or equivalent,"In relationship, but not married",White,Democratic,Autumn
+P0323,Female,43,High school diploma or equivalent,Married,White,Democratic,Summer
+P0324,Male,38,Bachelor's degree,Married,White,Independent,Autumn
+P0325,Male,37,Bachelor's degree,Married,White,Democratic,Summer
+P0326,Male,40,Bachelor's degree,Married,White,Democratic,Summer
+P0327,Female,37,"Graduate or professional degree (Masters, PhD, JD, MD, etc.)","In relationship, but not married","Middle Eastern or North African,White",Democratic,Summer
+P0328,Female,32,"Graduate or professional degree (Masters, PhD, JD, MD, etc.)","Single, never married",Black or African American,Democratic,Autumn
+P0329,Female,34,High school diploma or equivalent,Married,White,Republican,Autumn
+P0330,Female,29,High school diploma or equivalent,"Single, never married","Hispanic or Latino/a/x,White",Democratic,Summer
+P0331,Female,27,"Graduate or professional degree (Masters, PhD, JD, MD, etc.)","In relationship, but not married",Black or African American,Republican,Summer
+P0332,Male,38,High school diploma or equivalent,Divorced or separated,White,Independent,Autumn
+P0333,Female,34,"Graduate or professional degree (Masters, PhD, JD, MD, etc.)","Single, never married",Asian,Independent,Summer
+P0334,Female,26,High school diploma or equivalent,"In relationship, but not married",White,Republican,Autumn
+P0335,Female,42,"Graduate or professional degree (Masters, PhD, JD, MD, etc.)",Married,White,Democratic,Spring
+P0336,Female,28,Some college (no degree),Married,White,Republican,Autumn
+P0337,Female,40,"Graduate or professional degree (Masters, PhD, JD, MD, etc.)",Married,Hispanic or Latino/a/x,Independent,Winter
+P0338,Male,21,High school diploma or equivalent,"Single, never married",White,Democratic,Autumn
+P0339,Female,41,"Graduate or professional degree (Masters, PhD, JD, MD, etc.)",Married,White,Democratic,Spring
+P0340,Male,31,Bachelor's degree,"Single, never married",Asian,Democratic,Winter
+P0341,Female,28,Bachelor's degree,Married,Black or African American,Republican,Winter
+P0342,Male,37,"Graduate or professional degree (Masters, PhD, JD, MD, etc.)",Married,Asian,Democratic,Winter
+P0343,Male,31,"Graduate or professional degree (Masters, PhD, JD, MD, etc.)",Married,White,Democratic,Autumn
+P0344,Female,22,Bachelor's degree,"In relationship, but not married",White,Democratic,Autumn
+P0345,Male,31,High school diploma or equivalent,"In relationship, but not married",White,Independent,Summer
+P0346,Female,42,"Graduate or professional degree (Masters, PhD, JD, MD, etc.)",Married,White,Democratic,Summer
+P0347,Male,40,Associate degree,Married,White,Republican,Spring
+P0348,Female,34,High school diploma or equivalent,"In relationship, but not married",White,Democratic,Autumn
+P0349,Male,35,"Graduate or professional degree (Masters, PhD, JD, MD, etc.)",Married,White,Democratic,Autumn
+P0350,Male,34,"Graduate or professional degree (Masters, PhD, JD, MD, etc.)",Married,White,Democratic,Autumn
+P0351,Female,25,Bachelor's degree,"Single, never married",Hispanic or Latino/a/x,Independent,Winter
+P0352,Male,32,"Graduate or professional degree (Masters, PhD, JD, MD, etc.)","Single, never married",Asian,Independent,Autumn
+P0353,Female,37,Some college (no degree),Married,Black or African American,Democratic,Summer
+P0354,Male,37,"Graduate or professional degree (Masters, PhD, JD, MD, etc.)",Married,White,Republican,Summer
+P0355,Female,37,Associate degree,Married,White,Democratic,Autumn
+P0356,Male,24,High school diploma or equivalent,"Single, never married",White,Democratic,Winter
+P0357,Male,33,"Graduate or professional degree (Masters, PhD, JD, MD, etc.)","Single, never married",White,Democratic,Spring
+P0358,Male,23,High school diploma or equivalent,"Single, never married",White,Republican,Autumn
+P0359,Female,27,Bachelor's degree,Married,Black or African American,Democratic,Summer
+P0360,Female,41,"Graduate or professional degree (Masters, PhD, JD, MD, etc.)",Married,Black or African American,Democratic,Autumn
+P0361,Female,32,"Graduate or professional degree (Masters, PhD, JD, MD, etc.)","Single, never married",White,Democratic,Autumn
+P0362,Male,27,Bachelor's degree,Married,Asian,Independent,Autumn
+P0363,Male,34,High school diploma or equivalent,"Single, never married",White,Democratic,Autumn
+P0364,Male,40,"Graduate or professional degree (Masters, PhD, JD, MD, etc.)","Single, never married",White,Democratic,Winter
+P0365,Female,40,"Graduate or professional degree (Masters, PhD, JD, MD, etc.)",Married,White,Republican,Autumn
+P0366,Male,27,High school diploma or equivalent,"In relationship, but not married","Asian,White",Republican,Winter
+P0367,Female,33,"Graduate or professional degree (Masters, PhD, JD, MD, etc.)",Married,White,Prefer not to say,Summer
+P0368,Male,21,High school diploma or equivalent,"Single, never married",White,Democratic,Autumn
+P0369,Female,28,Bachelor's degree,Married,White,Republican,Summer
+P0370,Female,35,"Graduate or professional degree (Masters, PhD, JD, MD, etc.)",Married,White,Republican,Autumn
+P0371,Female,41,"Graduate or professional degree (Masters, PhD, JD, MD, etc.)",Married,Asian,Republican,Autumn
+P0372,Male,36,"Graduate or professional degree (Masters, PhD, JD, MD, etc.)","Single, never married",Asian,Democratic,Summer
+P0373,Male,43,"Graduate or professional degree (Masters, PhD, JD, MD, etc.)",Married,White,Republican,Summer
+P0374,Male,34,High school diploma or equivalent,"In relationship, but not married",White,Democratic,Autumn
+P0375,Female,35,"Graduate or professional degree (Masters, PhD, JD, MD, etc.)","Single, never married",Hispanic or Latino/a/x,Prefer not to say,Autumn
+P0376,Male,35,"Graduate or professional degree (Masters, PhD, JD, MD, etc.)",Married,Hispanic or Latino/a/x,Democratic,Autumn
+P0377,Male,41,"Graduate or professional degree (Masters, PhD, JD, MD, etc.)",Married,White,Democratic,Autumn
+P0378,Female,40,"Graduate or professional degree (Masters, PhD, JD, MD, etc.)","In relationship, but not married",White,Democratic,Summer
+P0379,Female,30,Associate degree,"In relationship, but not married",Black or African American,Democratic,Summer
+P0380,Male,42,High school diploma or equivalent,"In relationship, but not married",White,Independent,Autumn
+P0381,Male,21,Some college (no degree),"In relationship, but not married",Hispanic or Latino/a/x,Republican,Winter
+P0382,Male,37,"Graduate or professional degree (Masters, PhD, JD, MD, etc.)","Single, never married",White,Republican,Spring
+P0383,Prefer not to say,32,Bachelor's degree,"Single, never married",Prefer not to say,Prefer not to say,Spring
+P0384,Male,40,Some college (no degree),Divorced or separated,White,Republican,Autumn
+P0385,Female,32,"Graduate or professional degree (Masters, PhD, JD, MD, etc.)","In relationship, but not married","Hispanic or Latino/a/x,White",Democratic,Autumn
+P0386,Male,35,Bachelor's degree,"In relationship, but not married",White,Democratic,Autumn
+P0387,Female,40,High school diploma or equivalent,Married,White,Independent,Spring
+P0388,Female,44,"Graduate or professional degree (Masters, PhD, JD, MD, etc.)",Married,White,Democratic,Summer
+P0389,Female,29,Bachelor's degree,"Single, never married",White,Democratic,Autumn
+P0390,Male,42,High school diploma or equivalent,"In relationship, but not married",White,Independent,Autumn
+P0391,Male,38,Some college (no degree),"Single, never married",Hispanic or Latino/a/x,Democratic,Autumn
+P0392,Male,39,Associate degree,"Single, never married",White,Democratic,Autumn
+P0393,Female,32,"Graduate or professional degree (Masters, PhD, JD, MD, etc.)","Single, never married",Asian,Independent,Spring
+P0394,Female,32,"Graduate or professional degree (Masters, PhD, JD, MD, etc.)","Single, never married",White,Democratic,Autumn
+P0395,Female,40,Bachelor's degree,Married,White,Democratic,Spring
+P0396,Male,40,"Graduate or professional degree (Masters, PhD, JD, MD, etc.)",Married,White,Democratic,Autumn
+P0397,Male,39,High school diploma or equivalent,Married,White,Independent,Spring
+P0398,Female,40,"Graduate or professional degree (Masters, PhD, JD, MD, etc.)",Married,White,Democratic,Autumn
+P0399,Female,31,High school diploma or equivalent,"Single, never married",White,Independent,Spring
+P0400,Female,42,"Graduate or professional degree (Masters, PhD, JD, MD, etc.)",Married,White,Democratic,Autumn
+P0401,Female,25,"Graduate or professional degree (Masters, PhD, JD, MD, etc.)","In relationship, but not married",White,Independent,Autumn
+P0402,Female,37,"Graduate or professional degree (Masters, PhD, JD, MD, etc.)",Married,White,Democratic,Summer
+P0403,Male,20,Bachelor's degree,"In relationship, but not married",White,Democratic,Winter
+P0404,Female,30,"Graduate or professional degree (Masters, PhD, JD, MD, etc.)","In relationship, but not married",Hispanic or Latino/a/x,Democratic,Autumn
+P0405,Female,26,High school diploma or equivalent,"Single, never married","Black or African American,White",Democratic,Autumn
+P0406,Female,28,Some college (no degree),"In relationship, but not married",Black or African American,Democratic,Winter
+P0407,Female,37,High school diploma or equivalent,"In relationship, but not married",Black or African American,Democratic,Winter
+P0408,Male,32,High school diploma or equivalent,"Single, never married",White,Republican,Autumn
+P0409,Male,35,"Graduate or professional degree (Masters, PhD, JD, MD, etc.)",Married,White,Democratic,Winter
+P0410,Female,27,"Graduate or professional degree (Masters, PhD, JD, MD, etc.)","In relationship, but not married",White,Green Party,Autumn
+P0411,Female,27,High school diploma or equivalent,"In relationship, but not married",White,Independent,Spring
+P0412,Male,36,Bachelor's degree,"In relationship, but not married",White,Democratic,Winter
+P0413,Female,40,High school diploma or equivalent,Married,White,Democratic,Autumn
+P0414,Female,26,Bachelor's degree,Married,Black or African American,Democratic,Summer
+P0415,Male,34,Bachelor's degree,Married,Black or African American,Democratic,Summer
+P0416,Male,40,Bachelor's degree,"In relationship, but not married",White,Democratic,Spring
+P0417,Female,24,Bachelor's degree,Married,"Black or African American,White",Democratic,Summer
+P0418,Male,34,High school diploma or equivalent,"Single, never married","Native American or Alaska Native,White",Democratic,Autumn
+P0419,Male,37,"Graduate or professional degree (Masters, PhD, JD, MD, etc.)","Single, never married","Middle Eastern or North African,White",Democratic,Autumn
+P0420,Male,33,Bachelor's degree,"In relationship, but not married",Hispanic or Latino/a/x,Democratic,Autumn
+P0421,Male,40,High school diploma or equivalent,"Single, never married",White,Independent,Spring
+P0422,Male,42,High school diploma or equivalent,"In relationship, but not married","Native American or Alaska Native,White",Republican,Autumn
+P0423,Female,22,High school diploma or equivalent,"In relationship, but not married",Black or African American,Prefer not to say,Summer
+P0424,Female,40,"Graduate or professional degree (Masters, PhD, JD, MD, etc.)",Married,White,Democratic,Autumn
+P0425,Male,38,"Graduate or professional degree (Masters, PhD, JD, MD, etc.)",Married,White,Republican,Winter
+P0426,Female,34,High school diploma or equivalent,"In relationship, but not married",White,Republican,Autumn
+P0427,Female,28,High school diploma or equivalent,"Single, never married",Black or African American,Democratic,Spring
+P0428,Female,42,Some college (no degree),Married,White,Prefer not to say,Winter
+P0429,Male,35,Associate degree,"Single, never married",Black or African American,Democratic,Autumn
+P0430,Male,33,High school diploma or equivalent,"Single, never married","Hispanic or Latino/a/x,White",Republican,Summer
+P0431,Female,38,Bachelor's degree,Married,Asian,Democratic,Autumn
+P0432,Female,31,"Graduate or professional degree (Masters, PhD, JD, MD, etc.)",Married,White,Prefer not to say,Autumn
+P0433,Male,39,High school diploma or equivalent,"In relationship, but not married",White,Republican,Summer
+P0434,Female,27,"Graduate or professional degree (Masters, PhD, JD, MD, etc.)","Single, never married",White,Democratic,Autumn
+P0435,Female,43,High school diploma or equivalent,"In relationship, but not married",White,Republican,Spring
+P0436,Male,33,"Graduate or professional degree (Masters, PhD, JD, MD, etc.)","In relationship, but not married","Hispanic or Latino/a/x,White",Democratic,Summer
+P0437,Female,37,Some college (no degree),Married,White,Democratic,Autumn
+P0438,Female,38,"Graduate or professional degree (Masters, PhD, JD, MD, etc.)",Married,White,Republican,Summer
+P0439,Female,41,"Graduate or professional degree (Masters, PhD, JD, MD, etc.)","Single, never married",White,Democratic,Summer
+P0440,Male,31,"Graduate or professional degree (Masters, PhD, JD, MD, etc.)",Married,White,Independent,Spring
+P0441,Male,29,"Graduate or professional degree (Masters, PhD, JD, MD, etc.)",Married,White,Republican,Summer
+P0442,Female,41,"Graduate or professional degree (Masters, PhD, JD, MD, etc.)",Divorced or separated,White,Democratic,Autumn
+P0443,Female,32,Bachelor's degree,Married,White,Democratic,Autumn
+P0444,Male,39,"Graduate or professional degree (Masters, PhD, JD, MD, etc.)",Married,Asian,Republican,Summer
+P0445,Female,30,Some college (no degree),Married,White,Independent,Summer
+P0446,Male,39,"Graduate or professional degree (Masters, PhD, JD, MD, etc.)",Married,"Native American or Alaska Native,White",Independent,Autumn
+P0447,Male,34,"Graduate or professional degree (Masters, PhD, JD, MD, etc.)",Married,White,Democratic,Spring
+P0448,Female,22,High school diploma or equivalent,"Single, never married",Black or African American,Republican,Summer
+P0449,Male,35,High school diploma or equivalent,"Single, never married",White,Independent,Summer
+P0450,Male,39,"Graduate or professional degree (Masters, PhD, JD, MD, etc.)",Married,White,Democratic,Autumn
+P0451,Female,37,High school diploma or equivalent,Married,White,Democratic,Autumn
+P0452,Male,39,"Graduate or professional degree (Masters, PhD, JD, MD, etc.)",Married,White,Democratic,Autumn
+P0453,Female,36,Bachelor's degree,"Single, never married",White,Democratic,Autumn
+P0454,Male,35,High school diploma or equivalent,"Single, never married",White,Democratic,Autumn
+P0455,Female,44,"Graduate or professional degree (Masters, PhD, JD, MD, etc.)",Divorced or separated,White,Independent,Summer
+P0456,Male,41,High school diploma or equivalent,"In relationship, but not married",White,Prefer not to say,Winter
+P0457,Male,38,"Graduate or professional degree (Masters, PhD, JD, MD, etc.)","Single, never married",White,Democratic,Winter
+P0458,Female,27,High school diploma or equivalent,"In relationship, but not married",White,Republican,Autumn
+P0459,Female,24,Bachelor's degree,"In relationship, but not married",Black or African American,Republican,Winter
+P0460,Female,40,"Graduate or professional degree (Masters, PhD, JD, MD, etc.)",Married,Prefer not to say,Independent,Summer
+P0461,Female,33,Bachelor's degree,Married,White,Republican,Winter
+P0462,Male,28,High school diploma or equivalent,Widowed,White,Independent,Spring
+P0463,Male,28,"Graduate or professional degree (Masters, PhD, JD, MD, etc.)",Married,Black or African American,Democratic,Summer
+P0464,Male,35,Associate degree,Married,White,Democratic,Autumn
+P0465,Male,35,"Graduate or professional degree (Masters, PhD, JD, MD, etc.)",Married,White,Democratic,Winter
+P0466,Male,23,Less than high school,"Single, never married",Black or African American,Independent,Summer
+P0467,Male,38,"Graduate or professional degree (Masters, PhD, JD, MD, etc.)",Divorced or separated,White,Democratic,Spring
+P0468,Male,23,Bachelor's degree,"Single, never married",White,Republican,Winter
+P0469,Male,39,Bachelor's degree,Married,White,Republican,Summer
+P0470,Female,29,Bachelor's degree,Married,White,Republican,Spring
+P0471,Female,41,"Graduate or professional degree (Masters, PhD, JD, MD, etc.)",Married,White,Independent,Summer
+P0472,Male,44,Bachelor's degree,"Single, never married",White,Democratic,Autumn
+P0473,Female,41,Bachelor's degree,Married,Black or African American,Democratic,Winter
+P0474,Female,31,"Graduate or professional degree (Masters, PhD, JD, MD, etc.)",Married,White,Democratic,Summer
+P0475,Female,37,"Graduate or professional degree (Masters, PhD, JD, MD, etc.)",Married,"Middle Eastern or North African,White",Green Party,Spring
+P0476,Female,27,High school diploma or equivalent,Married,Hispanic or Latino/a/x,Republican,Autumn
+P0477,Female,37,High school diploma or equivalent,"In relationship, but not married","Native American or Alaska Native,White",Republican,Summer
+P0478,Male,42,"Graduate or professional degree (Masters, PhD, JD, MD, etc.)",Married,White,Democratic,Summer
+P0479,Female,27,"Graduate or professional degree (Masters, PhD, JD, MD, etc.)",Married,Black or African American,Independent,Summer
+P0480,Male,40,"Graduate or professional degree (Masters, PhD, JD, MD, etc.)",Married,White,Independent,Autumn
+P0481,Male,21,Some college (no degree),"Single, never married",Black or African American,Democratic,Autumn
+P0482,Male,38,High school diploma or equivalent,"Single, never married",Black or African American,Democratic,Autumn
+P0483,Male,38,Bachelor's degree,Married,Black or African American,Republican,Autumn
+P0484,Female,37,High school diploma or equivalent,"In relationship, but not married",White,Independent,Autumn
+P0485,Female,22,Bachelor's degree,"Single, never married",White,Republican,Summer
+P0486,Male,29,Bachelor's degree,"In relationship, but not married","Hispanic or Latino/a/x,White",Democratic,Autumn
+P0487,Female,25,"Graduate or professional degree (Masters, PhD, JD, MD, etc.)",Married,Black or African American,Republican,Summer
+P0488,Female,38,"Graduate or professional degree (Masters, PhD, JD, MD, etc.)",Married,Black or African American,Democratic,Spring
+P0489,Female,40,Bachelor's degree,Married,White,Independent,Summer
+P0490,Male,24,Bachelor's degree,"Single, never married",Black or African American,"Republican,Libertarian",Summer
+P0491,Male,41,"Graduate or professional degree (Masters, PhD, JD, MD, etc.)","Single, never married",White,Democratic,Autumn
+P0492,Male,33,Bachelor's degree,Married,"Black or African American,White",Independent,Winter
+P0493,Female,32,Bachelor's degree,Married,White,Democratic,Autumn
+P0494,Male,43,Some college (no degree),"In relationship, but not married",White,Independent,Winter
+P0495,Male,42,Some college (no degree),"Single, never married",White,Prefer not to say,Winter
+P0496,Female,34,High school diploma or equivalent,"Single, never married",White,Republican,Summer
+P0497,Female,32,"Graduate or professional degree (Masters, PhD, JD, MD, etc.)","In relationship, but not married","Asian,Black or African American,White",Democratic,Autumn
+P0498,Female,18,High school diploma or equivalent,"Single, never married",White,Independent,Summer
+P0499,Female,39,Bachelor's degree,Married,White,Republican,Summer
+P0500,Female,26,"Graduate or professional degree (Masters, PhD, JD, MD, etc.)","In relationship, but not married",White,Independent,Summer
+P0501,Male,19,High school diploma or equivalent,"In relationship, but not married",White,Democratic,Winter
+P0502,Male,32,"Graduate or professional degree (Masters, PhD, JD, MD, etc.)","Single, never married",White,Republican,Summer
+P0503,Female,45,High school diploma or equivalent,"In relationship, but not married",White,Republican,Autumn
+P0504,Male,21,Bachelor's degree,Married,Black or African American,Democratic,Spring
+P0505,Female,45,High school diploma or equivalent,"Single, never married",White,Prefer not to say,Summer
+P0506,Male,36,Some college (no degree),"Single, never married",White,Democratic,Autumn
+P0507,Female,28,Associate degree,Divorced or separated,White,Democratic,Spring
+P0508,Female,38,High school diploma or equivalent,Married,White,Republican,Autumn
+P0509,Male,32,High school diploma or equivalent,Married,White,Republican,Autumn
+P0510,Female,33,High school diploma or equivalent,"Single, never married",White,Independent,Autumn
+P0511,Female,24,Bachelor's degree,"Single, never married",Black or African American,Republican,Spring
+P0512,Male,32,High school diploma or equivalent,"Single, never married",White,Democratic,Summer
+P0513,Female,34,Bachelor's degree,Married,White,Independent,Autumn
+P0514,Female,30,"Graduate or professional degree (Masters, PhD, JD, MD, etc.)",Married,White,Democratic,Summer
+P0515,Female,31,Bachelor's degree,Married,White,Democratic,Autumn
+P0516,Female,21,High school diploma or equivalent,"Single, never married",White,Democratic,Autumn
+P0517,Male,27,Bachelor's degree,"Single, never married",Black or African American,Independent,Summer
+P0518,Male,28,"Graduate or professional degree (Masters, PhD, JD, MD, etc.)","In relationship, but not married",White,Independent,Autumn
+P0519,Female,33,"Graduate or professional degree (Masters, PhD, JD, MD, etc.)",Married,White,Independent,Summer
+P0520,Female,43,"Graduate or professional degree (Masters, PhD, JD, MD, etc.)",Married,Black or African American,Democratic,Autumn
+P0521,Female,39,"Graduate or professional degree (Masters, PhD, JD, MD, etc.)",Married,Black or African American,Democratic,Autumn
+P0522,Male,27,Bachelor's degree,Married,White,Democratic,Summer
+P0523,Male,29,High school diploma or equivalent,"Single, never married",Asian,Republican,Autumn
+P0524,Male,35,High school diploma or equivalent,"Single, never married",Asian,Independent,Winter
+P0525,Male,18,High school diploma or equivalent,"Single, never married",Black or African American,Democratic,Autumn
+P0526,Male,23,High school diploma or equivalent,"Single, never married",Black or African American,Independent,Summer
+P0527,Male,35,High school diploma or equivalent,"Single, never married",White,Independent,Spring
+P0528,Female,34,"Graduate or professional degree (Masters, PhD, JD, MD, etc.)",Married,Asian,Democratic,Autumn
+P0529,Female,39,"Graduate or professional degree (Masters, PhD, JD, MD, etc.)",Married,White,Republican,Winter
+P0530,Male,35,"Graduate or professional degree (Masters, PhD, JD, MD, etc.)","Single, never married",Asian,Republican,Spring
+P0531,Male,36,"Graduate or professional degree (Masters, PhD, JD, MD, etc.)",Divorced or separated,Asian,Republican,Winter
+P0532,Male,27,"Graduate or professional degree (Masters, PhD, JD, MD, etc.)",Married,Black or African American,Republican,Summer
+P0533,Female,27,Bachelor's degree,"In relationship, but not married",Black or African American,Democratic,Winter
+P0534,Male,29,"Graduate or professional degree (Masters, PhD, JD, MD, etc.)",Married,Black or African American,Democratic,Summer
+P0535,Male,29,High school diploma or equivalent,"Single, never married",Hispanic or Latino/a/x,Democratic,Winter
+P0536,Female,37,"Graduate or professional degree (Masters, PhD, JD, MD, etc.)",Married,White,Democratic,Autumn
+P0537,Female,35,Bachelor's degree,Married,Black or African American,Democratic,Summer
+P0538,Male,21,High school diploma or equivalent,"Single, never married",White,Independent,Spring
+P0539,Male,27,Bachelor's degree,"Single, never married",White,Republican,Summer
+P0540,Male,44,"Graduate or professional degree (Masters, PhD, JD, MD, etc.)","Single, never married",White,Independent,Spring
+P0541,Female,35,High school diploma or equivalent,"In relationship, but not married",White,Independent,Autumn
+P0542,Female,27,"Graduate or professional degree (Masters, PhD, JD, MD, etc.)","In relationship, but not married",White,Democratic,Spring
+P0543,Female,42,High school diploma or equivalent,"In relationship, but not married",White,Independent,Autumn
+P0544,Male,28,High school diploma or equivalent,"Single, never married",Black or African American,Democratic,Winter
+P0545,Female,30,High school diploma or equivalent,Divorced or separated,White,Independent,Summer
+P0546,Male,39,High school diploma or equivalent,"Single, never married",White,Democratic,Summer
+P0547,Male,42,High school diploma or equivalent,Married,White,Republican,Spring
+P0548,Male,36,High school diploma or equivalent,"In relationship, but not married",White,Democratic,Spring
+P0549,Male,40,"Graduate or professional degree (Masters, PhD, JD, MD, etc.)",Married,White,Democratic,Autumn
+P0550,Female,20,High school diploma or equivalent,"Single, never married",White,Democratic,Autumn
+P0551,Female,42,"Graduate or professional degree (Masters, PhD, JD, MD, etc.)",Married,White,Independent,Summer
+P0552,Male,32,"Graduate or professional degree (Masters, PhD, JD, MD, etc.)","Single, never married",White,Democratic,Spring
+P0553,Male,29,"Graduate or professional degree (Masters, PhD, JD, MD, etc.)","In relationship, but not married",Asian,Republican,Spring
+P0554,Female,32,High school diploma or equivalent,"In relationship, but not married","Asian,Native Hawaiian or Other Pacific Islander",Democratic,Winter
+P0555,Female,18,Associate degree,"Single, never married",White,Democratic,Summer
+P0556,Male,40,High school diploma or equivalent,"In relationship, but not married",White,Republican,Autumn
+P0557,Male,33,High school diploma or equivalent,"In relationship, but not married",White,Democratic,Autumn
+P0558,Female,27,Bachelor's degree,Married,White,Republican,Spring
+P0559,Female,44,"Graduate or professional degree (Masters, PhD, JD, MD, etc.)",Married,Black or African American,Democratic,Summer
+P0560,Male,35,High school diploma or equivalent,"Single, never married",White,Independent,Winter
+P0561,Female,29,"Graduate or professional degree (Masters, PhD, JD, MD, etc.)",Married,White,Independent,Summer
+P0562,Male,26,"Graduate or professional degree (Masters, PhD, JD, MD, etc.)",Married,Black or African American,Republican,Spring
+P0563,Male,33,High school diploma or equivalent,"In relationship, but not married",White,Prefer not to say,Autumn
+P0564,Male,40,"Graduate or professional degree (Masters, PhD, JD, MD, etc.)",Married,White,Independent,Autumn
+P0565,Female,30,High school diploma or equivalent,"In relationship, but not married",White,Independent,Spring
+P0566,Female,22,High school diploma or equivalent,Married,White,Independent,Summer
+P0567,Male,37,"Graduate or professional degree (Masters, PhD, JD, MD, etc.)","In relationship, but not married",White,Democratic,Winter
+P0568,Male,39,High school diploma or equivalent,"Single, never married",White,Republican,Winter
+P0569,Male,41,High school diploma or equivalent,"Single, never married",White,Republican,Spring
+P0570,Female,27,High school diploma or equivalent,Married,White,Independent,Spring
+P0571,Male,31,High school diploma or equivalent,Married,Hispanic or Latino/a/x,Democratic,Summer
+P0572,Female,44,"Graduate or professional degree (Masters, PhD, JD, MD, etc.)",Married,White,Independent,Autumn
+P0573,Female,30,"Graduate or professional degree (Masters, PhD, JD, MD, etc.)","In relationship, but not married",White,Independent,Summer
+P0574,Male,27,"Graduate or professional degree (Masters, PhD, JD, MD, etc.)","Single, never married",White,Independent,Summer
+P0575,Female,35,Bachelor's degree,"Single, never married","Black or African American,White",Independent,Autumn
+P0576,Female,36,"Graduate or professional degree (Masters, PhD, JD, MD, etc.)","Single, never married",White,Democratic,Autumn
+P0577,Female,31,High school diploma or equivalent,"Single, never married",White,Democratic,Spring
+P0578,Male,30,"Graduate or professional degree (Masters, PhD, JD, MD, etc.)",Married,White,Democratic,Autumn
+P0579,Female,28,High school diploma or equivalent,"In relationship, but not married",White,Democratic,Autumn
+P0580,Female,20,High school diploma or equivalent,"Single, never married",White,Republican,Autumn
+P0581,Female,33,"Graduate or professional degree (Masters, PhD, JD, MD, etc.)","Single, never married",White,Democratic,Summer
+P0582,Female,44,"Graduate or professional degree (Masters, PhD, JD, MD, etc.)",Divorced or separated,"Hispanic or Latino/a/x,White",Democratic,Summer
+P0583,Male,19,Some college (no degree),"Single, never married",White,Independent,Autumn
+P0584,Female,44,"Graduate or professional degree (Masters, PhD, JD, MD, etc.)",Married,White,Democratic,Autumn
+P0585,Female,33,Less than high school,Divorced or separated,White,Democratic,Spring
+P0586,Female,41,"Graduate or professional degree (Masters, PhD, JD, MD, etc.)",Married,White,Democratic,Summer
+P0587,Male,41,"Graduate or professional degree (Masters, PhD, JD, MD, etc.)","In relationship, but not married",White,Green Party,Autumn
+P0588,Male,36,Less than high school,"Single, never married",White,Independent,Autumn
+P0589,Male,27,High school diploma or equivalent,"Single, never married",White,Independent,Summer
+P0590,Female,35,High school diploma or equivalent,"Single, never married",White,Independent,Autumn
+P0591,Male,27,High school diploma or equivalent,"Single, never married",Hispanic or Latino/a/x,Democratic,Summer
+P0592,Female,32,"Graduate or professional degree (Masters, PhD, JD, MD, etc.)",Married,White,Democratic,Autumn
+P0593,Female,28,"Graduate or professional degree (Masters, PhD, JD, MD, etc.)",Married,Asian,Democratic,Spring
+P0594,Female,35,"Graduate or professional degree (Masters, PhD, JD, MD, etc.)",Married,White,Democratic,Autumn
+P0595,Female,27,High school diploma or equivalent,"In relationship, but not married",White,Democratic,Autumn
+P0596,Male,25,Bachelor's degree,Married,Black or African American,Democratic,Winter
+P0597,Male,27,"Graduate or professional degree (Masters, PhD, JD, MD, etc.)","Single, never married",Black or African American,Democratic,Winter
+P0598,Male,18,High school diploma or equivalent,"Single, never married",White,Independent,Winter
+P0599,Male,26,High school diploma or equivalent,"Single, never married",White,Republican,Autumn
+P0600,Male,31,"Graduate or professional degree (Masters, PhD, JD, MD, etc.)","Single, never married",White,Democratic,Summer
+P0601,Female,44,"Graduate or professional degree (Masters, PhD, JD, MD, etc.)",Married,"Hispanic or Latino/a/x,White",Independent,Summer
+P0602,Female,34,"Graduate or professional degree (Masters, PhD, JD, MD, etc.)","In relationship, but not married",White,Independent,Spring
+P0603,Male,27,"Graduate or professional degree (Masters, PhD, JD, MD, etc.)","In relationship, but not married","Black or African American,Hispanic or Latino/a/x",Democratic,Spring
+P0604,Female,33,"Graduate or professional degree (Masters, PhD, JD, MD, etc.)","In relationship, but not married",White,Democratic,Winter
+P0605,Female,42,"Graduate or professional degree (Masters, PhD, JD, MD, etc.)",Married,Black or African American,Independent,Summer
+P0606,Male,38,"Graduate or professional degree (Masters, PhD, JD, MD, etc.)",Married,White,Democratic,Autumn
+P0607,Female,35,"Graduate or professional degree (Masters, PhD, JD, MD, etc.)","Single, never married",White,Democratic,Autumn
+P0608,Male,44,"Graduate or professional degree (Masters, PhD, JD, MD, etc.)",Divorced or separated,"Hispanic or Latino/a/x,White",Democratic,Winter
+P0609,Female,44,"Graduate or professional degree (Masters, PhD, JD, MD, etc.)",Married,White,Democratic,Autumn
+P0610,Female,21,Some college (no degree),"In relationship, but not married","Black or African American,Hispanic or Latino/a/x",Republican,Spring
+P0611,Female,27,High school diploma or equivalent,"Single, never married",Black or African American,Democratic,Spring
+P0612,Female,37,"Graduate or professional degree (Masters, PhD, JD, MD, etc.)",Married,Black or African American,Independent,Spring
+P0613,Male,27,Bachelor's degree,"Single, never married",Hispanic or Latino/a/x,Democratic,Autumn
+P0614,Other,24,High school diploma or equivalent,"Single, never married",White,Democratic,Autumn
+P0615,Female,43,"Graduate or professional degree (Masters, PhD, JD, MD, etc.)","In relationship, but not married",White,Republican,Spring
+P0616,Prefer not to say,37,High school diploma or equivalent,"In relationship, but not married",Prefer not to say,Prefer not to say,Autumn
+P0617,Male,33,High school diploma or equivalent,"Single, never married",White,Independent,Autumn
+P0618,Female,39,"Graduate or professional degree (Masters, PhD, JD, MD, etc.)","Single, never married",White,Democratic,Spring
+P0619,Female,23,"Graduate or professional degree (Masters, PhD, JD, MD, etc.)","Single, never married",White,Republican,Summer
+P0620,Male,30,"Graduate or professional degree (Masters, PhD, JD, MD, etc.)",Married,White,Democratic,Summer
+P0621,Male,30,"Graduate or professional degree (Masters, PhD, JD, MD, etc.)",Married,White,Independent,Autumn
+P0622,Male,42,Less than high school,"Single, never married",White,Democratic,Autumn
+P0623,Male,30,"Graduate or professional degree (Masters, PhD, JD, MD, etc.)",Married,Black or African American,Republican,Summer
+P0624,Male,39,Some college (no degree),"Single, never married",White,Democratic,Autumn
+P0625,Male,39,High school diploma or equivalent,"Single, never married",White,Democratic,Summer
+P0626,Male,33,High school diploma or equivalent,"Single, never married",White,Republican,Autumn
+P0627,Female,39,High school diploma or equivalent,"Single, never married",White,Independent,Autumn
+P0628,Male,39,High school diploma or equivalent,Married,White,Republican,Winter
+P0629,Female,37,High school diploma or equivalent,"Single, never married","Middle Eastern or North African,White",Independent,Spring
+P0630,Male,37,High school diploma or equivalent,"Single, never married",White,Republican,Autumn
+P0631,Female,41,"Graduate or professional degree (Masters, PhD, JD, MD, etc.)",Divorced or separated,White,Democratic,Autumn
+P0632,Male,43,High school diploma or equivalent,Married,Black or African American,Independent,Autumn
+P0633,Male,36,"Graduate or professional degree (Masters, PhD, JD, MD, etc.)",Married,"Hispanic or Latino/a/x,White",Republican,Summer
+P0634,Male,31,Some college (no degree),"Single, never married",White,Republican,Summer
+P0635,Female,31,"Graduate or professional degree (Masters, PhD, JD, MD, etc.)","Single, never married",Black or African American,Independent,Summer
+P0636,Male,22,High school diploma or equivalent,"Single, never married",Asian,Independent,Spring
+P0637,Female,22,High school diploma or equivalent,"Single, never married","Hispanic or Latino/a/x,White",Prefer not to say,Autumn
+P0638,Female,36,High school diploma or equivalent,"In relationship, but not married",White,Democratic,Summer
+P0639,Female,31,High school diploma or equivalent,Married,White,Democratic,Autumn
+P0640,Female,39,High school diploma or equivalent,Married,"Black or African American,Hispanic or Latino/a/x",Republican,Autumn
+P0641,Male,37,"Graduate or professional degree (Masters, PhD, JD, MD, etc.)",Married,White,Democratic,Autumn
+P0642,Female,39,"Graduate or professional degree (Masters, PhD, JD, MD, etc.)","Single, never married",Black or African American,Independent,Autumn
+P0643,Female,42,High school diploma or equivalent,"In relationship, but not married",White,Democratic,Autumn
+P0644,Male,37,High school diploma or equivalent,Married,White,Independent,Spring
+P0645,Male,29,High school diploma or equivalent,"Single, never married","Black or African American,White",Democratic,Autumn
+P0646,Female,38,"Graduate or professional degree (Masters, PhD, JD, MD, etc.)",Married,White,Democratic,Autumn
+P0647,Male,36,"Graduate or professional degree (Masters, PhD, JD, MD, etc.)","In relationship, but not married",White,Democratic,Autumn
+P0648,Female,43,High school diploma or equivalent,Married,White,Republican,Summer
+P0649,Female,40,"Graduate or professional degree (Masters, PhD, JD, MD, etc.)","Single, never married",White,Democratic,Summer
+P0650,Female,31,High school diploma or equivalent,"In relationship, but not married",Black or African American,Independent,Spring
+P0651,Female,24,Bachelor's degree,Married,Black or African American,Republican,Summer
+P0652,Female,33,"Graduate or professional degree (Masters, PhD, JD, MD, etc.)",Married,White,Republican,Summer
+P0653,Female,35,High school diploma or equivalent,Married,White,Republican,Winter
+P0654,Female,35,"Graduate or professional degree (Masters, PhD, JD, MD, etc.)","Single, never married",White,Democratic,Summer
+P0655,Male,28,High school diploma or equivalent,"In relationship, but not married",Hispanic or Latino/a/x,Independent,Winter
+P0656,Female,37,"Graduate or professional degree (Masters, PhD, JD, MD, etc.)","Single, never married",White,Democratic,Summer
+P0657,Male,35,"Graduate or professional degree (Masters, PhD, JD, MD, etc.)",Divorced or separated,White,Democratic,Autumn
+P0658,Male,40,"Graduate or professional degree (Masters, PhD, JD, MD, etc.)","In relationship, but not married","Hispanic or Latino/a/x,White",Democratic,Autumn
+P0659,Female,37,"Graduate or professional degree (Masters, PhD, JD, MD, etc.)",Married,White,Democratic,Autumn
+P0660,Female,40,"Graduate or professional degree (Masters, PhD, JD, MD, etc.)",Married,White,Independent,Summer
+P0661,Male,33,"Graduate or professional degree (Masters, PhD, JD, MD, etc.)",Married,Asian,Democratic,Autumn
+P0662,Male,36,"Graduate or professional degree (Masters, PhD, JD, MD, etc.)",Married,Black or African American,Democratic,Winter
+P0663,Female,31,"Graduate or professional degree (Masters, PhD, JD, MD, etc.)","In relationship, but not married",Asian,Democratic,Spring
+P0664,Female,26,"Graduate or professional degree (Masters, PhD, JD, MD, etc.)","Single, never married",Black or African American,Democratic,Summer
+P0665,Female,28,High school diploma or equivalent,Married,White,Democratic,Winter
+P0666,Female,31,High school diploma or equivalent,Married,White,Independent,Summer
+P0667,Female,34,"Graduate or professional degree (Masters, PhD, JD, MD, etc.)","In relationship, but not married",Black or African American,Democratic,Autumn
+P0668,Female,25,"Graduate or professional degree (Masters, PhD, JD, MD, etc.)","In relationship, but not married",White,Democratic,Summer
+P0669,Male,34,High school diploma or equivalent,"In relationship, but not married",White,Independent,Autumn
+P0670,Male,40,"Graduate or professional degree (Masters, PhD, JD, MD, etc.)","Single, never married","Hispanic or Latino/a/x,Middle Eastern or North African,Native American or Alaska Native,White",Independent,Autumn
+P0671,Female,27,"Graduate or professional degree (Masters, PhD, JD, MD, etc.)","Single, never married",Black or African American,Democratic,Summer
+P0672,Female,43,"Graduate or professional degree (Masters, PhD, JD, MD, etc.)","In relationship, but not married",White,Republican,Autumn
+P0673,Male,35,"Graduate or professional degree (Masters, PhD, JD, MD, etc.)",Married,White,Independent,Autumn
+P0674,Male,41,"Graduate or professional degree (Masters, PhD, JD, MD, etc.)",Married,"Asian,White",Independent,Summer
+P0675,Female,34,High school diploma or equivalent,Married,White,Independent,Autumn
+P0676,Female,26,High school diploma or equivalent,"Single, never married",Black or African American,Independent,Autumn
+P0677,Female,27,High school diploma or equivalent,Divorced or separated,White,Independent,Autumn
+P0678,Female,44,"Graduate or professional degree (Masters, PhD, JD, MD, etc.)","In relationship, but not married",White,Democratic,Spring
+P0679,Female,32,High school diploma or equivalent,"Single, never married",White,Independent,Autumn
+P0680,Female,42,High school diploma or equivalent,Married,White,Republican,Autumn
+P0681,Male,34,High school diploma or equivalent,"Single, never married",Hispanic or Latino/a/x,Democratic,Summer
+P0682,Male,40,High school diploma or equivalent,"In relationship, but not married",White,Republican,Autumn
+P0683,Male,32,"Graduate or professional degree (Masters, PhD, JD, MD, etc.)",Married,White,Democratic,Summer
+P0684,Female,26,Some college (no degree),"Single, never married","Asian,Hispanic or Latino/a/x",Democratic,Winter
+P0685,Female,29,"Graduate or professional degree (Masters, PhD, JD, MD, etc.)",Married,Black or African American,Democratic,Autumn
+P0686,Female,33,"Graduate or professional degree (Masters, PhD, JD, MD, etc.)","Single, never married","Asian,White",Independent,Winter
+P0687,Male,30,Bachelor's degree,Married,Asian,Republican,Summer
+P0688,Female,42,"Graduate or professional degree (Masters, PhD, JD, MD, etc.)",Married,Asian,Democratic,Autumn
+P0689,Female,20,High school diploma or equivalent,"In relationship, but not married",White,Libertarian,Autumn
+P0690,Female,20,High school diploma or equivalent,"In relationship, but not married",White,Independent,Autumn
+P0691,Male,33,"Graduate or professional degree (Masters, PhD, JD, MD, etc.)",Married,Hispanic or Latino/a/x,Independent,Autumn
+P0692,Female,26,High school diploma or equivalent,"In relationship, but not married",White,Democratic,Spring
+P0693,Female,44,"Graduate or professional degree (Masters, PhD, JD, MD, etc.)",Married,White,Democratic,Autumn
+P0694,Female,30,High school diploma or equivalent,Divorced or separated,White,Independent,Autumn
+P0695,Female,23,High school diploma or equivalent,"In relationship, but not married",White,Republican,Winter
+P0696,Female,30,"Graduate or professional degree (Masters, PhD, JD, MD, etc.)","In relationship, but not married","Asian,White",Democratic,Spring
+P0697,Male,25,High school diploma or equivalent,Married,White,Republican,Summer
+P0698,Male,22,High school diploma or equivalent,"Single, never married",White,Democratic,Spring
+P0699,Male,44,"Graduate or professional degree (Masters, PhD, JD, MD, etc.)","In relationship, but not married",White,Republican,Winter
+P0700,Male,32,High school diploma or equivalent,"Single, never married",Hispanic or Latino/a/x,Democratic,Winter
+P0701,Male,44,"Graduate or professional degree (Masters, PhD, JD, MD, etc.)",Divorced or separated,White,Democratic,Summer
+P0702,Female,26,"Graduate or professional degree (Masters, PhD, JD, MD, etc.)",Married,White,Democratic,Autumn
+P0703,Male,25,"Graduate or professional degree (Masters, PhD, JD, MD, etc.)","In relationship, but not married",Asian,Democratic,Winter
+P0704,Female,25,"Graduate or professional degree (Masters, PhD, JD, MD, etc.)","In relationship, but not married",Black or African American,Democratic,Autumn
+P0705,Female,19,High school diploma or equivalent,"Single, never married",White,Democratic,Autumn
+P0706,Female,28,"Graduate or professional degree (Masters, PhD, JD, MD, etc.)","In relationship, but not married","Black or African American,Hispanic or Latino/a/x",Democratic,Autumn
+P0707,Female,33,High school diploma or equivalent,Married,Black or African American,Independent,Summer
+P0708,Female,36,High school diploma or equivalent,"Single, never married",White,Republican,Summer
+P0709,Male,41,High school diploma or equivalent,"Single, never married",Black or African American,Republican,Winter
+P0710,Female,39,"Graduate or professional degree (Masters, PhD, JD, MD, etc.)",Married,White,Republican,Summer
+P0711,Male,23,Some college (no degree),"Single, never married",Hispanic or Latino/a/x,Independent,Autumn
+P0712,Female,18,High school diploma or equivalent,"Single, never married",Black or African American,Independent,Spring
+P0713,Male,26,High school diploma or equivalent,"Single, never married",Black or African American,Democratic,Summer
+P0714,Female,20,Some college (no degree),"In relationship, but not married",Black or African American,Democratic,Autumn
+P0715,Male,23,High school diploma or equivalent,"Single, never married",White,Republican,Autumn
+P0716,Female,29,High school diploma or equivalent,"In relationship, but not married",White,Independent,Autumn
+P0717,Male,24,"Graduate or professional degree (Masters, PhD, JD, MD, etc.)",Married,White,Republican,Summer
+P0718,Female,28,"Graduate or professional degree (Masters, PhD, JD, MD, etc.)",Married,White,Democratic,Autumn
+P0719,Male,29,"Graduate or professional degree (Masters, PhD, JD, MD, etc.)","Single, never married",Asian,Democratic,Autumn
+P0720,Male,20,High school diploma or equivalent,"In relationship, but not married",White,Prefer not to say,Autumn
+P0721,Female,29,"Graduate or professional degree (Masters, PhD, JD, MD, etc.)","Single, never married",Asian,Independent,Spring
+P0722,Female,28,Some college (no degree),Married,White,Democratic,Winter
+P0723,Male,21,High school diploma or equivalent,"Single, never married","Middle Eastern or North African,White",Democratic,Autumn
+P0724,Male,26,Some college (no degree),"Single, never married",White,Independent,Autumn
+P0725,Male,38,High school diploma or equivalent,"Single, never married",Hispanic or Latino/a/x,Republican,Autumn
+P0726,Female,29,"Graduate or professional degree (Masters, PhD, JD, MD, etc.)","In relationship, but not married",White,Democratic,Autumn
+P0727,Female,29,"Graduate or professional degree (Masters, PhD, JD, MD, etc.)","Single, never married",White,Democratic,Summer
+P0728,Male,44,Associate degree,Married,Black or African American,Republican,Spring
+P0729,Male,22,Some college (no degree),"Single, never married",Black or African American,Democratic,Summer
+P0730,Female,24,High school diploma or equivalent,"Single, never married",White,Democratic,Summer
+P0731,Female,21,High school diploma or equivalent,"Single, never married",Black or African American,Democratic,Spring
+P0732,Male,19,High school diploma or equivalent,"Single, never married",White,Independent,Autumn
+P0733,Male,24,High school diploma or equivalent,"Single, never married",Black or African American,Prefer not to say,Spring
+P0734,Female,29,"Graduate or professional degree (Masters, PhD, JD, MD, etc.)","Single, never married",Black or African American,Democratic,Winter
+P0735,Male,34,"Graduate or professional degree (Masters, PhD, JD, MD, etc.)",Married,White,Independent,Winter
+P0736,Male,28,High school diploma or equivalent,"Single, never married",White,Republican,Summer
+P0737,Male,27,High school diploma or equivalent,"Single, never married",White,Democratic,Autumn
+P0738,Male,29,"Graduate or professional degree (Masters, PhD, JD, MD, etc.)","Single, never married",Black or African American,Democratic,Autumn
+P0739,Female,21,High school diploma or equivalent,"Single, never married","Black or African American,Native American or Alaska Native,White",Democratic,Winter
+P0740,Female,28,High school diploma or equivalent,"In relationship, but not married",White,Green Party,Autumn
+P0741,Male,18,Some college (no degree),"Single, never married",Asian,Democratic,Spring
+P0742,Male,19,Some college (no degree),"Single, never married",White,Independent,Summer
+P0743,Male,28,"Graduate or professional degree (Masters, PhD, JD, MD, etc.)",Married,Asian,Independent,Autumn
+P0744,Male,21,Bachelor's degree,"Single, never married",White,Republican,Summer
+P0745,Female,29,"Graduate or professional degree (Masters, PhD, JD, MD, etc.)","Single, never married",Black or African American,Democratic,Spring
+P0746,Male,18,High school diploma or equivalent,"Single, never married",White,Independent,Summer
+P0747,Male,21,High school diploma or equivalent,"Single, never married",White,Republican,Summer
+P0748,Female,26,High school diploma or equivalent,"In relationship, but not married",White,Democratic,Spring
+P0749,Female,28,"Graduate or professional degree (Masters, PhD, JD, MD, etc.)",Married,White,Democratic,Autumn
+P0750,Male,27,High school diploma or equivalent,"Single, never married",White,Republican,Autumn
+P0751,Female,27,High school diploma or equivalent,"Single, never married",Black or African American,Democratic,Summer
+P0752,Female,25,High school diploma or equivalent,"Single, never married",White,Libertarian,Summer
+P0753,Male,20,Some college (no degree),"Single, never married",Prefer not to say,Democratic,Spring
+P0754,Female,18,High school diploma or equivalent,"In relationship, but not married",White,Democratic,Summer
+P0755,Male,20,Some college (no degree),"Single, never married",Asian,Independent,Spring
+P0756,Male,27,High school diploma or equivalent,Married,Black or African American,Independent,Autumn
+P0757,Male,27,High school diploma or equivalent,"Single, never married",Black or African American,Independent,Spring
+P0758,Male,21,Some college (no degree),"Single, never married",Black or African American,Independent,Autumn
+P0759,Male,19,High school diploma or equivalent,"In relationship, but not married",Hispanic or Latino/a/x,Independent,Spring
+P0760,Male,29,High school diploma or equivalent,"Single, never married",White,Democratic,Winter
+P0761,Female,26,High school diploma or equivalent,"Single, never married","Black or African American,White",Democratic,Autumn
+P0762,Female,28,"Graduate or professional degree (Masters, PhD, JD, MD, etc.)","In relationship, but not married",White,Democratic,Summer
+P0763,Male,23,Some college (no degree),"Single, never married",Black or African American,Independent,Spring
+P0764,Male,28,Bachelor's degree,"Single, never married",White,Libertarian,Spring
+P0765,Male,29,"Graduate or professional degree (Masters, PhD, JD, MD, etc.)","Single, never married",Black or African American,Independent,Autumn
+P0766,Female,23,Bachelor's degree,"In relationship, but not married",White,Democratic,Summer
+P0767,Male,24,High school diploma or equivalent,"Single, never married",White,Independent,Winter
+P0768,Male,29,High school diploma or equivalent,"Single, never married",White,Republican,Winter
+P0769,Female,21,High school diploma or equivalent,"Single, never married",Black or African American,Independent,Autumn
+P0770,Female,23,High school diploma or equivalent,"Single, never married",White,Independent,Autumn
+P0771,Male,18,High school diploma or equivalent,"Single, never married",White,Independent,Autumn
+P0772,Male,24,"Graduate or professional degree (Masters, PhD, JD, MD, etc.)",Married,"Hispanic or Latino/a/x,White",Independent,Autumn
+P0773,Female,26,High school diploma or equivalent,"In relationship, but not married",White,Democratic,Autumn
+P0774,Female,20,High school diploma or equivalent,"In relationship, but not married",White,Independent,Winter
+P0775,Male,25,High school diploma or equivalent,"In relationship, but not married",Black or African American,Prefer not to say,Spring
+P0776,Female,27,Some college (no degree),"Single, never married","Black or African American,White",Independent,Spring
+P0777,Female,26,High school diploma or equivalent,"In relationship, but not married",White,Independent,Autumn
+P0778,Female,27,Bachelor's degree,Married,Hispanic or Latino/a/x,Independent,Autumn
+P0779,Male,28,"Graduate or professional degree (Masters, PhD, JD, MD, etc.)",Married,White,Independent,Spring
+P0780,Male,23,Associate degree,"Single, never married",Hispanic or Latino/a/x,Democratic,Winter
+P0781,Female,28,"Graduate or professional degree (Masters, PhD, JD, MD, etc.)","Single, never married",White,Democratic,Spring
+P0782,Male,26,High school diploma or equivalent,"Single, never married",Hispanic or Latino/a/x,Democratic,Winter
+P0783,Female,29,"Graduate or professional degree (Masters, PhD, JD, MD, etc.)",Married,"Black or African American,White",Independent,Spring
+P0784,Female,29,"Graduate or professional degree (Masters, PhD, JD, MD, etc.)",Married,White,Independent,Autumn
+P0785,Female,29,"Graduate or professional degree (Masters, PhD, JD, MD, etc.)",Married,"Hispanic or Latino/a/x,White",Democratic,Spring
+P0786,Male,28,"Graduate or professional degree (Masters, PhD, JD, MD, etc.)",Married,White,Independent,Autumn
+P0787,Female,22,High school diploma or equivalent,"In relationship, but not married",White,Democratic,Autumn
+P0788,Female,29,High school diploma or equivalent,Married,White,Prefer not to say,Summer
+P0789,Female,26,Bachelor's degree,"Single, never married",Asian,Independent,Spring
+P0790,Female,21,High school diploma or equivalent,"In relationship, but not married",White,Democratic,Winter
+P0791,Female,29,High school diploma or equivalent,"Single, never married",Hispanic or Latino/a/x,Democratic,Autumn
+P0792,Female,27,"Graduate or professional degree (Masters, PhD, JD, MD, etc.)","In relationship, but not married","Black or African American,White",Democratic,Autumn
+P0793,Male,22,High school diploma or equivalent,"In relationship, but not married",Black or African American,Independent,Winter
+P0794,Female,23,High school diploma or equivalent,Married,Hispanic or Latino/a/x,Independent,Autumn
+P0795,Female,27,High school diploma or equivalent,"Single, never married",White,Democratic,Summer
+P0796,Female,28,"Graduate or professional degree (Masters, PhD, JD, MD, etc.)","In relationship, but not married",White,Democratic,Summer
+P0797,Female,26,Less than high school,"In relationship, but not married",White,Republican,Autumn
+P0798,Female,20,High school diploma or equivalent,"In relationship, but not married",White,Democratic,Winter
+P0799,Male,21,Bachelor's degree,"Single, never married",Asian,Independent,Winter
+P0800,Female,28,"Graduate or professional degree (Masters, PhD, JD, MD, etc.)","In relationship, but not married",White,Independent,Winter
+P0801,Male,22,High school diploma or equivalent,"Single, never married",White,Democratic,Autumn
+P0802,Female,25,High school diploma or equivalent,"Single, never married",Asian,Democratic,Winter
+P0803,Male,28,High school diploma or equivalent,"Single, never married",White,Democratic,Spring
+P0804,Male,23,High school diploma or equivalent,"Single, never married",Black or African American,Independent,Winter
+P0805,Male,27,High school diploma or equivalent,"Single, never married","Native American or Alaska Native,White",Independent,Autumn
+P0806,Female,19,Some college (no degree),"In relationship, but not married","Hispanic or Latino/a/x,White",Independent,Winter
+P0807,Female,27,High school diploma or equivalent,"In relationship, but not married",White,Democratic,Autumn
+P0808,Female,21,High school diploma or equivalent,"Single, never married",Asian,Democratic,Autumn
+P0809,Female,25,High school diploma or equivalent,"Single, never married",Hispanic or Latino/a/x,Prefer not to say,Summer
+P0810,Female,24,High school diploma or equivalent,"Single, never married",White,Independent,Autumn
+P0811,Female,27,High school diploma or equivalent,Married,White,Republican,Autumn
+P0812,Male,22,High school diploma or equivalent,Married,White,Independent,Spring
+P0813,Male,18,High school diploma or equivalent,"Single, never married","Asian,Black or African American,White",Independent,Spring
+P0814,Male,28,High school diploma or equivalent,"In relationship, but not married",White,Independent,Winter
+P0815,Female,24,High school diploma or equivalent,Married,White,Democratic,Autumn
+P0816,Male,29,"Graduate or professional degree (Masters, PhD, JD, MD, etc.)","In relationship, but not married",White,Independent,Summer
+P0817,Male,29,High school diploma or equivalent,"Single, never married","Hispanic or Latino/a/x,Middle Eastern or North African",Libertarian,Summer
+P0818,Female,24,High school diploma or equivalent,"In relationship, but not married","Middle Eastern or North African,Native American or Alaska Native,White",Democratic,Summer
+P0819,Female,28,High school diploma or equivalent,Married,Hispanic or Latino/a/x,Prefer not to say,Autumn
+P0820,Female,28,"Graduate or professional degree (Masters, PhD, JD, MD, etc.)","In relationship, but not married",Hispanic or Latino/a/x,Democratic,Winter
+P0821,Female,22,High school diploma or equivalent,"Single, never married",Hispanic or Latino/a/x,Democratic,Autumn
+P0822,Female,26,High school diploma or equivalent,"Single, never married",Black or African American,Democratic,Autumn
+P0823,Female,29,"Graduate or professional degree (Masters, PhD, JD, MD, etc.)","In relationship, but not married",Asian,Democratic,Summer
+P0824,Female,28,"Graduate or professional degree (Masters, PhD, JD, MD, etc.)","Single, never married",White,Democratic,Spring
+P0825,Female,27,"Graduate or professional degree (Masters, PhD, JD, MD, etc.)","In relationship, but not married",White,Independent,Summer
+P0826,Female,21,High school diploma or equivalent,"Single, never married",Prefer not to say,Democratic,Winter
+P0827,Male,18,Some college (no degree),"Single, never married",Asian,Independent,Spring
+P0828,Male,25,High school diploma or equivalent,"Single, never married",Asian,Prefer not to say,Autumn
+P0829,Male,19,Some college (no degree),"Single, never married",Asian,Independent,Autumn
+P0830,Male,24,Associate degree,Married,White,Prefer not to say,Summer
+P0831,Male,18,High school diploma or equivalent,"Single, never married","Black or African American,White",Independent,Spring
+P0832,Female,26,High school diploma or equivalent,"Single, never married","Black or African American,Native American or Alaska Native",Independent,Winter
+P0833,Male,29,"Graduate or professional degree (Masters, PhD, JD, MD, etc.)","In relationship, but not married",White,Democratic,Summer
+P0834,Male,28,"Graduate or professional degree (Masters, PhD, JD, MD, etc.)","In relationship, but not married",Asian,Democratic,Autumn
+P0835,Male,18,Some college (no degree),"Single, never married",Hispanic or Latino/a/x,Independent,Autumn
+P0836,Male,18,Some college (no degree),"In relationship, but not married",White,Independent,Winter
+P0837,Male,25,High school diploma or equivalent,"Single, never married","Hispanic or Latino/a/x,White",Independent,Winter
+P0838,Male,19,Some college (no degree),"In relationship, but not married","Black or African American,Hispanic or Latino/a/x",Independent,Winter
+P0839,Male,29,"Graduate or professional degree (Masters, PhD, JD, MD, etc.)",Married,White,Democratic,Spring
+P0840,Male,18,Some college (no degree),"Single, never married",White,Democratic,Spring
+P0841,Male,25,High school diploma or equivalent,"Single, never married",White,Democratic,Autumn
+P0842,Male,24,High school diploma or equivalent,"In relationship, but not married",White,Democratic,Autumn
+P0843,Male,26,High school diploma or equivalent,"Single, never married",White,Independent,Autumn
+P0844,Male,24,High school diploma or equivalent,"Single, never married",Hispanic or Latino/a/x,Democratic,Winter
+P0845,Male,24,High school diploma or equivalent,"Single, never married",White,Prefer not to say,Summer
+P0846,Male,20,High school diploma or equivalent,"Single, never married",White,Independent,Winter
+P0847,Male,30,"Graduate or professional degree (Masters, PhD, JD, MD, etc.)","In relationship, but not married",Asian,Republican,Autumn
+P0848,Male,24,"Graduate or professional degree (Masters, PhD, JD, MD, etc.)","Single, never married",White,Independent,Autumn
+P0849,Male,27,"Graduate or professional degree (Masters, PhD, JD, MD, etc.)","Single, never married",Asian,Republican,Spring
+P0850,Male,28,High school diploma or equivalent,"Single, never married",Black or African American,Republican,Summer
+P0851,Male,28,High school diploma or equivalent,"Single, never married",Black or African American,Democratic,Summer
+P0852,Male,21,High school diploma or equivalent,"Single, never married",Black or African American,Independent,Summer
+P0853,Male,29,High school diploma or equivalent,Married,White,Independent,Autumn
+P0854,Male,18,High school diploma or equivalent,"Single, never married",White,"Democratic,Independent",Autumn
+P0855,Male,19,Some college (no degree),"Single, never married",Middle Eastern or North African,Independent,Autumn
+P0856,Male,25,High school diploma or equivalent,"Single, never married",White,Independent,Autumn
+P0857,Male,29,High school diploma or equivalent,Married,White,Democratic,Autumn
+P0858,Male,27,"Graduate or professional degree (Masters, PhD, JD, MD, etc.)","In relationship, but not married",White,Independent,Winter
+P0859,Male,21,High school diploma or equivalent,"Single, never married","Hispanic or Latino/a/x,White",Democratic,Winter
+P0860,Male,19,High school diploma or equivalent,"Single, never married",Black or African American,Prefer not to say,Winter
+P0861,Male,18,Some college (no degree),"Single, never married",White,Democratic,Summer
+P0862,Male,19,High school diploma or equivalent,"Single, never married",Asian,Prefer not to say,Winter
+P0863,Male,20,Some college (no degree),"Single, never married",White,Independent,Winter
+P0864,Male,26,"Graduate or professional degree (Masters, PhD, JD, MD, etc.)","Single, never married",Asian,Independent,Summer
+P0865,Male,23,High school diploma or equivalent,"Single, never married",Hispanic or Latino/a/x,Independent,Winter
+P0866,Male,18,High school diploma or equivalent,"Single, never married",White,Democratic,Spring
+P0867,Male,22,High school diploma or equivalent,"Single, never married",Hispanic or Latino/a/x,Democratic,Winter
+P0868,Male,28,High school diploma or equivalent,"Single, never married",Hispanic or Latino/a/x,Prefer not to say,Autumn
+P0869,Male,29,"Graduate or professional degree (Masters, PhD, JD, MD, etc.)","In relationship, but not married",White,Independent,Autumn
+P0870,Male,28,High school diploma or equivalent,"Single, never married",White,Republican,Summer
+P0871,Male,27,High school diploma or equivalent,"In relationship, but not married",Hispanic or Latino/a/x,Democratic,Autumn
+P0872,Male,24,High school diploma or equivalent,"Single, never married",Black or African American,Prefer not to say,Autumn
+P0873,Male,25,High school diploma or equivalent,"Single, never married","Black or African American,Hispanic or Latino/a/x",Independent,Autumn
+P0874,Male,26,"Graduate or professional degree (Masters, PhD, JD, MD, etc.)","Single, never married",Asian,Republican,Autumn
+P0875,Male,27,"Graduate or professional degree (Masters, PhD, JD, MD, etc.)","In relationship, but not married",White,Democratic,Spring
+P0876,Male,29,"Graduate or professional degree (Masters, PhD, JD, MD, etc.)",Married,White,Democratic,Autumn
+P0877,Male,29,Bachelor's degree,"In relationship, but not married",Hispanic or Latino/a/x,"Republican,Independent",Summer
+P0878,Male,26,"Graduate or professional degree (Masters, PhD, JD, MD, etc.)",Married,White,Independent,Winter
+P0879,Male,29,"Graduate or professional degree (Masters, PhD, JD, MD, etc.)",Married,White,Democratic,Autumn
+P0880,Male,29,"Graduate or professional degree (Masters, PhD, JD, MD, etc.)",Married,Black or African American,Independent,Summer
+P0881,Male,28,"Graduate or professional degree (Masters, PhD, JD, MD, etc.)",Married,White,Democratic,Summer
+P0882,Male,28,"Graduate or professional degree (Masters, PhD, JD, MD, etc.)",Married,White,Independent,Autumn
+P0883,Male,25,"Graduate or professional degree (Masters, PhD, JD, MD, etc.)","Single, never married",Asian,Democratic,Autumn
+P0884,Male,24,Bachelor's degree,Married,White,Republican,Summer
+P0885,Male,27,"Graduate or professional degree (Masters, PhD, JD, MD, etc.)","In relationship, but not married",Asian,Republican,Autumn
+P0886,Male,27,"Graduate or professional degree (Masters, PhD, JD, MD, etc.)","In relationship, but not married",Hispanic or Latino/a/x,Republican,Winter
+P0887,Male,25,"Graduate or professional degree (Masters, PhD, JD, MD, etc.)","In relationship, but not married",Asian,Independent,Winter
+P0888,Male,28,"Graduate or professional degree (Masters, PhD, JD, MD, etc.)","Single, never married",White,Democratic,Autumn
+P0889,Male,28,"Graduate or professional degree (Masters, PhD, JD, MD, etc.)","Single, never married",Hispanic or Latino/a/x,Democratic,Winter
+P0890,Male,29,"Graduate or professional degree (Masters, PhD, JD, MD, etc.)",Married,White,Democratic,Spring
+P0891,Male,28,"Graduate or professional degree (Masters, PhD, JD, MD, etc.)",Married,White,Democratic,Autumn
+P0892,Male,25,Bachelor's degree,"Single, never married",White,Independent,Autumn
+P0893,Male,28,"Graduate or professional degree (Masters, PhD, JD, MD, etc.)","In relationship, but not married",Asian,Independent,Autumn
+P0894,Male,26,"Graduate or professional degree (Masters, PhD, JD, MD, etc.)","In relationship, but not married","Native American or Alaska Native,White",Democratic,Winter
+P0895,Male,25,Bachelor's degree,"Single, never married",White,Republican,Summer
+P0896,Male,29,"Graduate or professional degree (Masters, PhD, JD, MD, etc.)","In relationship, but not married",Asian,Republican,Summer
+P0897,Male,27,"Graduate or professional degree (Masters, PhD, JD, MD, etc.)",Married,Asian,Democratic,Autumn
+P0898,Male,26,"Graduate or professional degree (Masters, PhD, JD, MD, etc.)",Married,White,Democratic,Autumn
+P0899,Male,29,"Graduate or professional degree (Masters, PhD, JD, MD, etc.)","Single, never married",White,Independent,Autumn
+P0900,Male,29,"Graduate or professional degree (Masters, PhD, JD, MD, etc.)","In relationship, but not married",White,Democratic,Spring
+P0901,Male,26,"Graduate or professional degree (Masters, PhD, JD, MD, etc.)",Married,White,Democratic,Autumn
+P0902,Male,25,High school diploma or equivalent,"Single, never married",White,Democratic,Summer
+P0903,Male,28,"Graduate or professional degree (Masters, PhD, JD, MD, etc.)",Married,White,Republican,Autumn

@@ -1,0 +1,904 @@
+Participant ID,Condition,Confidence
+P0001,Season,A little confident
+P0002,Individual,Somewhat confident
+P0003,Conformity,Somewhat confident
+P0004,Season,A little confident
+P0005,Individual,Not at all confident
+P0006,Season,Somewhat confident
+P0007,Age,A little confident
+P0008,Individual,A little confident
+P0009,Prestige,Somewhat confident
+P0010,Prestige,Quite confident
+P0011,Conformity,Somewhat confident
+P0012,Age,A little confident
+P0013,Conformity,Somewhat confident
+P0014,Prestige,A little confident
+P0015,Age,Quite confident
+P0016,Conformity,Somewhat confident
+P0017,Prestige,Quite confident
+P0018,Season,Not at all confident
+P0019,Conformity,Somewhat confident
+P0020,Individual,Quite confident
+P0021,Individual,A little confident
+P0022,Prestige,Somewhat confident
+P0023,Individual,Somewhat confident
+P0024,Age,Quite confident
+P0025,Individual,Somewhat confident
+P0026,Age,A little confident
+P0027,Conformity,A little confident
+P0028,Prestige,Somewhat confident
+P0029,Prestige,Somewhat confident
+P0030,Conformity,Quite confident
+P0031,Age,Somewhat confident
+P0032,Conformity,A little confident
+P0033,Season,A little confident
+P0034,Conformity,Very confident
+P0035,Age,A little confident
+P0036,Season,Quite confident
+P0037,Season,Quite confident
+P0038,Individual,Quite confident
+P0039,Individual,Somewhat confident
+P0040,Prestige,Very confident
+P0041,Season,Not at all confident
+P0042,Prestige,Very confident
+P0043,Season,Somewhat confident
+P0044,Age,Quite confident
+P0045,Season,Somewhat confident
+P0046,Conformity,Somewhat confident
+P0047,Individual,Quite confident
+P0048,Age,Quite confident
+P0049,Prestige,Very confident
+P0050,Season,Very confident
+P0051,Age,Somewhat confident
+P0052,Prestige,Quite confident
+P0053,Conformity,Very confident
+P0054,Individual,A little confident
+P0055,Age,Somewhat confident
+P0056,Prestige,Somewhat confident
+P0057,Individual,A little confident
+P0058,Season,Somewhat confident
+P0059,Individual,Somewhat confident
+P0060,Individual,A little confident
+P0061,Prestige,A little confident
+P0062,Season,Somewhat confident
+P0063,Age,Somewhat confident
+P0064,Conformity,Somewhat confident
+P0065,Prestige,A little confident
+P0066,Age,Quite confident
+P0067,Conformity,Somewhat confident
+P0068,Age,Somewhat confident
+P0069,Season,Somewhat confident
+P0070,Individual,Quite confident
+P0071,Conformity,Not at all confident
+P0072,Prestige,Somewhat confident
+P0073,Season,Somewhat confident
+P0074,Age,Somewhat confident
+P0075,Individual,Quite confident
+P0076,Conformity,A little confident
+P0077,Age,Very confident
+P0078,Individual,Somewhat confident
+P0079,Individual,A little confident
+P0080,Season,Somewhat confident
+P0081,Season,A little confident
+P0082,Individual,Somewhat confident
+P0083,Age,Quite confident
+P0084,Season,Quite confident
+P0085,Individual,Quite confident
+P0086,Individual,A little confident
+P0087,Age,Somewhat confident
+P0088,Season,Quite confident
+P0089,Conformity,A little confident
+P0090,Prestige,Somewhat confident
+P0091,Prestige,A little confident
+P0092,Individual,Quite confident
+P0093,Season,Somewhat confident
+P0094,Individual,Somewhat confident
+P0095,Age,Somewhat confident
+P0096,Prestige,A little confident
+P0097,Prestige,Quite confident
+P0098,Conformity,Not at all confident
+P0099,Season,Somewhat confident
+P0100,Conformity,Quite confident
+P0101,Conformity,Somewhat confident
+P0102,Age,Somewhat confident
+P0103,Season,A little confident
+P0104,Conformity,Not at all confident
+P0105,Individual,Somewhat confident
+P0106,Prestige,A little confident
+P0107,Age,A little confident
+P0108,Individual,Somewhat confident
+P0109,Prestige,Somewhat confident
+P0110,Season,Quite confident
+P0111,Season,Somewhat confident
+P0112,Prestige,Not at all confident
+P0113,Season,Somewhat confident
+P0114,Prestige,Quite confident
+P0115,Prestige,A little confident
+P0116,Conformity,Not at all confident
+P0117,Individual,Quite confident
+P0118,Prestige,A little confident
+P0119,Prestige,A little confident
+P0120,Age,Somewhat confident
+P0121,Conformity,Somewhat confident
+P0122,Conformity,Not at all confident
+P0123,Prestige,Somewhat confident
+P0124,Prestige,Somewhat confident
+P0125,Individual,Somewhat confident
+P0126,Conformity,A little confident
+P0127,Season,A little confident
+P0128,Individual,Somewhat confident
+P0129,Conformity,Quite confident
+P0130,Conformity,Somewhat confident
+P0131,Conformity,Somewhat confident
+P0132,Conformity,Not at all confident
+P0133,Individual,Quite confident
+P0134,Season,Quite confident
+P0135,Age,A little confident
+P0136,Individual,Not at all confident
+P0137,Prestige,Somewhat confident
+P0138,Conformity,Not at all confident
+P0139,Individual,Quite confident
+P0140,Individual,Quite confident
+P0141,Conformity,Somewhat confident
+P0142,Age,Somewhat confident
+P0143,Individual,A little confident
+P0144,Season,Somewhat confident
+P0145,Age,Somewhat confident
+P0146,Season,Somewhat confident
+P0147,Prestige,Somewhat confident
+P0148,Season,Very confident
+P0149,Individual,Quite confident
+P0150,Age,A little confident
+P0151,Prestige,Somewhat confident
+P0152,Prestige,A little confident
+P0153,Season,Somewhat confident
+P0154,Age,Somewhat confident
+P0155,Individual,A little confident
+P0156,Individual,Somewhat confident
+P0157,Conformity,Somewhat confident
+P0158,Individual,Somewhat confident
+P0159,Season,A little confident
+P0160,Individual,Quite confident
+P0161,Season,Somewhat confident
+P0162,Age,A little confident
+P0163,Age,Not at all confident
+P0164,Season,Quite confident
+P0165,Conformity,A little confident
+P0166,Age,Somewhat confident
+P0167,Age,Not at all confident
+P0168,Season,A little confident
+P0169,Prestige,A little confident
+P0170,Age,A little confident
+P0171,Individual,Quite confident
+P0172,Season,Somewhat confident
+P0173,Age,Quite confident
+P0174,Prestige,Somewhat confident
+P0175,Prestige,Not at all confident
+P0176,Age,Somewhat confident
+P0177,Age,Somewhat confident
+P0178,Season,Very confident
+P0179,Age,Not at all confident
+P0180,Individual,Somewhat confident
+P0181,Conformity,A little confident
+P0182,Season,Somewhat confident
+P0183,Conformity,Quite confident
+P0184,Individual,Quite confident
+P0185,Conformity,Somewhat confident
+P0186,Individual,Quite confident
+P0187,Age,Not at all confident
+P0188,Individual,A little confident
+P0189,Age,Somewhat confident
+P0190,Season,Quite confident
+P0191,Conformity,A little confident
+P0192,Conformity,Not at all confident
+P0193,Conformity,Quite confident
+P0194,Conformity,A little confident
+P0195,Prestige,Not at all confident
+P0196,Age,A little confident
+P0197,Age,Somewhat confident
+P0198,Season,Somewhat confident
+P0199,Season,Quite confident
+P0200,Prestige,A little confident
+P0201,Season,Somewhat confident
+P0202,Season,Somewhat confident
+P0203,Conformity,Somewhat confident
+P0204,Prestige,Quite confident
+P0205,Prestige,Somewhat confident
+P0206,Prestige,Somewhat confident
+P0207,Conformity,Somewhat confident
+P0208,Conformity,Somewhat confident
+P0209,Season,A little confident
+P0210,Prestige,Somewhat confident
+P0211,Individual,Quite confident
+P0212,Conformity,Somewhat confident
+P0213,Prestige,A little confident
+P0214,Prestige,Somewhat confident
+P0215,Prestige,Very confident
+P0216,Individual,Somewhat confident
+P0217,Age,Somewhat confident
+P0218,Prestige,Very confident
+P0219,Conformity,Not at all confident
+P0220,Prestige,Very confident
+P0221,Age,Somewhat confident
+P0222,Age,Very confident
+P0223,Season,Not at all confident
+P0224,Age,Quite confident
+P0225,Conformity,Quite confident
+P0226,Individual,Somewhat confident
+P0227,Prestige,Quite confident
+P0228,Age,Somewhat confident
+P0229,Individual,Quite confident
+P0230,Conformity,A little confident
+P0231,Season,Somewhat confident
+P0232,Individual,Quite confident
+P0233,Conformity,A little confident
+P0234,Age,Very confident
+P0235,Season,A little confident
+P0236,Age,A little confident
+P0237,Prestige,Somewhat confident
+P0238,Season,Not at all confident
+P0239,Individual,Somewhat confident
+P0240,Prestige,Very confident
+P0241,Season,Quite confident
+P0242,Age,Somewhat confident
+P0243,Conformity,Somewhat confident
+P0244,Age,Quite confident
+P0245,Individual,Somewhat confident
+P0246,Individual,Somewhat confident
+P0247,Conformity,Somewhat confident
+P0248,Prestige,Somewhat confident
+P0249,Season,Somewhat confident
+P0250,Prestige,Somewhat confident
+P0251,Age,Very confident
+P0252,Individual,A little confident
+P0253,Season,Somewhat confident
+P0254,Season,Quite confident
+P0255,Individual,Somewhat confident
+P0256,Season,Somewhat confident
+P0257,Individual,A little confident
+P0258,Prestige,A little confident
+P0259,Age,Somewhat confident
+P0260,Age,Somewhat confident
+P0261,Individual,A little confident
+P0262,Season,Somewhat confident
+P0263,Season,A little confident
+P0264,Individual,Not at all confident
+P0265,Season,Somewhat confident
+P0266,Season,Somewhat confident
+P0267,Conformity,A little confident
+P0268,Conformity,Very confident
+P0269,Individual,Very confident
+P0270,Individual,Quite confident
+P0271,Conformity,Somewhat confident
+P0272,Age,A little confident
+P0273,Individual,Quite confident
+P0274,Prestige,Quite confident
+P0275,Individual,Somewhat confident
+P0276,Prestige,A little confident
+P0277,Prestige,Very confident
+P0278,Conformity,Somewhat confident
+P0279,Prestige,Quite confident
+P0280,Individual,Somewhat confident
+P0281,Prestige,Very confident
+P0282,Age,A little confident
+P0283,Conformity,Very confident
+P0284,Prestige,Quite confident
+P0285,Season,Somewhat confident
+P0286,Conformity,A little confident
+P0287,Season,Somewhat confident
+P0288,Age,Quite confident
+P0289,Individual,Somewhat confident
+P0290,Conformity,Somewhat confident
+P0291,Prestige,Quite confident
+P0292,Individual,Somewhat confident
+P0293,Conformity,A little confident
+P0294,Season,Quite confident
+P0295,Age,Somewhat confident
+P0296,Conformity,A little confident
+P0297,Season,Somewhat confident
+P0298,Age,A little confident
+P0299,Conformity,A little confident
+P0300,Individual,Very confident
+P0301,Conformity,Quite confident
+P0302,Age,Not at all confident
+P0303,Age,Very confident
+P0304,Conformity,Somewhat confident
+P0305,Prestige,A little confident
+P0306,Season,Somewhat confident
+P0307,Prestige,Quite confident
+P0308,Age,A little confident
+P0309,Prestige,A little confident
+P0310,Prestige,Somewhat confident
+P0311,Conformity,Quite confident
+P0312,Prestige,A little confident
+P0313,Individual,Somewhat confident
+P0314,Conformity,Somewhat confident
+P0315,Conformity,Quite confident
+P0316,Season,Somewhat confident
+P0317,Age,Quite confident
+P0318,Season,Somewhat confident
+P0319,Conformity,Quite confident
+P0320,Individual,Somewhat confident
+P0321,Age,Somewhat confident
+P0322,Conformity,Somewhat confident
+P0323,Prestige,Quite confident
+P0324,Season,A little confident
+P0325,Individual,Somewhat confident
+P0326,Season,Very confident
+P0327,Individual,Somewhat confident
+P0328,Individual,Quite confident
+P0329,Age,A little confident
+P0330,Age,Somewhat confident
+P0331,Season,Very confident
+P0332,Individual,Quite confident
+P0333,Age,Somewhat confident
+P0334,Individual,Quite confident
+P0335,Individual,Very confident
+P0336,Prestige,Quite confident
+P0337,Prestige,Somewhat confident
+P0338,Individual,Not at all confident
+P0339,Season,Not at all confident
+P0340,Prestige,Quite confident
+P0341,Individual,Very confident
+P0342,Individual,Somewhat confident
+P0343,Season,Quite confident
+P0344,Conformity,Somewhat confident
+P0345,Season,Somewhat confident
+P0346,Season,Quite confident
+P0347,Season,Quite confident
+P0348,Conformity,Somewhat confident
+P0349,Age,Somewhat confident
+P0350,Individual,Somewhat confident
+P0351,Season,Somewhat confident
+P0352,Conformity,Quite confident
+P0353,Individual,Very confident
+P0354,Conformity,Quite confident
+P0355,Conformity,Somewhat confident
+P0356,Season,A little confident
+P0357,Age,Somewhat confident
+P0358,Conformity,A little confident
+P0359,Individual,Somewhat confident
+P0360,Conformity,A little confident
+P0361,Age,Somewhat confident
+P0362,Age,Somewhat confident
+P0363,Conformity,Quite confident
+P0364,Prestige,A little confident
+P0365,Prestige,Quite confident
+P0366,Age,Somewhat confident
+P0367,Prestige,A little confident
+P0368,Conformity,Not at all confident
+P0369,Season,A little confident
+P0370,Prestige,A little confident
+P0371,Age,A little confident
+P0372,Age,Not at all confident
+P0373,Prestige,Very confident
+P0374,Season,Quite confident
+P0375,Individual,Somewhat confident
+P0376,Season,Quite confident
+P0377,Age,Quite confident
+P0378,Season,Somewhat confident
+P0379,Age,Somewhat confident
+P0380,Individual,Somewhat confident
+P0381,Age,Quite confident
+P0382,Conformity,Very confident
+P0383,Season,Somewhat confident
+P0384,Age,A little confident
+P0385,Individual,Somewhat confident
+P0386,Conformity,Quite confident
+P0387,Conformity,Quite confident
+P0388,Age,Somewhat confident
+P0389,Age,Somewhat confident
+P0390,Season,Somewhat confident
+P0391,Prestige,A little confident
+P0392,Age,A little confident
+P0393,Prestige,A little confident
+P0394,Prestige,Somewhat confident
+P0395,Conformity,Somewhat confident
+P0396,Conformity,Quite confident
+P0397,Individual,Somewhat confident
+P0398,Season,Not at all confident
+P0399,Prestige,Somewhat confident
+P0400,Conformity,Quite confident
+P0401,Individual,Somewhat confident
+P0402,Season,Quite confident
+P0403,Age,Very confident
+P0404,Individual,Very confident
+P0405,Season,A little confident
+P0406,Season,Somewhat confident
+P0407,Conformity,Very confident
+P0408,Season,Quite confident
+P0409,Individual,Very confident
+P0410,Individual,A little confident
+P0411,Age,A little confident
+P0412,Prestige,Quite confident
+P0413,Prestige,Somewhat confident
+P0414,Season,Very confident
+P0415,Age,Not at all confident
+P0416,Season,Somewhat confident
+P0417,Prestige,Quite confident
+P0418,Prestige,A little confident
+P0419,Age,Somewhat confident
+P0420,Individual,A little confident
+P0421,Season,Not at all confident
+P0422,Age,Quite confident
+P0423,Age,Quite confident
+P0424,Prestige,Somewhat confident
+P0425,Prestige,Very confident
+P0426,Conformity,Quite confident
+P0427,Age,Not at all confident
+P0428,Prestige,A little confident
+P0429,Season,Very confident
+P0430,Conformity,Somewhat confident
+P0431,Conformity,Very confident
+P0432,Age,Somewhat confident
+P0433,Prestige,A little confident
+P0434,Individual,Quite confident
+P0435,Prestige,Somewhat confident
+P0436,Individual,Quite confident
+P0437,Conformity,Somewhat confident
+P0438,Conformity,Very confident
+P0439,Age,Somewhat confident
+P0440,Age,Somewhat confident
+P0441,Individual,Very confident
+P0442,Season,Quite confident
+P0443,Prestige,Quite confident
+P0444,Season,A little confident
+P0445,Individual,Quite confident
+P0446,Prestige,Somewhat confident
+P0447,Individual,Quite confident
+P0448,Prestige,Somewhat confident
+P0449,Season,A little confident
+P0450,Individual,Somewhat confident
+P0451,Conformity,Somewhat confident
+P0452,Conformity,Not at all confident
+P0453,Conformity,Somewhat confident
+P0454,Season,A little confident
+P0455,Conformity,A little confident
+P0456,Conformity,Somewhat confident
+P0457,Season,Somewhat confident
+P0458,Prestige,Somewhat confident
+P0459,Prestige,Quite confident
+P0460,Season,A little confident
+P0461,Age,A little confident
+P0462,Prestige,Quite confident
+P0463,Prestige,Very confident
+P0464,Individual,Somewhat confident
+P0465,Season,Quite confident
+P0466,Individual,Very confident
+P0467,Age,A little confident
+P0468,Prestige,A little confident
+P0469,Conformity,Somewhat confident
+P0470,Age,Very confident
+P0471,Prestige,Quite confident
+P0472,Conformity,Not at all confident
+P0473,Season,Quite confident
+P0474,Conformity,Quite confident
+P0475,Individual,Not at all confident
+P0476,Prestige,Very confident
+P0477,Age,Somewhat confident
+P0478,Conformity,Not at all confident
+P0479,Age,Very confident
+P0480,Individual,Quite confident
+P0481,Age,Somewhat confident
+P0482,Prestige,Quite confident
+P0483,Conformity,Very confident
+P0484,Individual,Somewhat confident
+P0485,Age,Somewhat confident
+P0486,Season,Somewhat confident
+P0487,Conformity,Quite confident
+P0488,Prestige,A little confident
+P0489,Conformity,Somewhat confident
+P0490,Season,Very confident
+P0491,Individual,Somewhat confident
+P0492,Individual,Quite confident
+P0493,Individual,Somewhat confident
+P0494,Conformity,Not at all confident
+P0495,Prestige,Not at all confident
+P0496,Age,Somewhat confident
+P0497,Season,A little confident
+P0498,Prestige,Not at all confident
+P0499,Prestige,Somewhat confident
+P0500,Individual,A little confident
+P0501,Age,Somewhat confident
+P0502,Conformity,Not at all confident
+P0503,Season,A little confident
+P0504,Prestige,Quite confident
+P0505,Prestige,Very confident
+P0506,Conformity,A little confident
+P0507,Conformity,Quite confident
+P0508,Individual,A little confident
+P0509,Conformity,Quite confident
+P0510,Age,Quite confident
+P0511,Prestige,Very confident
+P0512,Age,A little confident
+P0513,Season,Somewhat confident
+P0514,Individual,Very confident
+P0515,Individual,Quite confident
+P0516,Age,Quite confident
+P0517,Season,Quite confident
+P0518,Age,Somewhat confident
+P0519,Season,Somewhat confident
+P0520,Age,Quite confident
+P0521,Season,A little confident
+P0522,Age,Quite confident
+P0523,Conformity,A little confident
+P0524,Prestige,Quite confident
+P0525,Conformity,Quite confident
+P0526,Age,Somewhat confident
+P0527,Season,Not at all confident
+P0528,Season,Quite confident
+P0529,Prestige,Very confident
+P0530,Conformity,Somewhat confident
+P0531,Individual,Quite confident
+P0532,Individual,Somewhat confident
+P0533,Individual,Very confident
+P0534,Prestige,Quite confident
+P0535,Individual,Somewhat confident
+P0536,Prestige,Somewhat confident
+P0537,Individual,Very confident
+P0538,Prestige,Quite confident
+P0539,Individual,Very confident
+P0540,Season,Somewhat confident
+P0541,Prestige,Somewhat confident
+P0542,Age,Quite confident
+P0543,Conformity,Somewhat confident
+P0544,Age,Quite confident
+P0545,Conformity,Quite confident
+P0546,Prestige,Somewhat confident
+P0547,Age,Quite confident
+P0548,Conformity,Quite confident
+P0549,Season,Somewhat confident
+P0550,Conformity,Not at all confident
+P0551,Season,Somewhat confident
+P0552,Season,Somewhat confident
+P0553,Prestige,Somewhat confident
+P0554,Individual,A little confident
+P0555,Individual,Somewhat confident
+P0556,Individual,Somewhat confident
+P0557,Season,Somewhat confident
+P0558,Age,Very confident
+P0559,Age,Somewhat confident
+P0560,Age,Somewhat confident
+P0561,Season,Somewhat confident
+P0562,Individual,Somewhat confident
+P0563,Prestige,Not at all confident
+P0564,Season,A little confident
+P0565,Season,A little confident
+P0566,Age,Very confident
+P0567,Prestige,Quite confident
+P0568,Conformity,Somewhat confident
+P0569,Prestige,A little confident
+P0570,Conformity,Quite confident
+P0571,Conformity,Quite confident
+P0572,Individual,Somewhat confident
+P0573,Season,Somewhat confident
+P0574,Prestige,A little confident
+P0575,Season,Quite confident
+P0576,Age,Quite confident
+P0577,Conformity,Somewhat confident
+P0578,Prestige,Quite confident
+P0579,Prestige,Quite confident
+P0580,Prestige,Very confident
+P0581,Individual,Not at all confident
+P0582,Individual,Quite confident
+P0583,Conformity,A little confident
+P0584,Individual,A little confident
+P0585,Season,Somewhat confident
+P0586,Conformity,Very confident
+P0587,Age,Not at all confident
+P0588,Individual,A little confident
+P0589,Conformity,Very confident
+P0590,Season,Very confident
+P0591,Conformity,Somewhat confident
+P0592,Age,Somewhat confident
+P0593,Age,Somewhat confident
+P0594,Individual,Somewhat confident
+P0595,Season,Somewhat confident
+P0596,Age,Very confident
+P0597,Individual,Somewhat confident
+P0598,Conformity,A little confident
+P0599,Individual,Quite confident
+P0600,Prestige,Somewhat confident
+P0601,Prestige,Somewhat confident
+P0602,Prestige,Somewhat confident
+P0603,Season,Somewhat confident
+P0604,Individual,Quite confident
+P0605,Conformity,Somewhat confident
+P0606,Prestige,Somewhat confident
+P0607,Age,A little confident
+P0608,Age,Somewhat confident
+P0609,Prestige,A little confident
+P0610,Individual,Somewhat confident
+P0611,Season,Somewhat confident
+P0612,Prestige,Somewhat confident
+P0613,Conformity,A little confident
+P0614,Season,Somewhat confident
+P0615,Individual,A little confident
+P0616,Conformity,Not at all confident
+P0617,Age,Not at all confident
+P0618,Conformity,Somewhat confident
+P0619,Season,Quite confident
+P0620,Age,Quite confident
+P0621,Season,Somewhat confident
+P0622,Conformity,Somewhat confident
+P0623,Age,Very confident
+P0624,Individual,Somewhat confident
+P0625,Age,Somewhat confident
+P0626,Conformity,Somewhat confident
+P0627,Prestige,Not at all confident
+P0628,Individual,Quite confident
+P0629,Season,Somewhat confident
+P0630,Season,A little confident
+P0631,Conformity,Quite confident
+P0632,Age,A little confident
+P0633,Season,A little confident
+P0634,Age,Very confident
+P0635,Age,Quite confident
+P0636,Individual,Quite confident
+P0637,Season,Very confident
+P0638,Conformity,A little confident
+P0639,Prestige,Somewhat confident
+P0640,Prestige,A little confident
+P0641,Age,Quite confident
+P0642,Conformity,Somewhat confident
+P0643,Individual,Somewhat confident
+P0644,Prestige,A little confident
+P0645,Age,Not at all confident
+P0646,Season,Somewhat confident
+P0647,Season,A little confident
+P0648,Age,Very confident
+P0649,Prestige,A little confident
+P0650,Individual,Very confident
+P0651,Prestige,Very confident
+P0652,Season,Somewhat confident
+P0653,Conformity,Quite confident
+P0654,Prestige,Not at all confident
+P0655,Individual,Very confident
+P0656,Prestige,A little confident
+P0657,Age,A little confident
+P0658,Age,Somewhat confident
+P0659,Conformity,A little confident
+P0660,Age,Very confident
+P0661,Season,Somewhat confident
+P0662,Conformity,Quite confident
+P0663,Prestige,Very confident
+P0664,Conformity,A little confident
+P0665,Individual,Quite confident
+P0666,Individual,Very confident
+P0667,Season,Somewhat confident
+P0668,Conformity,Somewhat confident
+P0669,Age,Quite confident
+P0670,Individual,A little confident
+P0671,Conformity,A little confident
+P0672,Season,Somewhat confident
+P0673,Conformity,A little confident
+P0674,Prestige,Not at all confident
+P0675,Age,A little confident
+P0676,Age,A little confident
+P0677,Individual,Quite confident
+P0678,Age,Quite confident
+P0679,Prestige,Quite confident
+P0680,Season,A little confident
+P0681,Season,Very confident
+P0682,Conformity,Not at all confident
+P0683,Individual,Somewhat confident
+P0684,Season,Very confident
+P0685,Individual,Somewhat confident
+P0686,Conformity,Somewhat confident
+P0687,Season,Quite confident
+P0688,Individual,Somewhat confident
+P0689,Age,Quite confident
+P0690,Prestige,Somewhat confident
+P0691,Prestige,Not at all confident
+P0692,Season,Somewhat confident
+P0693,Conformity,Quite confident
+P0694,Age,A little confident
+P0695,Individual,Somewhat confident
+P0696,Season,Somewhat confident
+P0697,Conformity,Very confident
+P0698,Prestige,A little confident
+P0699,Age,Quite confident
+P0700,Prestige,Quite confident
+P0701,Individual,Not at all confident
+P0702,Conformity,Somewhat confident
+P0703,Conformity,Somewhat confident
+P0704,Individual,Very confident
+P0705,Prestige,A little confident
+P0706,Season,Quite confident
+P0707,Individual,Somewhat confident
+P0708,Age,Very confident
+P0709,Prestige,Quite confident
+P0710,Individual,Not at all confident
+P0711,Conformity,Very confident
+P0712,Season,Somewhat confident
+P0713,Season,Quite confident
+P0714,Prestige,Somewhat confident
+P0715,Age,Somewhat confident
+P0716,Conformity,Somewhat confident
+P0717,Age,Somewhat confident
+P0718,Individual,Somewhat confident
+P0719,Age,Somewhat confident
+P0720,Age,Somewhat confident
+P0721,Season,Not at all confident
+P0722,Prestige,Quite confident
+P0723,Prestige,Not at all confident
+P0724,Conformity,Somewhat confident
+P0725,Conformity,Somewhat confident
+P0726,Season,Somewhat confident
+P0727,Individual,Quite confident
+P0728,Age,Very confident
+P0729,Individual,Somewhat confident
+P0730,Season,Somewhat confident
+P0731,Prestige,A little confident
+P0732,Individual,Not at all confident
+P0733,Season,Somewhat confident
+P0734,Prestige,Somewhat confident
+P0735,Age,Somewhat confident
+P0736,Individual,Somewhat confident
+P0737,Conformity,Somewhat confident
+P0738,Prestige,Not at all confident
+P0739,Age,Somewhat confident
+P0740,Season,Not at all confident
+P0741,Individual,Quite confident
+P0742,Conformity,A little confident
+P0743,Conformity,Quite confident
+P0744,Season,Somewhat confident
+P0745,Prestige,Somewhat confident
+P0746,Conformity,Quite confident
+P0747,Age,Quite confident
+P0748,Prestige,Somewhat confident
+P0749,Season,A little confident
+P0750,Age,Quite confident
+P0751,Age,Quite confident
+P0752,Individual,Somewhat confident
+P0753,Prestige,Quite confident
+P0754,Prestige,Very confident
+P0755,Conformity,Somewhat confident
+P0756,Season,A little confident
+P0757,Prestige,Very confident
+P0758,Individual,Quite confident
+P0759,Season,Somewhat confident
+P0760,Conformity,Very confident
+P0761,Age,Somewhat confident
+P0762,Conformity,Somewhat confident
+P0763,Individual,Somewhat confident
+P0764,Prestige,Somewhat confident
+P0765,Individual,Quite confident
+P0766,Season,Somewhat confident
+P0767,Age,Somewhat confident
+P0768,Age,Somewhat confident
+P0769,Conformity,Quite confident
+P0770,Season,Quite confident
+P0771,Prestige,Quite confident
+P0772,Individual,A little confident
+P0773,Prestige,A little confident
+P0774,Season,Somewhat confident
+P0775,Individual,Quite confident
+P0776,Age,Somewhat confident
+P0777,Prestige,Very confident
+P0778,Age,Somewhat confident
+P0779,Conformity,Quite confident
+P0780,Individual,Somewhat confident
+P0781,Conformity,Somewhat confident
+P0782,Season,Somewhat confident
+P0783,Season,Somewhat confident
+P0784,Conformity,Not at all confident
+P0785,Age,Not at all confident
+P0786,Individual,Somewhat confident
+P0787,Prestige,Quite confident
+P0788,Prestige,Not at all confident
+P0789,Individual,Somewhat confident
+P0790,Season,Quite confident
+P0791,Age,A little confident
+P0792,Prestige,Quite confident
+P0793,Conformity,A little confident
+P0794,Conformity,A little confident
+P0795,Conformity,A little confident
+P0796,Individual,Somewhat confident
+P0797,Season,Somewhat confident
+P0798,Age,Very confident
+P0799,Age,Quite confident
+P0800,Individual,Very confident
+P0801,Season,Somewhat confident
+P0802,Prestige,A little confident
+P0803,Individual,A little confident
+P0804,Prestige,Somewhat confident
+P0805,Age,Somewhat confident
+P0806,Season,A little confident
+P0807,Conformity,A little confident
+P0808,Individual,Somewhat confident
+P0809,Conformity,Very confident
+P0810,Prestige,Very confident
+P0811,Individual,Very confident
+P0812,Age,Quite confident
+P0813,Season,Quite confident
+P0814,Season,Quite confident
+P0815,Age,Quite confident
+P0816,Prestige,Somewhat confident
+P0817,Conformity,Somewhat confident
+P0818,Age,Somewhat confident
+P0819,Conformity,Quite confident
+P0820,Season,Very confident
+P0821,Prestige,Somewhat confident
+P0822,Prestige,Somewhat confident
+P0823,Individual,A little confident
+P0824,Age,A little confident
+P0825,Conformity,Not at all confident
+P0826,Individual,Not at all confident
+P0827,Season,Quite confident
+P0828,Age,Somewhat confident
+P0829,Individual,Somewhat confident
+P0830,Prestige,Somewhat confident
+P0831,Season,A little confident
+P0832,Conformity,Somewhat confident
+P0833,Age,Somewhat confident
+P0834,Prestige,Somewhat confident
+P0835,Individual,Somewhat confident
+P0836,Conformity,Somewhat confident
+P0837,Season,Somewhat confident
+P0838,Individual,Somewhat confident
+P0839,Prestige,Somewhat confident
+P0840,Age,Somewhat confident
+P0841,Conformity,Somewhat confident
+P0842,Season,A little confident
+P0843,Conformity,Somewhat confident
+P0844,Season,Quite confident
+P0845,Individual,Very confident
+P0846,Age,Quite confident
+P0847,Prestige,Somewhat confident
+P0848,Age,Somewhat confident
+P0849,Individual,Somewhat confident
+P0850,Prestige,A little confident
+P0851,Conformity,A little confident
+P0852,Season,Somewhat confident
+P0853,Individual,Very confident
+P0854,Season,Somewhat confident
+P0855,Prestige,Somewhat confident
+P0856,Conformity,Somewhat confident
+P0857,Age,Somewhat confident
+P0858,Age,Quite confident
+P0859,Prestige,Somewhat confident
+P0860,Season,Quite confident
+P0861,Individual,A little confident
+P0862,Conformity,Very confident
+P0863,Conformity,Somewhat confident
+P0864,Season,Quite confident
+P0865,Age,Quite confident
+P0866,Individual,Somewhat confident
+P0867,Prestige,A little confident
+P0868,Season,Very confident
+P0869,Prestige,Quite confident
+P0870,Individual,A little confident
+P0871,Conformity,Somewhat confident
+P0872,Individual,Somewhat confident
+P0873,Age,Quite confident
+P0874,Prestige,Quite confident
+P0875,Conformity,Somewhat confident
+P0876,Age,Quite confident
+P0877,Season,Quite confident
+P0878,Conformity,Somewhat confident
+P0879,Prestige,Not at all confident
+P0880,Individual,Somewhat confident
+P0881,Season,A little confident
+P0882,Age,Somewhat confident
+P0883,Age,Not at all confident
+P0884,Conformity,Quite confident
+P0885,Season,Quite confident
+P0886,Prestige,Quite confident
+P0887,Individual,Quite confident
+P0888,Season,A little confident
+P0889,Age,Somewhat confident
+P0890,Individual,Somewhat confident
+P0891,Conformity,Somewhat confident
+P0892,Prestige,Quite confident
+P0893,Season,Somewhat confident
+P0894,Age,Quite confident
+P0895,Conformity,Quite confident
+P0896,Prestige,A little confident
+P0897,Individual,Somewhat confident
+P0898,Conformity,Not at all confident
+P0899,Season,Somewhat confident
+P0900,Individual,Quite confident
+P0901,Prestige,Somewhat confident
+P0902,Age,Quite confident
+P0903,Individual,Somewhat confident

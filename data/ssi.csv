@@ -1,0 +1,903 @@
+Participant ID,Condition,Q1,Q2,Q3,Q4,Score
+P0001,Season,Somewhat agree,Somewhat agree,Strong agree,Strong agree,0.875
+P0002,Individual,Strongly agree,Strongly agree,Strong agree,Somewhat agree,0.9375
+P0003,Conformity,Somewhat agree,Neither agree nor disagree,Somewhat agree,Neither agree nor disagree,0.625
+P0004,Season,Neither agree nor disagree,Somewhat agree,Somewhat agree,Somewhat agree,0.6875
+P0005,Individual,Neither agree nor disagree,Neither agree nor disagree,Somewhat agree,Somewhat agree,0.625
+P0006,Season,Somewhat agree,Somewhat agree,Somewhat agree,Somewhat agree,0.75
+P0007,Age,Neither agree nor disagree,Somewhat disagree,Neither agree nor disagree,Somewhat disagree,0.375
+P0008,Individual,Neither agree nor disagree,Somewhat agree,Neither agree nor disagree,Neither agree nor disagree,0.5625
+P0009,Prestige,Somewhat agree,Somewhat agree,Somewhat agree,Somewhat agree,0.75
+P0010,Prestige,Strongly disagree,Strongly disagree,Somewhat disagree,Strongly disagree,0.0625
+P0011,Conformity,Strongly agree,Strongly agree,Strong agree,Strong agree,1.0
+P0012,Age,Strongly disagree,Somewhat agree,Somewhat agree,Somewhat disagree,0.4375
+P0013,Conformity,Neither agree nor disagree,Somewhat agree,Somewhat disagree,Somewhat disagree,0.4375
+P0014,Prestige,Somewhat agree,Somewhat agree,Somewhat agree,Somewhat agree,0.75
+P0015,Age,Somewhat disagree,Somewhat agree,Somewhat disagree,Somewhat agree,0.5
+P0016,Conformity,Somewhat agree,Somewhat disagree,Strongly disagree,Strongly disagree,0.25
+P0017,Prestige,Somewhat disagree,Somewhat disagree,Somewhat disagree,Somewhat disagree,0.25
+P0018,Season,Somewhat disagree,Neither agree nor disagree,Somewhat agree,Somewhat disagree,0.4375
+P0019,Conformity,Somewhat agree,Strongly disagree,Somewhat agree,Neither agree nor disagree,0.5
+P0020,Individual,Somewhat disagree,Somewhat agree,Somewhat agree,Somewhat agree,0.625
+P0021,Individual,Somewhat agree,Somewhat disagree,Somewhat agree,Somewhat agree,0.625
+P0022,Prestige,Somewhat agree,Strongly agree,Somewhat agree,Somewhat agree,0.8125
+P0023,Individual,Somewhat disagree,Somewhat disagree,Strongly disagree,Strongly disagree,0.125
+P0024,Age,Somewhat agree,Neither agree nor disagree,Somewhat agree,Somewhat agree,0.6875
+P0025,Individual,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,0.0
+P0026,Age,Somewhat disagree,Somewhat disagree,Strong agree,Somewhat disagree,0.4375
+P0027,Conformity,Somewhat disagree,Neither agree nor disagree,Somewhat disagree,Neither agree nor disagree,0.375
+P0028,Prestige,Somewhat agree,Strongly agree,Strong agree,Somewhat agree,0.875
+P0029,Prestige,Strongly agree,Strongly agree,Strong agree,Strong agree,1.0
+P0030,Conformity,Somewhat disagree,Somewhat disagree,Neither agree nor disagree,Somewhat disagree,0.3125
+P0031,Age,Somewhat agree,Somewhat agree,Somewhat agree,Somewhat agree,0.75
+P0032,Conformity,Somewhat agree,Somewhat agree,Somewhat agree,Somewhat agree,0.75
+P0033,Season,Neither agree nor disagree,Somewhat agree,Somewhat agree,Neither agree nor disagree,0.625
+P0034,Conformity,Somewhat agree,Strongly agree,Neither agree nor disagree,Somewhat agree,0.75
+P0035,Age,Somewhat agree,Somewhat agree,Strong agree,Strong agree,0.875
+P0036,Season,Somewhat disagree,Somewhat disagree,Somewhat agree,Neither agree nor disagree,0.4375
+P0037,Season,Strongly disagree,Somewhat disagree,Somewhat disagree,Strongly disagree,0.125
+P0038,Individual,Somewhat agree,Strongly disagree,Somewhat agree,Strong agree,0.625
+P0039,Individual,Neither agree nor disagree,Neither agree nor disagree,Somewhat disagree,Somewhat disagree,0.375
+P0040,Prestige,Somewhat agree,Somewhat agree,Strong agree,Somewhat agree,0.8125
+P0041,Season,Somewhat disagree,Somewhat disagree,Somewhat disagree,Somewhat disagree,0.25
+P0042,Prestige,Somewhat agree,Somewhat agree,Somewhat agree,Somewhat agree,0.75
+P0043,Season,Strongly agree,Somewhat agree,Somewhat disagree,Somewhat disagree,0.5625
+P0044,Age,Somewhat agree,Strongly agree,Somewhat agree,Somewhat agree,0.8125
+P0045,Season,Somewhat agree,Somewhat agree,Somewhat agree,Somewhat agree,0.75
+P0046,Conformity,Somewhat agree,Somewhat agree,Strong agree,Somewhat agree,0.8125
+P0047,Individual,Somewhat agree,Strongly agree,Neither agree nor disagree,Somewhat agree,0.75
+P0048,Age,Neither agree nor disagree,Somewhat agree,Somewhat disagree,Somewhat disagree,0.4375
+P0049,Prestige,Somewhat agree,Somewhat agree,Somewhat agree,Somewhat agree,0.75
+P0050,Season,Somewhat agree,Neither agree nor disagree,Somewhat agree,Somewhat agree,0.6875
+P0051,Age,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree,0.5
+P0052,Prestige,Neither agree nor disagree,Somewhat agree,Somewhat agree,Neither agree nor disagree,0.625
+P0053,Conformity,Somewhat agree,Neither agree nor disagree,Somewhat agree,Somewhat agree,0.6875
+P0054,Individual,Somewhat agree,Somewhat disagree,Somewhat agree,Somewhat agree,0.625
+P0055,Age,Somewhat agree,Somewhat agree,Strong agree,Somewhat agree,0.8125
+P0056,Prestige,Somewhat disagree,Somewhat disagree,Somewhat disagree,Neither agree nor disagree,0.3125
+P0057,Individual,Neither agree nor disagree,Somewhat agree,Somewhat agree,Strong agree,0.75
+P0058,Season,Somewhat agree,Somewhat disagree,Strong agree,Somewhat agree,0.6875
+P0059,Individual,Strongly agree,Somewhat agree,Somewhat agree,Somewhat agree,0.8125
+P0060,Individual,Somewhat disagree,Somewhat disagree,Strongly disagree,Strongly disagree,0.125
+P0061,Prestige,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,0.0
+P0062,Season,Somewhat agree,Somewhat agree,Strong agree,Somewhat agree,0.8125
+P0063,Age,Neither agree nor disagree,Neither agree nor disagree,Somewhat agree,Neither agree nor disagree,0.5625
+P0064,Conformity,Somewhat agree,Neither agree nor disagree,Somewhat agree,Neither agree nor disagree,0.625
+P0065,Prestige,Somewhat agree,Somewhat agree,Somewhat agree,Somewhat disagree,0.625
+P0066,Age,Somewhat agree,Somewhat agree,Strong agree,Strong agree,0.875
+P0067,Conformity,Somewhat agree,Somewhat agree,Somewhat agree,Somewhat agree,0.75
+P0068,Age,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,0.0
+P0069,Season,Somewhat agree,Somewhat disagree,Somewhat agree,Neither agree nor disagree,0.5625
+P0070,Individual,Strongly disagree,Somewhat agree,Strongly disagree,Strongly disagree,0.1875
+P0071,Conformity,Somewhat agree,Somewhat agree,Strong agree,Strong agree,0.875
+P0072,Prestige,Neither agree nor disagree,Neither agree nor disagree,Somewhat agree,Somewhat agree,0.625
+P0073,Season,Somewhat agree,Somewhat agree,Strong agree,Strong agree,0.875
+P0074,Age,Somewhat agree,Somewhat agree,Strong agree,Somewhat agree,0.8125
+P0075,Individual,Somewhat agree,Somewhat agree,Somewhat agree,Strong agree,0.8125
+P0076,Conformity,Somewhat disagree,Somewhat disagree,Somewhat disagree,Somewhat disagree,0.25
+P0077,Age,Somewhat agree,Strongly agree,Somewhat agree,Strong agree,0.875
+P0078,Individual,Neither agree nor disagree,Somewhat agree,Somewhat agree,Neither agree nor disagree,0.625
+P0079,Individual,Somewhat agree,Somewhat agree,Somewhat agree,Somewhat agree,0.75
+P0080,Season,Neither agree nor disagree,Neither agree nor disagree,Somewhat agree,Somewhat agree,0.625
+P0081,Season,Somewhat agree,Somewhat agree,Somewhat agree,Somewhat agree,0.75
+P0082,Individual,Somewhat disagree,Somewhat disagree,Somewhat agree,Somewhat agree,0.5
+P0083,Age,Somewhat disagree,Somewhat agree,Somewhat disagree,Neither agree nor disagree,0.4375
+P0084,Season,Neither agree nor disagree,Somewhat agree,Somewhat agree,Somewhat agree,0.6875
+P0085,Individual,Somewhat disagree,Strongly disagree,Somewhat agree,Somewhat disagree,0.3125
+P0086,Individual,Somewhat disagree,Strongly disagree,Strongly disagree,Strongly disagree,0.0625
+P0087,Age,Somewhat disagree,Strongly disagree,Somewhat agree,Somewhat agree,0.4375
+P0088,Season,Neither agree nor disagree,Somewhat agree,Neither agree nor disagree,Neither agree nor disagree,0.5625
+P0089,Conformity,Somewhat disagree,Somewhat agree,Somewhat disagree,Somewhat disagree,0.375
+P0090,Prestige,Somewhat disagree,Somewhat disagree,Neither agree nor disagree,Neither agree nor disagree,0.375
+P0091,Prestige,Somewhat disagree,Strongly disagree,Strongly disagree,Strongly disagree,0.0625
+P0092,Individual,Somewhat agree,Somewhat agree,Strong agree,Neither agree nor disagree,0.75
+P0093,Season,Somewhat agree,Strongly agree,Somewhat agree,Somewhat agree,0.8125
+P0094,Individual,Somewhat disagree,Somewhat disagree,Somewhat disagree,Somewhat disagree,0.25
+P0095,Age,Neither agree nor disagree,Neither agree nor disagree,Somewhat agree,Somewhat agree,0.625
+P0096,Prestige,Somewhat agree,Somewhat agree,Somewhat agree,Somewhat agree,0.75
+P0097,Prestige,Somewhat agree,Somewhat agree,Strong agree,Somewhat agree,0.8125
+P0098,Conformity,Somewhat agree,Strongly disagree,Strong agree,Strong agree,0.6875
+P0099,Season,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,0.0
+P0100,Conformity,Somewhat agree,Somewhat agree,Strong agree,Somewhat agree,0.8125
+P0101,Conformity,Strongly disagree,Somewhat disagree,Somewhat agree,Somewhat agree,0.4375
+P0102,Age,Somewhat agree,Strongly agree,Somewhat agree,Strong agree,0.875
+P0103,Season,Somewhat agree,Somewhat agree,Somewhat agree,Somewhat agree,0.75
+P0104,Conformity,Neither agree nor disagree,Neither agree nor disagree,Somewhat disagree,Somewhat disagree,0.375
+P0105,Individual,Somewhat agree,Somewhat agree,Strong agree,Somewhat agree,0.8125
+P0106,Prestige,Somewhat agree,Somewhat disagree,Somewhat disagree,Somewhat agree,0.5
+P0107,Age,Somewhat agree,Somewhat agree,Neither agree nor disagree,Somewhat agree,0.6875
+P0108,Individual,Neither agree nor disagree,Somewhat agree,Somewhat agree,Neither agree nor disagree,0.625
+P0109,Prestige,Neither agree nor disagree,Somewhat disagree,Somewhat agree,Neither agree nor disagree,0.5
+P0110,Season,Strongly disagree,Neither agree nor disagree,Somewhat agree,Neither agree nor disagree,0.4375
+P0111,Season,Somewhat disagree,Somewhat disagree,Neither agree nor disagree,Neither agree nor disagree,0.375
+P0112,Prestige,Neither agree nor disagree,Somewhat agree,Strong agree,Somewhat agree,0.75
+P0113,Season,Strongly disagree,Somewhat agree,Strongly disagree,Neither agree nor disagree,0.3125
+P0114,Prestige,Somewhat agree,Somewhat agree,Neither agree nor disagree,Somewhat agree,0.6875
+P0115,Prestige,Neither agree nor disagree,Neither agree nor disagree,Somewhat disagree,Somewhat disagree,0.375
+P0116,Conformity,Somewhat disagree,Somewhat disagree,Strongly disagree,Strongly disagree,0.125
+P0117,Individual,Neither agree nor disagree,Somewhat agree,Somewhat agree,Somewhat agree,0.6875
+P0118,Prestige,Somewhat disagree,Strongly disagree,Strongly disagree,Strongly disagree,0.0625
+P0119,Prestige,Somewhat disagree,Somewhat disagree,Somewhat agree,Neither agree nor disagree,0.4375
+P0120,Age,Somewhat disagree,Somewhat agree,Somewhat agree,Somewhat agree,0.625
+P0121,Conformity,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,0.0
+P0122,Conformity,Somewhat disagree,Strongly disagree,Somewhat agree,Neither agree nor disagree,0.375
+P0123,Prestige,Neither agree nor disagree,Somewhat agree,Somewhat disagree,Neither agree nor disagree,0.5
+P0124,Prestige,Neither agree nor disagree,Somewhat agree,Neither agree nor disagree,Somewhat disagree,0.5
+P0125,Individual,Somewhat agree,Somewhat agree,Strong agree,Somewhat agree,0.8125
+P0126,Conformity,Somewhat disagree,Strongly disagree,Neither agree nor disagree,Somewhat disagree,0.25
+P0127,Season,Strongly disagree,Somewhat agree,Strongly disagree,Strongly disagree,0.1875
+P0128,Individual,Somewhat agree,Somewhat agree,Strong agree,Strong agree,0.875
+P0129,Conformity,Somewhat agree,Strongly agree,Somewhat agree,Somewhat agree,0.8125
+P0130,Conformity,Somewhat agree,Somewhat agree,Strong agree,Somewhat agree,0.8125
+P0131,Conformity,Neither agree nor disagree,Somewhat agree,Neither agree nor disagree,Somewhat agree,0.625
+P0132,Conformity,Neither agree nor disagree,Somewhat agree,Neither agree nor disagree,Somewhat disagree,0.5
+P0133,Individual,Somewhat agree,Neither agree nor disagree,Somewhat agree,Somewhat agree,0.6875
+P0134,Season,Somewhat agree,Somewhat disagree,Somewhat agree,Somewhat agree,0.625
+P0135,Age,Somewhat agree,Somewhat disagree,Somewhat agree,Strongly disagree,0.4375
+P0136,Individual,Strongly disagree,Somewhat agree,Strong agree,Strong agree,0.6875
+P0137,Prestige,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,0.0
+P0138,Conformity,Neither agree nor disagree,Somewhat disagree,Somewhat agree,Somewhat disagree,0.4375
+P0139,Individual,Strongly disagree,Strongly disagree,Somewhat agree,Strongly disagree,0.1875
+P0140,Individual,Neither agree nor disagree,Strongly agree,Somewhat agree,Somewhat agree,0.75
+P0141,Conformity,Neither agree nor disagree,Somewhat agree,Neither agree nor disagree,Neither agree nor disagree,0.5625
+P0142,Age,Strongly disagree,Strongly disagree,Somewhat agree,Somewhat agree,0.375
+P0143,Individual,Somewhat disagree,Somewhat disagree,Somewhat agree,Somewhat disagree,0.375
+P0144,Season,Somewhat disagree,Somewhat disagree,Somewhat agree,Somewhat disagree,0.375
+P0145,Age,Somewhat agree,Somewhat agree,Strong agree,Strong agree,0.875
+P0146,Season,Somewhat disagree,Somewhat agree,Somewhat agree,Neither agree nor disagree,0.5625
+P0147,Prestige,Somewhat disagree,Strongly disagree,Strongly disagree,Strongly disagree,0.0625
+P0148,Season,Neither agree nor disagree,Strongly disagree,Strong agree,Somewhat agree,0.5625
+P0149,Individual,Somewhat agree,Somewhat disagree,Neither agree nor disagree,Somewhat disagree,0.4375
+P0150,Age,Somewhat disagree,Neither agree nor disagree,Somewhat disagree,Somewhat disagree,0.3125
+P0151,Prestige,Somewhat agree,Somewhat agree,Somewhat disagree,Somewhat disagree,0.5
+P0152,Prestige,Neither agree nor disagree,Neither agree nor disagree,Strong agree,Neither agree nor disagree,0.625
+P0153,Season,Strongly agree,Strongly agree,Strong agree,Strong agree,1.0
+P0154,Age,Somewhat agree,Somewhat agree,Somewhat agree,Somewhat agree,0.75
+P0155,Individual,Somewhat agree,Somewhat disagree,Somewhat agree,Somewhat agree,0.625
+P0156,Individual,Somewhat agree,Somewhat agree,Strong agree,Somewhat agree,0.8125
+P0157,Conformity,Somewhat disagree,Somewhat agree,Somewhat agree,Somewhat agree,0.625
+P0158,Individual,Somewhat disagree,Somewhat disagree,Neither agree nor disagree,Somewhat disagree,0.3125
+P0159,Season,Somewhat agree,Strongly agree,Strong agree,Strong agree,0.9375
+P0160,Individual,Somewhat agree,Neither agree nor disagree,Somewhat agree,Somewhat agree,0.6875
+P0161,Season,Strongly agree,Strongly agree,Somewhat agree,Somewhat agree,0.875
+P0162,Age,Somewhat agree,Strongly agree,Strong agree,Strong agree,0.9375
+P0163,Age,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,0.0
+P0164,Season,Neither agree nor disagree,Somewhat agree,Somewhat agree,Somewhat agree,0.6875
+P0165,Conformity,Somewhat disagree,Somewhat agree,Somewhat agree,Somewhat disagree,0.5
+P0166,Age,Somewhat agree,Somewhat disagree,Somewhat disagree,Neither agree nor disagree,0.4375
+P0167,Age,Strongly agree,Somewhat agree,Strong agree,Somewhat agree,0.875
+P0168,Season,Somewhat agree,Somewhat agree,Neither agree nor disagree,Somewhat agree,0.6875
+P0169,Prestige,Neither agree nor disagree,Somewhat agree,Somewhat agree,Somewhat agree,0.6875
+P0170,Age,Neither agree nor disagree,Somewhat disagree,Somewhat agree,Somewhat disagree,0.4375
+P0171,Individual,Somewhat disagree,Somewhat disagree,Somewhat disagree,Strongly disagree,0.1875
+P0172,Season,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree,0.5
+P0173,Age,Somewhat agree,Strongly agree,Somewhat agree,Somewhat agree,0.8125
+P0174,Prestige,Somewhat disagree,Somewhat agree,Somewhat agree,Strongly disagree,0.4375
+P0175,Prestige,Somewhat agree,Somewhat agree,Strong agree,Somewhat agree,0.8125
+P0176,Age,Somewhat agree,Somewhat agree,Strong agree,Somewhat agree,0.8125
+P0177,Age,Somewhat agree,Somewhat agree,Somewhat agree,Somewhat agree,0.75
+P0178,Season,Somewhat agree,Somewhat agree,Somewhat agree,Neither agree nor disagree,0.6875
+P0179,Age,Somewhat agree,Somewhat agree,Strong agree,Somewhat agree,0.8125
+P0180,Individual,Somewhat disagree,Somewhat disagree,Somewhat disagree,Somewhat disagree,0.25
+P0181,Conformity,Somewhat disagree,Somewhat disagree,Somewhat disagree,Somewhat disagree,0.25
+P0182,Season,Somewhat agree,Somewhat agree,Strong agree,Strong agree,0.875
+P0183,Conformity,Strongly disagree,Strongly disagree,Neither agree nor disagree,Somewhat disagree,0.1875
+P0184,Individual,Somewhat agree,Somewhat agree,Strong agree,Strong agree,0.875
+P0185,Conformity,Somewhat disagree,Somewhat agree,Neither agree nor disagree,Somewhat disagree,0.4375
+P0186,Individual,Somewhat agree,Somewhat disagree,Somewhat agree,Somewhat disagree,0.5
+P0187,Age,Somewhat agree,Somewhat agree,Neither agree nor disagree,Neither agree nor disagree,0.625
+P0188,Individual,Somewhat agree,Somewhat agree,Somewhat agree,Somewhat agree,0.75
+P0189,Age,Neither agree nor disagree,Somewhat agree,Strong agree,Somewhat agree,0.75
+P0190,Season,Somewhat agree,Somewhat disagree,Somewhat agree,Somewhat disagree,0.5
+P0191,Conformity,Somewhat disagree,Somewhat disagree,Somewhat disagree,Strongly disagree,0.1875
+P0192,Conformity,Strongly agree,Somewhat disagree,Somewhat disagree,Somewhat disagree,0.4375
+P0193,Conformity,Somewhat agree,Somewhat agree,Strong agree,Neither agree nor disagree,0.75
+P0194,Conformity,Somewhat agree,Somewhat agree,Somewhat agree,Somewhat agree,0.75
+P0195,Prestige,Neither agree nor disagree,Somewhat agree,Somewhat agree,Somewhat agree,0.6875
+P0196,Age,Somewhat agree,Strongly agree,Strong agree,Strong agree,0.9375
+P0197,Age,Neither agree nor disagree,Somewhat disagree,Neither agree nor disagree,Somewhat disagree,0.375
+P0198,Season,Somewhat agree,Somewhat agree,Strong agree,Somewhat agree,0.8125
+P0199,Season,Somewhat agree,Somewhat agree,Neither agree nor disagree,Neither agree nor disagree,0.625
+P0200,Prestige,Strongly disagree,Strongly disagree,Somewhat disagree,Somewhat disagree,0.125
+P0201,Season,Somewhat agree,Somewhat agree,Somewhat agree,Somewhat agree,0.75
+P0202,Season,Somewhat agree,Neither agree nor disagree,Strong agree,Somewhat agree,0.75
+P0203,Conformity,Somewhat agree,Strongly agree,Somewhat agree,Somewhat agree,0.8125
+P0204,Prestige,Strongly agree,Strongly agree,Strong agree,Strong agree,1.0
+P0205,Prestige,Somewhat disagree,Strongly disagree,Somewhat agree,Strongly disagree,0.25
+P0206,Prestige,Somewhat disagree,Somewhat disagree,Somewhat disagree,Somewhat disagree,0.25
+P0207,Conformity,Somewhat disagree,Somewhat agree,Somewhat disagree,Somewhat disagree,0.375
+P0208,Conformity,Somewhat disagree,Somewhat agree,Somewhat agree,Neither agree nor disagree,0.5625
+P0209,Season,Somewhat agree,Somewhat agree,Somewhat agree,Somewhat agree,0.75
+P0210,Prestige,Strongly disagree,Somewhat disagree,Somewhat agree,Somewhat agree,0.4375
+P0211,Individual,Somewhat disagree,Somewhat disagree,Somewhat agree,Neither agree nor disagree,0.4375
+P0212,Conformity,Somewhat agree,Somewhat disagree,Strongly disagree,Strongly disagree,0.25
+P0213,Prestige,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,0.0
+P0214,Prestige,Somewhat agree,Somewhat agree,Strong agree,Strong agree,0.875
+P0215,Prestige,Somewhat agree,Somewhat agree,Strong agree,Somewhat agree,0.8125
+P0216,Individual,Somewhat agree,Somewhat agree,Strong agree,Strong agree,0.875
+P0217,Age,Somewhat agree,Somewhat agree,Strong agree,Somewhat agree,0.8125
+P0218,Prestige,Somewhat agree,Somewhat agree,Somewhat agree,Somewhat agree,0.75
+P0219,Conformity,Somewhat disagree,Somewhat disagree,Neither agree nor disagree,Neither agree nor disagree,0.375
+P0220,Prestige,Strongly agree,Strongly agree,Strong agree,Somewhat disagree,0.8125
+P0221,Age,Somewhat agree,Somewhat agree,Strong agree,Somewhat disagree,0.6875
+P0222,Age,Somewhat agree,Somewhat disagree,Neither agree nor disagree,Somewhat disagree,0.4375
+P0223,Season,Somewhat disagree,Somewhat agree,Somewhat disagree,Neither agree nor disagree,0.4375
+P0224,Age,Strongly agree,Somewhat agree,Strong agree,Strong agree,0.9375
+P0225,Conformity,Neither agree nor disagree,Somewhat disagree,Somewhat agree,Somewhat disagree,0.4375
+P0226,Individual,Somewhat disagree,Somewhat disagree,Somewhat disagree,Somewhat disagree,0.25
+P0227,Prestige,Strongly agree,Strongly agree,Somewhat agree,Somewhat agree,0.875
+P0228,Age,Neither agree nor disagree,Neither agree nor disagree,Somewhat disagree,Neither agree nor disagree,0.4375
+P0229,Individual,Somewhat disagree,Somewhat disagree,Somewhat disagree,Somewhat disagree,0.25
+P0230,Conformity,Somewhat agree,Somewhat agree,Strong agree,Somewhat agree,0.8125
+P0231,Season,Somewhat agree,Somewhat agree,Strong agree,Strong agree,0.875
+P0232,Individual,Somewhat agree,Strongly agree,Somewhat agree,Somewhat agree,0.8125
+P0233,Conformity,Somewhat disagree,Somewhat disagree,Somewhat agree,Neither agree nor disagree,0.4375
+P0234,Age,Strongly agree,Strongly agree,Strong agree,Strong agree,1.0
+P0235,Season,Somewhat disagree,Neither agree nor disagree,Somewhat agree,Neither agree nor disagree,0.5
+P0236,Age,Somewhat agree,Somewhat agree,Somewhat agree,Somewhat agree,0.75
+P0237,Prestige,Somewhat agree,Strongly agree,Strong agree,Somewhat agree,0.875
+P0238,Season,Somewhat agree,Somewhat agree,Somewhat agree,Somewhat disagree,0.625
+P0239,Individual,Somewhat disagree,Somewhat agree,Strong agree,Strong agree,0.75
+P0240,Prestige,Strongly disagree,Strongly disagree,Strong agree,Somewhat agree,0.4375
+P0241,Season,Somewhat agree,Strongly agree,Strong agree,Strong agree,0.9375
+P0242,Age,Somewhat disagree,Neither agree nor disagree,Neither agree nor disagree,Somewhat agree,0.5
+P0243,Conformity,Somewhat agree,Neither agree nor disagree,Somewhat agree,Strong agree,0.75
+P0244,Age,Somewhat agree,Strongly agree,Somewhat agree,Strong agree,0.875
+P0245,Individual,Strongly agree,Somewhat agree,Strong agree,Strong agree,0.9375
+P0246,Individual,Somewhat disagree,Strongly agree,Somewhat agree,Somewhat agree,0.6875
+P0247,Conformity,Neither agree nor disagree,Somewhat agree,Somewhat agree,Neither agree nor disagree,0.625
+P0248,Prestige,Somewhat agree,Somewhat agree,Strong agree,Somewhat agree,0.8125
+P0249,Season,Somewhat agree,Somewhat agree,Strong agree,Somewhat agree,0.8125
+P0250,Prestige,Somewhat agree,Somewhat agree,Somewhat agree,Somewhat agree,0.75
+P0251,Age,Somewhat agree,Strongly agree,Somewhat agree,Somewhat agree,0.8125
+P0252,Individual,Somewhat agree,Strongly agree,Somewhat disagree,Somewhat disagree,0.5625
+P0253,Season,Somewhat agree,Somewhat agree,Somewhat agree,Somewhat agree,0.75
+P0254,Season,Somewhat agree,Strongly agree,Somewhat agree,Strong agree,0.875
+P0255,Individual,Somewhat agree,Somewhat agree,Somewhat agree,Somewhat agree,0.75
+P0256,Season,Somewhat agree,Somewhat agree,Somewhat agree,Strong agree,0.8125
+P0257,Individual,Somewhat agree,Somewhat agree,Somewhat agree,Somewhat agree,0.75
+P0258,Prestige,Neither agree nor disagree,Neither agree nor disagree,Somewhat agree,Somewhat agree,0.625
+P0259,Age,Somewhat agree,Somewhat agree,Strong agree,Somewhat agree,0.8125
+P0260,Age,Neither agree nor disagree,Neither agree nor disagree,Somewhat agree,Somewhat agree,0.625
+P0261,Individual,Somewhat agree,Strongly agree,Strong agree,Strong agree,0.9375
+P0262,Season,Somewhat agree,Somewhat agree,Somewhat agree,Somewhat agree,0.75
+P0263,Season,Somewhat agree,Somewhat agree,Strong agree,Strong agree,0.875
+P0264,Individual,Somewhat agree,Neither agree nor disagree,Somewhat agree,Somewhat agree,0.6875
+P0265,Season,Strongly disagree,Somewhat agree,Somewhat agree,Somewhat disagree,0.4375
+P0266,Season,Somewhat agree,Somewhat agree,Somewhat agree,Somewhat agree,0.75
+P0267,Conformity,Somewhat agree,Somewhat agree,Neither agree nor disagree,Neither agree nor disagree,0.625
+P0268,Conformity,Somewhat agree,Somewhat agree,Strong agree,Somewhat agree,0.8125
+P0269,Individual,Strongly disagree,Somewhat disagree,Neither agree nor disagree,Somewhat agree,0.375
+P0270,Individual,Strongly agree,Strongly agree,Strong agree,Strong agree,1.0
+P0271,Conformity,Strongly agree,Strongly agree,Strong agree,Strong agree,1.0
+P0272,Age,Somewhat agree,Somewhat agree,Strong agree,Somewhat agree,0.8125
+P0273,Individual,Somewhat agree,Strongly agree,Strong agree,Somewhat agree,0.875
+P0274,Prestige,Somewhat agree,Somewhat agree,Neither agree nor disagree,Neither agree nor disagree,0.625
+P0275,Individual,Somewhat agree,Neither agree nor disagree,Somewhat agree,Somewhat agree,0.6875
+P0276,Prestige,Neither agree nor disagree,Somewhat agree,Neither agree nor disagree,Somewhat agree,0.625
+P0277,Prestige,Somewhat agree,Somewhat agree,Strong agree,Somewhat agree,0.8125
+P0278,Conformity,Somewhat disagree,Somewhat agree,Neither agree nor disagree,Somewhat agree,0.5625
+P0279,Prestige,Strongly agree,Somewhat agree,Somewhat agree,Strong agree,0.875
+P0280,Individual,Somewhat agree,Somewhat agree,Strong agree,Somewhat agree,0.8125
+P0281,Prestige,Somewhat agree,Somewhat agree,Neither agree nor disagree,Somewhat agree,0.6875
+P0282,Age,Somewhat agree,Strongly agree,Somewhat agree,Somewhat agree,0.8125
+P0283,Conformity,Strongly agree,Strongly agree,Strong agree,Strong agree,1.0
+P0284,Prestige,Strongly disagree,Somewhat disagree,Somewhat agree,Somewhat disagree,0.3125
+P0285,Season,Somewhat disagree,Somewhat agree,Neither agree nor disagree,Somewhat agree,0.5625
+P0286,Conformity,Somewhat agree,Somewhat agree,Strong agree,Somewhat agree,0.8125
+P0287,Season,Neither agree nor disagree,Somewhat agree,Somewhat agree,Somewhat agree,0.6875
+P0288,Age,Strongly agree,Somewhat agree,Somewhat agree,Somewhat agree,0.8125
+P0289,Individual,Strongly agree,Somewhat agree,Strong agree,Strong agree,0.9375
+P0290,Conformity,Somewhat agree,Somewhat agree,Strong agree,Strong agree,0.875
+P0291,Prestige,Neither agree nor disagree,Somewhat disagree,Neither agree nor disagree,Neither agree nor disagree,0.4375
+P0292,Individual,Somewhat agree,Neither agree nor disagree,Somewhat agree,Somewhat agree,0.6875
+P0293,Conformity,Strongly agree,Somewhat agree,Somewhat agree,Somewhat agree,0.8125
+P0294,Season,Somewhat disagree,Somewhat agree,Somewhat agree,Somewhat agree,0.625
+P0295,Age,Somewhat agree,Somewhat agree,Strong agree,Strong agree,0.875
+P0296,Conformity,Neither agree nor disagree,Somewhat agree,Somewhat agree,Somewhat agree,0.6875
+P0297,Season,Somewhat agree,Somewhat agree,Neither agree nor disagree,Neither agree nor disagree,0.625
+P0298,Age,Somewhat disagree,Neither agree nor disagree,Somewhat agree,Somewhat agree,0.5625
+P0299,Conformity,Somewhat agree,Somewhat agree,Somewhat agree,Strong agree,0.8125
+P0300,Individual,Somewhat agree,Strongly agree,Somewhat agree,Somewhat agree,0.8125
+P0301,Conformity,Somewhat agree,Strongly agree,Somewhat agree,Somewhat agree,0.8125
+P0302,Age,Strongly agree,Strongly agree,Strong agree,Somewhat agree,0.9375
+P0303,Age,Strongly agree,Strongly agree,Strongly disagree,Strongly disagree,0.5
+P0304,Conformity,Somewhat disagree,Somewhat agree,Neither agree nor disagree,Neither agree nor disagree,0.5
+P0305,Prestige,Neither agree nor disagree,Somewhat agree,Somewhat agree,Somewhat agree,0.6875
+P0306,Season,Somewhat agree,Somewhat agree,Somewhat agree,Somewhat agree,0.75
+P0307,Prestige,Somewhat agree,Somewhat agree,Strong agree,Strong agree,0.875
+P0308,Age,Somewhat agree,Somewhat agree,Neither agree nor disagree,Somewhat agree,0.6875
+P0309,Prestige,Somewhat disagree,Somewhat agree,Somewhat disagree,Somewhat disagree,0.375
+P0310,Prestige,Somewhat agree,Neither agree nor disagree,Neither agree nor disagree,Somewhat agree,0.625
+P0311,Conformity,Neither agree nor disagree,Neither agree nor disagree,Somewhat agree,Neither agree nor disagree,0.5625
+P0312,Prestige,Somewhat agree,Somewhat agree,Somewhat agree,Somewhat disagree,0.625
+P0313,Individual,Somewhat agree,Somewhat agree,Strong agree,Somewhat agree,0.8125
+P0314,Conformity,Neither agree nor disagree,Somewhat agree,Somewhat agree,Somewhat agree,0.6875
+P0315,Conformity,Strongly agree,Somewhat agree,Strong agree,Strong agree,0.9375
+P0316,Season,Strongly agree,Somewhat agree,Strong agree,Somewhat agree,0.875
+P0317,Age,Neither agree nor disagree,Strongly agree,Somewhat agree,Somewhat agree,0.75
+P0318,Season,Somewhat agree,Strongly agree,Somewhat agree,Somewhat agree,0.8125
+P0319,Conformity,Neither agree nor disagree,Somewhat agree,Somewhat agree,Somewhat agree,0.6875
+P0320,Individual,Somewhat agree,Somewhat agree,Somewhat agree,Somewhat agree,0.75
+P0321,Age,Somewhat disagree,Somewhat agree,Strong agree,Somewhat agree,0.6875
+P0322,Conformity,Neither agree nor disagree,Somewhat disagree,Somewhat disagree,Somewhat disagree,0.3125
+P0323,Prestige,Somewhat disagree,Somewhat agree,Somewhat agree,Somewhat disagree,0.5
+P0324,Season,Somewhat agree,Somewhat agree,Somewhat agree,Somewhat agree,0.75
+P0325,Individual,Somewhat agree,Neither agree nor disagree,Strong agree,Somewhat agree,0.75
+P0326,Season,Neither agree nor disagree,Somewhat agree,Neither agree nor disagree,Neither agree nor disagree,0.5625
+P0327,Individual,Strongly agree,Somewhat agree,Somewhat agree,Strong agree,0.875
+P0328,Individual,Somewhat disagree,Neither agree nor disagree,Strong agree,Somewhat agree,0.625
+P0329,Age,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,0.0
+P0330,Age,Strongly disagree,Somewhat agree,Strong agree,Strong agree,0.6875
+P0331,Season,Somewhat disagree,Somewhat agree,Neither agree nor disagree,Somewhat agree,0.5625
+P0332,Individual,Somewhat agree,Somewhat agree,Neither agree nor disagree,Somewhat agree,0.6875
+P0333,Age,Somewhat agree,Somewhat agree,Neither agree nor disagree,Somewhat agree,0.6875
+P0334,Individual,Strongly agree,Strongly agree,Somewhat disagree,Somewhat agree,0.75
+P0335,Individual,Somewhat agree,Somewhat agree,Somewhat agree,Somewhat agree,0.75
+P0336,Prestige,Somewhat agree,Somewhat agree,Strong agree,Strong agree,0.875
+P0337,Prestige,Somewhat agree,Somewhat agree,Somewhat agree,Somewhat agree,0.75
+P0338,Individual,Strongly agree,Strongly agree,Somewhat agree,Somewhat agree,0.875
+P0339,Season,Somewhat agree,Neither agree nor disagree,Somewhat agree,Somewhat agree,0.6875
+P0340,Prestige,Somewhat agree,Strongly agree,Strong agree,Somewhat agree,0.875
+P0341,Individual,Neither agree nor disagree,Somewhat disagree,Somewhat agree,Somewhat agree,0.5625
+P0342,Individual,Somewhat agree,Strongly agree,Strong agree,Strong agree,0.9375
+P0343,Season,Somewhat agree,Strongly agree,Somewhat agree,Neither agree nor disagree,0.75
+P0344,Conformity,Neither agree nor disagree,Somewhat disagree,Neither agree nor disagree,Somewhat disagree,0.375
+P0345,Season,Somewhat agree,Somewhat agree,Strong agree,Somewhat agree,0.8125
+P0346,Season,Somewhat disagree,Somewhat disagree,Somewhat agree,Somewhat agree,0.5
+P0347,Season,Somewhat agree,Somewhat agree,Strong agree,Neither agree nor disagree,0.75
+P0348,Conformity,Neither agree nor disagree,Somewhat agree,Somewhat agree,Somewhat agree,0.6875
+P0349,Age,Somewhat agree,Somewhat agree,Strong agree,Strong agree,0.875
+P0350,Individual,Neither agree nor disagree,Neither agree nor disagree,Strong agree,Somewhat agree,0.6875
+P0351,Season,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree,0.5
+P0352,Conformity,Neither agree nor disagree,Somewhat agree,Somewhat agree,Neither agree nor disagree,0.625
+P0353,Individual,Somewhat agree,Somewhat agree,Strong agree,Strong agree,0.875
+P0354,Conformity,Somewhat agree,Somewhat agree,Somewhat agree,Somewhat agree,0.75
+P0355,Conformity,Somewhat agree,Somewhat agree,Somewhat agree,Somewhat agree,0.75
+P0356,Season,Neither agree nor disagree,Neither agree nor disagree,Somewhat agree,Somewhat agree,0.625
+P0357,Age,Somewhat agree,Somewhat agree,Strong agree,Somewhat agree,0.8125
+P0358,Conformity,Somewhat agree,Somewhat agree,Strong agree,Somewhat agree,0.8125
+P0359,Individual,Neither agree nor disagree,Somewhat agree,Somewhat agree,Somewhat agree,0.6875
+P0360,Conformity,Strongly agree,Somewhat agree,Somewhat agree,Somewhat agree,0.8125
+P0361,Age,Somewhat agree,Somewhat agree,Somewhat agree,Somewhat agree,0.75
+P0362,Age,Somewhat agree,Somewhat agree,Strong agree,Strong agree,0.875
+P0363,Conformity,Somewhat disagree,Somewhat disagree,Somewhat agree,Somewhat disagree,0.375
+P0364,Prestige,Somewhat disagree,Strongly disagree,Somewhat agree,Somewhat agree,0.4375
+P0365,Prestige,Somewhat agree,Somewhat agree,Strong agree,Strong agree,0.875
+P0366,Age,Somewhat agree,Somewhat agree,Strong agree,Strong agree,0.875
+P0367,Prestige,Somewhat agree,Strongly agree,Strong agree,Strong agree,0.9375
+P0368,Conformity,Somewhat agree,Neither agree nor disagree,Neither agree nor disagree,Somewhat agree,0.625
+P0369,Season,Somewhat agree,Strongly agree,Neither agree nor disagree,Somewhat agree,0.75
+P0370,Prestige,Somewhat agree,Neither agree nor disagree,Somewhat agree,Neither agree nor disagree,0.625
+P0371,Age,Somewhat agree,Somewhat agree,Neither agree nor disagree,Somewhat disagree,0.5625
+P0372,Age,Somewhat disagree,Strongly agree,Somewhat disagree,Somewhat disagree,0.4375
+P0373,Prestige,Strongly agree,Strongly agree,Somewhat agree,Strong agree,0.9375
+P0374,Season,Somewhat agree,Strongly agree,Somewhat agree,Strong agree,0.875
+P0375,Individual,Neither agree nor disagree,Somewhat agree,Neither agree nor disagree,Neither agree nor disagree,0.5625
+P0376,Season,Neither agree nor disagree,Somewhat agree,Strong agree,Strong agree,0.8125
+P0377,Age,Somewhat agree,Somewhat agree,Somewhat agree,Somewhat agree,0.75
+P0378,Season,Somewhat disagree,Somewhat agree,Somewhat agree,Somewhat disagree,0.5
+P0379,Age,Somewhat agree,Strongly agree,Somewhat agree,Somewhat agree,0.8125
+P0380,Individual,Somewhat disagree,Neither agree nor disagree,Somewhat agree,Somewhat agree,0.5625
+P0381,Age,Somewhat agree,Somewhat agree,Somewhat agree,Somewhat agree,0.75
+P0382,Conformity,Somewhat agree,Strongly agree,Strong agree,Strong agree,0.9375
+P0383,Season,Somewhat disagree,Neither agree nor disagree,Somewhat agree,Somewhat agree,0.5625
+P0384,Age,Somewhat agree,Somewhat disagree,Somewhat agree,Somewhat disagree,0.5
+P0385,Individual,Neither agree nor disagree,Somewhat agree,Somewhat agree,Somewhat agree,0.6875
+P0386,Conformity,Somewhat agree,Somewhat agree,Strong agree,Somewhat agree,0.8125
+P0387,Conformity,Somewhat agree,Somewhat agree,Somewhat agree,Somewhat agree,0.75
+P0388,Age,Somewhat agree,Strongly agree,Neither agree nor disagree,Somewhat agree,0.75
+P0389,Age,Strongly agree,Strongly agree,Strong agree,Strong agree,1.0
+P0390,Season,Somewhat agree,Somewhat agree,Somewhat agree,Somewhat agree,0.75
+P0391,Prestige,Somewhat disagree,Somewhat agree,Somewhat agree,Somewhat disagree,0.5
+P0392,Age,Somewhat agree,Strongly agree,Somewhat agree,Neither agree nor disagree,0.75
+P0393,Prestige,Somewhat agree,Somewhat agree,Strong agree,Somewhat agree,0.8125
+P0394,Prestige,Somewhat agree,Somewhat agree,Neither agree nor disagree,Somewhat agree,0.6875
+P0395,Conformity,Somewhat agree,Strongly agree,Somewhat agree,Somewhat agree,0.8125
+P0396,Conformity,Strongly agree,Strongly agree,Strong agree,Strong agree,1.0
+P0397,Individual,Neither agree nor disagree,Somewhat agree,Somewhat agree,Somewhat disagree,0.5625
+P0398,Season,Somewhat agree,Neither agree nor disagree,Somewhat agree,Somewhat agree,0.6875
+P0399,Prestige,Strongly agree,Strongly agree,Strong agree,Strong agree,1.0
+P0400,Conformity,Somewhat agree,Somewhat agree,Somewhat agree,Somewhat agree,0.75
+P0401,Individual,Somewhat agree,Somewhat agree,Somewhat agree,Somewhat agree,0.75
+P0402,Season,Somewhat disagree,Neither agree nor disagree,Somewhat agree,Neither agree nor disagree,0.5
+P0403,Age,Strongly disagree,Somewhat disagree,Strongly disagree,Strongly disagree,0.0625
+P0404,Individual,Somewhat disagree,Somewhat agree,Somewhat agree,Somewhat agree,0.625
+P0405,Season,Somewhat disagree,Somewhat agree,Somewhat agree,Somewhat agree,0.625
+P0406,Season,Strongly disagree,Somewhat agree,Strongly disagree,Somewhat disagree,0.25
+P0407,Conformity,Somewhat agree,Somewhat agree,Strong agree,Somewhat agree,0.8125
+P0408,Season,Strongly agree,Strongly agree,Strong agree,Strong agree,1.0
+P0409,Individual,Strongly disagree,Neither agree nor disagree,Somewhat disagree,Somewhat disagree,0.25
+P0410,Individual,Strongly agree,Somewhat agree,Somewhat agree,Somewhat agree,0.8125
+P0411,Age,Somewhat agree,Somewhat agree,Somewhat agree,Neither agree nor disagree,0.6875
+P0412,Prestige,Somewhat agree,Somewhat agree,Somewhat agree,Somewhat agree,0.75
+P0413,Prestige,Somewhat disagree,Somewhat disagree,Neither agree nor disagree,Neither agree nor disagree,0.375
+P0414,Season,Strongly agree,Strongly agree,Strong agree,Strong agree,1.0
+P0415,Age,Somewhat disagree,Somewhat disagree,Strongly disagree,Strongly disagree,0.125
+P0416,Season,Somewhat agree,Somewhat agree,Neither agree nor disagree,Somewhat agree,0.6875
+P0417,Prestige,Somewhat agree,Somewhat agree,Strong agree,Somewhat agree,0.8125
+P0418,Prestige,Somewhat disagree,Somewhat disagree,Somewhat disagree,Somewhat disagree,0.25
+P0419,Age,Strongly agree,Strongly agree,Strong agree,Strong agree,1.0
+P0420,Individual,Strongly agree,Somewhat agree,Strong agree,Strong agree,0.9375
+P0421,Season,Somewhat disagree,Somewhat disagree,Somewhat disagree,Somewhat disagree,0.25
+P0422,Age,Somewhat agree,Somewhat agree,Somewhat agree,Somewhat agree,0.75
+P0423,Age,Neither agree nor disagree,Neither agree nor disagree,Somewhat agree,Neither agree nor disagree,0.5625
+P0424,Prestige,Somewhat disagree,Neither agree nor disagree,Neither agree nor disagree,Somewhat disagree,0.375
+P0425,Prestige,Neither agree nor disagree,Somewhat agree,Somewhat agree,Strong agree,0.75
+P0426,Conformity,Somewhat agree,Somewhat agree,Strong agree,Somewhat agree,0.8125
+P0427,Age,Neither agree nor disagree,Somewhat agree,Strongly disagree,Strongly disagree,0.3125
+P0428,Prestige,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,0.0
+P0429,Season,Somewhat agree,Strongly agree,Strong agree,Strong agree,0.9375
+P0430,Conformity,Somewhat agree,Neither agree nor disagree,Somewhat agree,Neither agree nor disagree,0.625
+P0431,Conformity,Somewhat agree,Somewhat agree,Somewhat agree,Somewhat agree,0.75
+P0432,Age,Somewhat agree,Neither agree nor disagree,Strong agree,Somewhat agree,0.75
+P0433,Prestige,Neither agree nor disagree,Strongly disagree,Somewhat agree,Somewhat agree,0.5
+P0434,Individual,Somewhat agree,Somewhat agree,Strong agree,Strong agree,0.875
+P0435,Prestige,Somewhat agree,Somewhat agree,Somewhat agree,Somewhat agree,0.75
+P0436,Individual,Strongly agree,Strongly agree,Strong agree,Strong agree,1.0
+P0437,Conformity,Somewhat disagree,Somewhat agree,Somewhat disagree,Somewhat disagree,0.375
+P0438,Conformity,Strongly agree,Strongly agree,Strong agree,Strong agree,1.0
+P0439,Age,Neither agree nor disagree,Somewhat disagree,Somewhat agree,Neither agree nor disagree,0.5
+P0440,Age,Somewhat agree,Somewhat agree,Somewhat agree,Somewhat agree,0.75
+P0441,Individual,Somewhat agree,Somewhat agree,Strong agree,Strong agree,0.875
+P0442,Season,Somewhat agree,Strongly agree,Somewhat disagree,Somewhat disagree,0.5625
+P0443,Prestige,Somewhat agree,Somewhat agree,Strong agree,Strong agree,0.875
+P0444,Season,Somewhat agree,Somewhat agree,Neither agree nor disagree,Somewhat agree,0.6875
+P0445,Individual,Somewhat agree,Strongly agree,Somewhat agree,Somewhat agree,0.8125
+P0446,Prestige,Neither agree nor disagree,Neither agree nor disagree,Somewhat agree,Somewhat agree,0.625
+P0447,Individual,Neither agree nor disagree,Strongly agree,Strong agree,Strong agree,0.875
+P0448,Prestige,Somewhat agree,Somewhat agree,Strong agree,Somewhat agree,0.8125
+P0449,Season,Neither agree nor disagree,Somewhat agree,Neither agree nor disagree,Neither agree nor disagree,0.5625
+P0450,Individual,Somewhat disagree,Somewhat disagree,Somewhat agree,Somewhat disagree,0.375
+P0451,Conformity,Strongly agree,Strongly agree,Somewhat agree,Strong agree,0.9375
+P0452,Conformity,Somewhat agree,Somewhat agree,Strong agree,Strong agree,0.875
+P0453,Conformity,Strongly agree,Somewhat agree,Somewhat agree,Strong agree,0.875
+P0454,Season,Somewhat agree,Somewhat agree,Neither agree nor disagree,Somewhat disagree,0.5625
+P0455,Conformity,Somewhat agree,Somewhat agree,Somewhat agree,Somewhat agree,0.75
+P0456,Conformity,Somewhat disagree,Somewhat agree,Somewhat agree,Somewhat agree,0.625
+P0457,Season,Somewhat disagree,Somewhat agree,Somewhat agree,Somewhat agree,0.625
+P0458,Prestige,Neither agree nor disagree,Somewhat disagree,Somewhat agree,Somewhat agree,0.5625
+P0459,Prestige,Somewhat agree,Somewhat agree,Strong agree,Somewhat agree,0.8125
+P0460,Season,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree,0.5
+P0461,Age,Somewhat agree,Somewhat agree,Strong agree,Strong agree,0.875
+P0462,Prestige,Somewhat agree,Strongly agree,Strong agree,Strong agree,0.9375
+P0463,Prestige,Strongly agree,Strongly agree,Strong agree,Strong agree,1.0
+P0464,Individual,Somewhat agree,Somewhat disagree,Neither agree nor disagree,Strongly disagree,0.375
+P0465,Season,Somewhat agree,Somewhat agree,Strong agree,Somewhat agree,0.8125
+P0466,Individual,Somewhat agree,Strongly agree,Strong agree,Strong agree,0.9375
+P0467,Age,Somewhat disagree,Neither agree nor disagree,Somewhat disagree,Somewhat disagree,0.3125
+P0468,Prestige,Somewhat agree,Somewhat disagree,Somewhat agree,Somewhat agree,0.625
+P0469,Conformity,Somewhat disagree,Somewhat agree,Strong agree,Strong agree,0.75
+P0470,Age,Somewhat agree,Strongly agree,Strong agree,Strong agree,0.9375
+P0471,Prestige,Somewhat agree,Somewhat agree,Strong agree,Strong agree,0.875
+P0472,Conformity,Somewhat agree,Somewhat agree,Somewhat agree,Somewhat agree,0.75
+P0473,Season,Neither agree nor disagree,Neither agree nor disagree,Somewhat disagree,Neither agree nor disagree,0.4375
+P0474,Conformity,Somewhat agree,Somewhat agree,Strong agree,Somewhat agree,0.8125
+P0475,Individual,Somewhat agree,Somewhat agree,Somewhat agree,Somewhat agree,0.75
+P0476,Prestige,Somewhat disagree,Strongly agree,Strongly disagree,Neither agree nor disagree,0.4375
+P0477,Age,Somewhat disagree,Strongly disagree,Somewhat disagree,Somewhat disagree,0.1875
+P0478,Conformity,Strongly disagree,Strongly disagree,Somewhat disagree,Somewhat disagree,0.125
+P0479,Age,Somewhat disagree,Somewhat agree,Strong agree,Strong agree,0.75
+P0480,Individual,Somewhat agree,Somewhat disagree,Neither agree nor disagree,Somewhat disagree,0.4375
+P0481,Age,Somewhat disagree,Strongly disagree,Somewhat disagree,Somewhat disagree,0.1875
+P0482,Prestige,Strongly disagree,Neither agree nor disagree,Somewhat disagree,Somewhat disagree,0.25
+P0483,Conformity,Strongly agree,Strongly agree,Strong agree,Strong agree,1.0
+P0484,Individual,Somewhat agree,Somewhat agree,Somewhat agree,Somewhat agree,0.75
+P0485,Age,Somewhat disagree,Neither agree nor disagree,Somewhat agree,Neither agree nor disagree,0.5
+P0486,Season,Strongly agree,Strongly agree,Strong agree,Strong agree,1.0
+P0487,Conformity,Somewhat agree,Somewhat agree,Strong agree,Somewhat agree,0.8125
+P0488,Prestige,Somewhat agree,Somewhat agree,Strong agree,Neither agree nor disagree,0.75
+P0489,Conformity,Somewhat agree,Somewhat agree,Somewhat agree,Neither agree nor disagree,0.6875
+P0490,Season,Somewhat agree,Somewhat agree,Somewhat agree,Somewhat agree,0.75
+P0491,Individual,Somewhat agree,Somewhat agree,Neither agree nor disagree,Neither agree nor disagree,0.625
+P0492,Individual,Strongly agree,Strongly agree,Strong agree,Strong agree,1.0
+P0493,Individual,Somewhat disagree,Somewhat disagree,Somewhat disagree,Strongly disagree,0.1875
+P0494,Conformity,Somewhat disagree,Somewhat agree,Somewhat agree,Somewhat agree,0.625
+P0495,Prestige,Somewhat disagree,Neither agree nor disagree,Neither agree nor disagree,Somewhat disagree,0.375
+P0496,Age,Somewhat disagree,Somewhat disagree,Somewhat disagree,Somewhat disagree,0.25
+P0497,Season,Somewhat agree,Somewhat agree,Strong agree,Somewhat agree,0.8125
+P0498,Prestige,Somewhat disagree,Somewhat agree,Strongly disagree,Neither agree nor disagree,0.375
+P0499,Prestige,Neither agree nor disagree,Somewhat agree,Somewhat agree,Somewhat agree,0.6875
+P0500,Individual,Strongly agree,Strongly agree,Strong agree,Strong agree,1.0
+P0501,Age,Somewhat agree,Somewhat agree,Somewhat agree,Somewhat agree,0.75
+P0502,Conformity,Somewhat agree,Neither agree nor disagree,Somewhat agree,Somewhat agree,0.6875
+P0503,Season,Somewhat disagree,Somewhat disagree,Strong agree,Somewhat agree,0.5625
+P0504,Prestige,Strongly agree,Strongly agree,Strong agree,Strong agree,1.0
+P0505,Prestige,Somewhat agree,Somewhat agree,Strong agree,Strong agree,0.875
+P0506,Conformity,Neither agree nor disagree,Somewhat agree,Somewhat disagree,Somewhat disagree,0.4375
+P0507,Conformity,Somewhat agree,Strongly agree,Somewhat agree,Somewhat agree,0.8125
+P0508,Individual,Somewhat disagree,Somewhat disagree,Somewhat disagree,Somewhat disagree,0.25
+P0509,Conformity,Somewhat disagree,Somewhat disagree,Somewhat agree,Neither agree nor disagree,0.4375
+P0510,Age,Somewhat agree,Strongly agree,Strong agree,Strong agree,0.9375
+P0511,Prestige,Somewhat agree,Somewhat disagree,Neither agree nor disagree,Somewhat disagree,0.4375
+P0512,Age,Somewhat disagree,Somewhat agree,Somewhat disagree,Somewhat disagree,0.375
+P0513,Season,Strongly agree,Somewhat agree,Strong agree,Strong agree,0.9375
+P0514,Individual,Somewhat disagree,Somewhat agree,Somewhat agree,Somewhat agree,0.625
+P0515,Individual,Somewhat agree,Somewhat agree,Strong agree,Somewhat agree,0.8125
+P0516,Age,Somewhat agree,Strongly agree,Strong agree,Strong agree,0.9375
+P0517,Season,Somewhat agree,Somewhat agree,Somewhat agree,Somewhat agree,0.75
+P0518,Age,Somewhat agree,Somewhat agree,Strong agree,Somewhat agree,0.8125
+P0519,Season,Somewhat disagree,Somewhat disagree,Somewhat agree,Somewhat agree,0.5
+P0520,Age,Somewhat disagree,Strongly agree,Somewhat agree,Somewhat disagree,0.5625
+P0521,Season,Strongly disagree,Somewhat agree,Strong agree,Somewhat disagree,0.5
+P0522,Age,Somewhat agree,Strongly agree,Strong agree,Somewhat agree,0.875
+P0523,Conformity,Strongly disagree,Neither agree nor disagree,Strongly disagree,Strongly disagree,0.125
+P0524,Prestige,Strongly agree,Strongly agree,Strong agree,Strong agree,1.0
+P0525,Conformity,Neither agree nor disagree,Strongly agree,Somewhat disagree,Somewhat disagree,0.5
+P0526,Age,Somewhat disagree,Strongly disagree,Somewhat agree,Somewhat disagree,0.3125
+P0527,Season,Neither agree nor disagree,Neither agree nor disagree,Somewhat agree,Somewhat agree,0.625
+P0528,Season,Strongly agree,Somewhat agree,Somewhat agree,Somewhat agree,0.8125
+P0529,Prestige,Strongly agree,Somewhat agree,Somewhat agree,Somewhat agree,0.8125
+P0530,Conformity,Somewhat agree,Neither agree nor disagree,Somewhat agree,Somewhat agree,0.6875
+P0531,Individual,Strongly disagree,Strongly disagree,Neither agree nor disagree,Strongly disagree,0.125
+P0532,Individual,Neither agree nor disagree,Strongly agree,Strong agree,Somewhat agree,0.8125
+P0533,Individual,Strongly agree,Strongly agree,Strong agree,Strong agree,1.0
+P0534,Prestige,Somewhat agree,Somewhat agree,Somewhat agree,Somewhat agree,0.75
+P0535,Individual,Strongly agree,Somewhat agree,Strong agree,Strong agree,0.9375
+P0536,Prestige,Strongly agree,Strongly agree,Strong agree,Strong agree,1.0
+P0537,Individual,Somewhat disagree,Somewhat agree,Somewhat agree,Somewhat agree,0.625
+P0538,Prestige,Neither agree nor disagree,Strongly disagree,Somewhat agree,Neither agree nor disagree,0.4375
+P0539,Individual,Somewhat agree,Somewhat agree,Strong agree,Strong agree,0.875
+P0540,Season,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree,Somewhat disagree,0.4375
+P0541,Prestige,Somewhat agree,Somewhat agree,Neither agree nor disagree,Neither agree nor disagree,0.625
+P0542,Age,Somewhat agree,Somewhat agree,Somewhat agree,Strong agree,0.8125
+P0543,Conformity,Neither agree nor disagree,Somewhat disagree,Somewhat agree,Somewhat agree,0.5625
+P0544,Age,Strongly agree,Somewhat disagree,Strong agree,Strong agree,0.8125
+P0545,Conformity,Neither agree nor disagree,Somewhat agree,Somewhat agree,Neither agree nor disagree,0.625
+P0546,Prestige,Somewhat agree,Somewhat agree,Somewhat agree,Somewhat agree,0.75
+P0547,Age,Somewhat agree,Somewhat agree,Somewhat agree,Somewhat agree,0.75
+P0548,Conformity,Neither agree nor disagree,Somewhat agree,Neither agree nor disagree,Somewhat agree,0.625
+P0549,Season,Somewhat disagree,Neither agree nor disagree,Somewhat agree,Neither agree nor disagree,0.5
+P0550,Conformity,Somewhat disagree,Somewhat agree,Neither agree nor disagree,Neither agree nor disagree,0.5
+P0551,Season,Somewhat agree,Somewhat agree,Somewhat agree,Neither agree nor disagree,0.6875
+P0552,Season,Strongly agree,Strongly agree,Somewhat agree,Somewhat agree,0.875
+P0553,Prestige,Strongly agree,Somewhat agree,Somewhat agree,Strong agree,0.875
+P0554,Individual,Somewhat agree,Somewhat agree,Somewhat agree,Somewhat agree,0.75
+P0555,Individual,Strongly disagree,Strongly disagree,Somewhat disagree,Neither agree nor disagree,0.1875
+P0556,Individual,Strongly agree,Strongly agree,Somewhat disagree,Somewhat agree,0.75
+P0557,Season,Strongly agree,Somewhat agree,Somewhat agree,Somewhat agree,0.8125
+P0558,Age,Somewhat agree,Strongly agree,Somewhat agree,Somewhat agree,0.8125
+P0559,Age,Neither agree nor disagree,Strongly disagree,Somewhat agree,Neither agree nor disagree,0.4375
+P0560,Age,Somewhat agree,Somewhat agree,Strong agree,Somewhat agree,0.8125
+P0561,Season,Somewhat agree,Strongly agree,Strong agree,Somewhat agree,0.875
+P0562,Individual,Somewhat agree,Somewhat agree,Somewhat agree,Somewhat agree,0.75
+P0563,Prestige,Somewhat agree,Somewhat disagree,Somewhat agree,Somewhat agree,0.625
+P0564,Season,Somewhat agree,Neither agree nor disagree,Somewhat disagree,Somewhat agree,0.5625
+P0565,Season,Somewhat agree,Strongly agree,Strongly disagree,Strong agree,0.6875
+P0566,Age,Strongly agree,Strongly agree,Strong agree,Strong agree,1.0
+P0567,Prestige,Somewhat agree,Somewhat disagree,Somewhat agree,Strong agree,0.6875
+P0568,Conformity,Somewhat agree,Somewhat agree,Somewhat agree,Somewhat agree,0.75
+P0569,Prestige,Neither agree nor disagree,Somewhat agree,Somewhat agree,Somewhat agree,0.6875
+P0570,Conformity,Somewhat agree,Strongly agree,Somewhat agree,Somewhat agree,0.8125
+P0571,Conformity,Strongly agree,Somewhat disagree,Strong agree,Strong agree,0.8125
+P0572,Individual,Neither agree nor disagree,Somewhat agree,Neither agree nor disagree,Somewhat agree,0.625
+P0573,Season,Somewhat agree,Somewhat agree,Strong agree,Strong agree,0.875
+P0574,Prestige,Somewhat agree,Somewhat agree,Somewhat agree,Neither agree nor disagree,0.6875
+P0575,Season,Somewhat disagree,Somewhat agree,Somewhat disagree,Strongly disagree,0.3125
+P0576,Age,Somewhat agree,Somewhat agree,Strong agree,Somewhat agree,0.8125
+P0577,Conformity,Somewhat agree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree,0.5625
+P0578,Prestige,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree,0.5
+P0579,Prestige,Strongly agree,Strongly agree,Strong agree,Strong agree,1.0
+P0580,Prestige,Somewhat agree,Somewhat agree,Somewhat agree,Somewhat agree,0.75
+P0581,Individual,Neither agree nor disagree,Somewhat disagree,Somewhat agree,Somewhat agree,0.5625
+P0582,Individual,Somewhat agree,Somewhat agree,Strong agree,Somewhat agree,0.8125
+P0583,Conformity,Somewhat disagree,Neither agree nor disagree,Neither agree nor disagree,Somewhat agree,0.5
+P0584,Individual,Neither agree nor disagree,Somewhat agree,Somewhat agree,Neither agree nor disagree,0.625
+P0585,Season,Somewhat agree,Neither agree nor disagree,Somewhat agree,Somewhat agree,0.6875
+P0586,Conformity,Somewhat agree,Strongly agree,Strong agree,Strong agree,0.9375
+P0587,Age,Somewhat agree,Somewhat disagree,Somewhat disagree,Somewhat disagree,0.375
+P0588,Individual,Somewhat disagree,Somewhat disagree,Neither agree nor disagree,Strongly disagree,0.25
+P0589,Conformity,Strongly disagree,Somewhat agree,Somewhat disagree,Somewhat disagree,0.3125
+P0590,Season,Somewhat agree,Somewhat agree,Neither agree nor disagree,Neither agree nor disagree,0.625
+P0591,Conformity,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,0.0
+P0592,Age,Somewhat agree,Somewhat agree,Somewhat agree,Somewhat agree,0.75
+P0593,Age,Somewhat agree,Somewhat agree,Somewhat agree,Somewhat agree,0.75
+P0594,Individual,Neither agree nor disagree,Somewhat agree,Somewhat agree,Somewhat disagree,0.5625
+P0595,Season,Somewhat disagree,Somewhat disagree,Somewhat agree,Neither agree nor disagree,0.4375
+P0596,Age,Somewhat agree,Somewhat agree,Strong agree,Somewhat agree,0.8125
+P0597,Individual,Somewhat agree,Strongly agree,Somewhat agree,Strong agree,0.875
+P0598,Conformity,Neither agree nor disagree,Strongly disagree,Somewhat agree,Neither agree nor disagree,0.4375
+P0599,Individual,Somewhat agree,Somewhat disagree,Somewhat agree,Neither agree nor disagree,0.5625
+P0600,Prestige,Somewhat agree,Somewhat agree,Somewhat agree,Somewhat agree,0.75
+P0601,Prestige,Somewhat agree,Somewhat agree,Somewhat agree,Somewhat agree,0.75
+P0602,Prestige,Strongly agree,Somewhat agree,Strong agree,Strong agree,0.9375
+P0603,Season,Somewhat agree,Strongly agree,Somewhat agree,Strong agree,0.875
+P0604,Individual,Somewhat agree,Somewhat agree,Somewhat agree,Somewhat agree,0.75
+P0605,Conformity,Strongly agree,Somewhat agree,Strong agree,Strong agree,0.9375
+P0606,Prestige,Neither agree nor disagree,Somewhat agree,Somewhat agree,Somewhat agree,0.6875
+P0607,Age,Somewhat agree,Somewhat agree,Strong agree,Somewhat agree,0.8125
+P0608,Age,Somewhat agree,Somewhat agree,Somewhat agree,Neither agree nor disagree,0.6875
+P0609,Prestige,Somewhat agree,Neither agree nor disagree,Somewhat agree,Somewhat agree,0.6875
+P0610,Individual,Somewhat agree,Somewhat agree,Strong agree,Strong agree,0.875
+P0611,Season,Somewhat agree,Strongly agree,Somewhat agree,Strong agree,0.875
+P0612,Prestige,Somewhat agree,Somewhat disagree,Somewhat agree,Somewhat disagree,0.5
+P0613,Conformity,Strongly disagree,Somewhat agree,Somewhat agree,Somewhat agree,0.5625
+P0614,Season,Somewhat agree,Somewhat agree,Somewhat agree,Somewhat agree,0.75
+P0615,Individual,Somewhat agree,Somewhat agree,Somewhat agree,Somewhat agree,0.75
+P0616,Conformity,Neither agree nor disagree,Somewhat disagree,Somewhat agree,Neither agree nor disagree,0.5
+P0617,Age,Neither agree nor disagree,Somewhat agree,Somewhat disagree,Somewhat disagree,0.4375
+P0618,Conformity,Neither agree nor disagree,Neither agree nor disagree,Somewhat agree,Somewhat agree,0.625
+P0619,Season,Strongly agree,Strongly agree,Strong agree,Strong agree,1.0
+P0620,Age,Strongly agree,Strongly agree,Strong agree,Somewhat agree,0.9375
+P0621,Season,Somewhat agree,Somewhat agree,Neither agree nor disagree,Somewhat agree,0.6875
+P0622,Conformity,Neither agree nor disagree,Somewhat disagree,Neither agree nor disagree,Somewhat disagree,0.375
+P0623,Age,Strongly agree,Strongly agree,Strong agree,Strong agree,1.0
+P0624,Individual,Somewhat disagree,Somewhat agree,Somewhat disagree,Somewhat disagree,0.375
+P0625,Age,Somewhat disagree,Somewhat disagree,Somewhat agree,Neither agree nor disagree,0.4375
+P0626,Conformity,Somewhat agree,Neither agree nor disagree,Somewhat agree,Strong agree,0.75
+P0627,Prestige,Somewhat agree,Somewhat agree,Somewhat agree,Somewhat agree,0.75
+P0628,Individual,Somewhat disagree,Somewhat agree,Somewhat agree,Somewhat agree,0.625
+P0629,Season,Somewhat disagree,Somewhat agree,Somewhat disagree,Neither agree nor disagree,0.4375
+P0630,Season,Somewhat agree,Somewhat agree,Somewhat agree,Somewhat agree,0.75
+P0631,Conformity,Neither agree nor disagree,Neither agree nor disagree,Somewhat agree,Somewhat disagree,0.5
+P0632,Age,Somewhat agree,Somewhat agree,Strong agree,Somewhat agree,0.8125
+P0633,Season,Somewhat agree,Somewhat agree,Neither agree nor disagree,Neither agree nor disagree,0.625
+P0634,Age,Somewhat agree,Strongly agree,Neither agree nor disagree,Somewhat agree,0.75
+P0635,Age,Strongly agree,Strongly disagree,Strong agree,Strong agree,0.75
+P0637,Season,Neither agree nor disagree,Strongly agree,Somewhat agree,Strong agree,0.8125
+P0638,Conformity,Somewhat agree,Somewhat agree,Strong agree,Somewhat agree,0.8125
+P0639,Prestige,Somewhat disagree,Somewhat disagree,Neither agree nor disagree,Somewhat disagree,0.3125
+P0640,Prestige,Somewhat agree,Somewhat agree,Somewhat agree,Somewhat agree,0.75
+P0641,Age,Somewhat agree,Strongly agree,Somewhat agree,Somewhat agree,0.8125
+P0642,Conformity,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,0.0
+P0643,Individual,Somewhat disagree,Somewhat agree,Strongly disagree,Neither agree nor disagree,0.375
+P0644,Prestige,Somewhat agree,Neither agree nor disagree,Strong agree,Strong agree,0.8125
+P0645,Age,Somewhat agree,Somewhat agree,Somewhat agree,Somewhat agree,0.75
+P0646,Season,Neither agree nor disagree,Somewhat agree,Somewhat agree,Somewhat disagree,0.5625
+P0647,Season,Somewhat agree,Somewhat agree,Somewhat agree,Strong agree,0.8125
+P0648,Age,Somewhat disagree,Somewhat disagree,Strong agree,Neither agree nor disagree,0.5
+P0649,Prestige,Somewhat agree,Somewhat agree,Strong agree,Somewhat agree,0.8125
+P0650,Individual,Strongly disagree,Neither agree nor disagree,Neither agree nor disagree,Strong agree,0.5
+P0651,Prestige,Somewhat agree,Strongly agree,Somewhat agree,Strong agree,0.875
+P0652,Season,Neither agree nor disagree,Strongly agree,Somewhat agree,Somewhat agree,0.75
+P0653,Conformity,Somewhat disagree,Somewhat agree,Somewhat disagree,Somewhat agree,0.5
+P0654,Prestige,Somewhat agree,Neither agree nor disagree,Neither agree nor disagree,Somewhat agree,0.625
+P0655,Individual,Somewhat agree,Somewhat agree,Strong agree,Somewhat agree,0.8125
+P0656,Prestige,Somewhat agree,Somewhat agree,Strong agree,Somewhat agree,0.8125
+P0657,Age,Somewhat disagree,Strongly disagree,Strong agree,Strong agree,0.5625
+P0658,Age,Somewhat agree,Somewhat disagree,Somewhat agree,Somewhat disagree,0.5
+P0659,Conformity,Strongly agree,Strongly agree,Strong agree,Strong agree,1.0
+P0660,Age,Somewhat agree,Somewhat agree,Strong agree,Strong agree,0.875
+P0661,Season,Somewhat agree,Strongly agree,Strong agree,Strong agree,0.9375
+P0662,Conformity,Somewhat agree,Somewhat agree,Somewhat agree,Somewhat agree,0.75
+P0663,Prestige,Somewhat agree,Strongly agree,Strong agree,Strong agree,0.9375
+P0664,Conformity,Somewhat agree,Somewhat agree,Somewhat agree,Somewhat agree,0.75
+P0665,Individual,Somewhat agree,Somewhat agree,Somewhat agree,Somewhat agree,0.75
+P0666,Individual,Somewhat agree,Somewhat disagree,Somewhat agree,Strong agree,0.6875
+P0667,Season,Somewhat agree,Somewhat agree,Strong agree,Somewhat agree,0.8125
+P0668,Conformity,Somewhat agree,Strongly agree,Strong agree,Strong agree,0.9375
+P0669,Age,Somewhat disagree,Neither agree nor disagree,Somewhat disagree,Somewhat disagree,0.3125
+P0670,Individual,Somewhat disagree,Neither agree nor disagree,Somewhat disagree,Somewhat disagree,0.3125
+P0671,Conformity,Neither agree nor disagree,Somewhat disagree,Somewhat disagree,Neither agree nor disagree,0.375
+P0672,Season,Somewhat agree,Somewhat agree,Somewhat agree,Somewhat agree,0.75
+P0673,Conformity,Somewhat agree,Strongly agree,Somewhat agree,Somewhat agree,0.8125
+P0674,Prestige,Somewhat agree,Somewhat agree,Somewhat agree,Somewhat agree,0.75
+P0675,Age,Neither agree nor disagree,Neither agree nor disagree,Somewhat agree,Somewhat disagree,0.5
+P0676,Age,Strongly agree,Strongly agree,Neither agree nor disagree,Somewhat agree,0.8125
+P0677,Individual,Somewhat agree,Somewhat agree,Somewhat agree,Somewhat agree,0.75
+P0678,Age,Neither agree nor disagree,Somewhat agree,Somewhat agree,Somewhat agree,0.6875
+P0679,Prestige,Somewhat disagree,Somewhat agree,Strong agree,Strong agree,0.75
+P0680,Season,Neither agree nor disagree,Somewhat disagree,Somewhat disagree,Somewhat disagree,0.3125
+P0681,Season,Somewhat agree,Somewhat agree,Strong agree,Somewhat agree,0.8125
+P0682,Conformity,Somewhat disagree,Somewhat disagree,Somewhat disagree,Strongly disagree,0.1875
+P0683,Individual,Strongly agree,Strongly agree,Strong agree,Strong agree,1.0
+P0684,Season,Somewhat agree,Somewhat agree,Somewhat agree,Somewhat agree,0.75
+P0685,Individual,Somewhat agree,Strongly agree,Strong agree,Strong agree,0.9375
+P0686,Conformity,Somewhat agree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree,0.5625
+P0687,Season,Somewhat agree,Somewhat agree,Somewhat agree,Somewhat agree,0.75
+P0688,Individual,Somewhat agree,Somewhat agree,Strong agree,Somewhat agree,0.8125
+P0689,Age,Somewhat agree,Neither agree nor disagree,Neither agree nor disagree,Somewhat agree,0.625
+P0690,Prestige,Neither agree nor disagree,Neither agree nor disagree,Somewhat agree,Neither agree nor disagree,0.5625
+P0691,Prestige,Somewhat disagree,Somewhat agree,Somewhat agree,Somewhat agree,0.625
+P0692,Season,Somewhat agree,Strongly agree,Somewhat agree,Somewhat agree,0.8125
+P0693,Conformity,Somewhat disagree,Strongly agree,Somewhat agree,Somewhat agree,0.6875
+P0694,Age,Somewhat agree,Strongly agree,Somewhat agree,Somewhat agree,0.8125
+P0695,Individual,Neither agree nor disagree,Somewhat agree,Somewhat agree,Somewhat agree,0.6875
+P0696,Season,Strongly agree,Strongly agree,Somewhat agree,Somewhat agree,0.875
+P0697,Conformity,Somewhat agree,Neither agree nor disagree,Somewhat agree,Somewhat agree,0.6875
+P0698,Prestige,Strongly agree,Somewhat disagree,Somewhat agree,Somewhat agree,0.6875
+P0699,Age,Somewhat agree,Somewhat agree,Somewhat agree,Somewhat agree,0.75
+P0700,Prestige,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree,0.5
+P0701,Individual,Somewhat agree,Strongly agree,Strong agree,Somewhat agree,0.875
+P0702,Conformity,Somewhat agree,Strongly agree,Somewhat agree,Somewhat agree,0.8125
+P0703,Conformity,Strongly agree,Somewhat agree,Strong agree,Strong agree,0.9375
+P0704,Individual,Neither agree nor disagree,Strongly disagree,Somewhat agree,Strongly disagree,0.3125
+P0705,Prestige,Strongly disagree,Somewhat agree,Somewhat agree,Somewhat agree,0.5625
+P0706,Season,Somewhat disagree,Neither agree nor disagree,Strong agree,Somewhat agree,0.625
+P0707,Individual,Somewhat agree,Somewhat agree,Somewhat agree,Somewhat agree,0.75
+P0708,Age,Somewhat disagree,Somewhat disagree,Strongly disagree,Strongly disagree,0.125
+P0709,Prestige,Somewhat disagree,Somewhat disagree,Neither agree nor disagree,Neither agree nor disagree,0.375
+P0710,Individual,Somewhat agree,Somewhat agree,Somewhat agree,Somewhat agree,0.75
+P0711,Conformity,Strongly agree,Strongly agree,Strong agree,Strong agree,1.0
+P0712,Season,Somewhat agree,Somewhat agree,Somewhat disagree,Somewhat agree,0.625
+P0713,Season,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree,Strongly disagree,0.375
+P0714,Prestige,Somewhat agree,Somewhat agree,Somewhat agree,Somewhat agree,0.75
+P0715,Age,Somewhat agree,Somewhat agree,Somewhat disagree,Somewhat disagree,0.5
+P0716,Conformity,Neither agree nor disagree,Somewhat agree,Strong agree,Somewhat agree,0.75
+P0717,Age,Strongly agree,Strongly agree,Strong agree,Strong agree,1.0
+P0718,Individual,Strongly agree,Strongly agree,Strong agree,Strong agree,1.0
+P0719,Age,Somewhat agree,Somewhat agree,Somewhat agree,Somewhat disagree,0.625
+P0720,Age,Strongly agree,Strongly agree,Strong agree,Strong agree,1.0
+P0721,Season,Somewhat agree,Neither agree nor disagree,Somewhat agree,Somewhat agree,0.6875
+P0722,Prestige,Somewhat agree,Strongly agree,Somewhat agree,Somewhat agree,0.8125
+P0723,Prestige,Somewhat agree,Somewhat agree,Somewhat agree,Somewhat agree,0.75
+P0724,Conformity,Somewhat agree,Somewhat agree,Somewhat agree,Somewhat agree,0.75
+P0725,Conformity,Somewhat disagree,Neither agree nor disagree,Somewhat agree,Neither agree nor disagree,0.5
+P0726,Season,Somewhat agree,Somewhat agree,Neither agree nor disagree,Somewhat disagree,0.5625
+P0727,Individual,Somewhat disagree,Somewhat agree,Somewhat agree,Strong agree,0.6875
+P0728,Age,Somewhat disagree,Strongly disagree,Strongly disagree,Somewhat agree,0.25
+P0729,Individual,Somewhat agree,Neither agree nor disagree,Strong agree,Somewhat agree,0.75
+P0730,Season,Neither agree nor disagree,Somewhat agree,Somewhat agree,Neither agree nor disagree,0.625
+P0731,Prestige,Neither agree nor disagree,Strongly agree,Somewhat agree,Somewhat agree,0.75
+P0732,Individual,Somewhat agree,Somewhat agree,Somewhat agree,Somewhat agree,0.75
+P0733,Season,Neither agree nor disagree,Strongly agree,Neither agree nor disagree,Somewhat agree,0.6875
+P0734,Prestige,Somewhat agree,Somewhat agree,Strong agree,Strong agree,0.875
+P0735,Age,Somewhat agree,Somewhat agree,Somewhat agree,Somewhat agree,0.75
+P0736,Individual,Somewhat agree,Somewhat agree,Strong agree,Strong agree,0.875
+P0737,Conformity,Somewhat agree,Somewhat agree,Somewhat agree,Somewhat agree,0.75
+P0738,Prestige,Somewhat agree,Strongly agree,Neither agree nor disagree,Somewhat disagree,0.625
+P0739,Age,Somewhat agree,Somewhat agree,Somewhat agree,Somewhat agree,0.75
+P0740,Season,Somewhat agree,Somewhat agree,Strongly disagree,Somewhat disagree,0.4375
+P0741,Individual,Neither agree nor disagree,Somewhat disagree,Neither agree nor disagree,Neither agree nor disagree,0.4375
+P0742,Conformity,Neither agree nor disagree,Somewhat disagree,Somewhat agree,Somewhat agree,0.5625
+P0743,Conformity,Somewhat agree,Somewhat agree,Strong agree,Somewhat agree,0.8125
+P0744,Season,Somewhat agree,Somewhat disagree,Somewhat agree,Strong agree,0.6875
+P0745,Prestige,Somewhat disagree,Somewhat agree,Somewhat agree,Neither agree nor disagree,0.5625
+P0746,Conformity,Neither agree nor disagree,Neither agree nor disagree,Somewhat agree,Neither agree nor disagree,0.5625
+P0747,Age,Neither agree nor disagree,Somewhat agree,Somewhat agree,Somewhat agree,0.6875
+P0748,Prestige,Neither agree nor disagree,Somewhat agree,Somewhat agree,Neither agree nor disagree,0.625
+P0749,Season,Somewhat agree,Strongly agree,Strong agree,Strong agree,0.9375
+P0750,Age,Somewhat agree,Strongly agree,Strong agree,Strong agree,0.9375
+P0751,Age,Somewhat agree,Somewhat agree,Somewhat agree,Somewhat agree,0.75
+P0752,Individual,Somewhat agree,Somewhat agree,Somewhat agree,Somewhat agree,0.75
+P0753,Prestige,Somewhat agree,Somewhat agree,Somewhat agree,Somewhat disagree,0.625
+P0754,Prestige,Neither agree nor disagree,Strongly agree,Somewhat agree,Somewhat agree,0.75
+P0755,Conformity,Strongly agree,Strongly agree,Neither agree nor disagree,Neither agree nor disagree,0.75
+P0756,Season,Somewhat disagree,Strongly disagree,Somewhat disagree,Somewhat disagree,0.1875
+P0757,Prestige,Strongly disagree,Strongly agree,Somewhat disagree,Somewhat agree,0.5
+P0758,Individual,Somewhat agree,Strongly agree,Somewhat agree,Somewhat agree,0.8125
+P0759,Season,Somewhat disagree,Strongly agree,Strong agree,Strong agree,0.8125
+P0760,Conformity,Somewhat agree,Somewhat agree,Somewhat disagree,Somewhat agree,0.625
+P0761,Age,Somewhat agree,Strongly agree,Somewhat agree,Somewhat agree,0.8125
+P0762,Conformity,Strongly agree,Strongly agree,Somewhat agree,Somewhat agree,0.875
+P0763,Individual,Strongly agree,Strongly agree,Strong agree,Strong agree,1.0
+P0764,Prestige,Somewhat agree,Somewhat agree,Strong agree,Strong agree,0.875
+P0765,Individual,Somewhat agree,Somewhat agree,Somewhat agree,Somewhat agree,0.75
+P0766,Season,Somewhat agree,Somewhat agree,Somewhat agree,Somewhat agree,0.75
+P0767,Age,Somewhat agree,Somewhat agree,Somewhat disagree,Somewhat disagree,0.5
+P0768,Age,Somewhat disagree,Neither agree nor disagree,Somewhat agree,Neither agree nor disagree,0.5
+P0769,Conformity,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,0.0
+P0770,Season,Somewhat agree,Neither agree nor disagree,Somewhat agree,Somewhat disagree,0.5625
+P0771,Prestige,Somewhat disagree,Strongly agree,Somewhat agree,Somewhat agree,0.6875
+P0772,Individual,Somewhat agree,Strongly agree,Strong agree,Strong agree,0.9375
+P0773,Prestige,Strongly agree,Strongly agree,Strong agree,Strong agree,1.0
+P0774,Season,Somewhat agree,Somewhat agree,Somewhat agree,Somewhat agree,0.75
+P0775,Individual,Somewhat agree,Strongly agree,Somewhat agree,Somewhat disagree,0.6875
+P0776,Age,Somewhat agree,Somewhat agree,Somewhat agree,Strong agree,0.8125
+P0777,Prestige,Somewhat agree,Strongly disagree,Strong agree,Strong agree,0.6875
+P0778,Age,Somewhat agree,Somewhat agree,Somewhat agree,Somewhat agree,0.75
+P0779,Conformity,Somewhat disagree,Strongly disagree,Somewhat agree,Somewhat disagree,0.3125
+P0780,Individual,Strongly agree,Strongly agree,Strong agree,Strong agree,1.0
+P0781,Conformity,Somewhat agree,Somewhat agree,Somewhat agree,Somewhat agree,0.75
+P0782,Season,Somewhat agree,Somewhat agree,Somewhat agree,Strong agree,0.8125
+P0783,Season,Somewhat agree,Somewhat agree,Somewhat agree,Somewhat agree,0.75
+P0784,Conformity,Somewhat agree,Somewhat agree,Strong agree,Somewhat agree,0.8125
+P0785,Age,Somewhat agree,Strongly agree,Neither agree nor disagree,Somewhat agree,0.75
+P0786,Individual,Somewhat agree,Neither agree nor disagree,Somewhat agree,Somewhat agree,0.6875
+P0787,Prestige,Somewhat agree,Somewhat agree,Somewhat agree,Somewhat agree,0.75
+P0788,Prestige,Somewhat agree,Somewhat agree,Somewhat agree,Neither agree nor disagree,0.6875
+P0789,Individual,Neither agree nor disagree,Somewhat agree,Strongly disagree,Strongly disagree,0.3125
+P0790,Season,Strongly disagree,Neither agree nor disagree,Somewhat agree,Somewhat agree,0.5
+P0791,Age,Somewhat agree,Strongly agree,Strong agree,Strong agree,0.9375
+P0792,Prestige,Somewhat agree,Somewhat agree,Strong agree,Somewhat disagree,0.6875
+P0793,Conformity,Neither agree nor disagree,Somewhat agree,Somewhat disagree,Neither agree nor disagree,0.5
+P0794,Conformity,Somewhat agree,Somewhat agree,Somewhat agree,Somewhat agree,0.75
+P0795,Conformity,Somewhat agree,Neither agree nor disagree,Strongly disagree,Somewhat agree,0.5
+P0796,Individual,Somewhat disagree,Somewhat disagree,Neither agree nor disagree,Somewhat disagree,0.3125
+P0797,Season,Somewhat agree,Somewhat agree,Somewhat agree,Somewhat agree,0.75
+P0798,Age,Strongly agree,Somewhat agree,Somewhat disagree,Somewhat agree,0.6875
+P0799,Age,Strongly agree,Somewhat agree,Strong agree,Neither agree nor disagree,0.8125
+P0800,Individual,Neither agree nor disagree,Strongly agree,Strong agree,Somewhat agree,0.8125
+P0801,Season,Somewhat disagree,Somewhat disagree,Neither agree nor disagree,Strongly disagree,0.25
+P0802,Prestige,Somewhat agree,Somewhat agree,Somewhat disagree,Somewhat disagree,0.5
+P0803,Individual,Neither agree nor disagree,Somewhat agree,Somewhat agree,Neither agree nor disagree,0.625
+P0804,Prestige,Somewhat agree,Neither agree nor disagree,Somewhat agree,Somewhat agree,0.6875
+P0805,Age,Somewhat agree,Somewhat agree,Strongly disagree,Neither agree nor disagree,0.5
+P0806,Season,Neither agree nor disagree,Somewhat agree,Somewhat agree,Somewhat agree,0.6875
+P0807,Conformity,Neither agree nor disagree,Somewhat agree,Neither agree nor disagree,Somewhat agree,0.625
+P0808,Individual,Somewhat disagree,Somewhat agree,Strongly disagree,Somewhat disagree,0.3125
+P0809,Conformity,Somewhat agree,Somewhat disagree,Somewhat disagree,Somewhat disagree,0.375
+P0810,Prestige,Somewhat agree,Strongly agree,Strong agree,Somewhat agree,0.875
+P0811,Individual,Somewhat agree,Somewhat agree,Somewhat agree,Somewhat agree,0.75
+P0812,Age,Somewhat agree,Strongly agree,Strong agree,Somewhat agree,0.875
+P0813,Season,Somewhat agree,Somewhat agree,Neither agree nor disagree,Somewhat agree,0.6875
+P0814,Season,Somewhat disagree,Somewhat disagree,Somewhat agree,Somewhat agree,0.5
+P0815,Age,Strongly disagree,Somewhat disagree,Somewhat agree,Somewhat disagree,0.3125
+P0816,Prestige,Somewhat agree,Neither agree nor disagree,Neither agree nor disagree,Somewhat agree,0.625
+P0817,Conformity,Somewhat agree,Somewhat agree,Strongly disagree,Strongly disagree,0.375
+P0818,Age,Strongly agree,Somewhat agree,Strong agree,Somewhat agree,0.875
+P0819,Conformity,Somewhat agree,Somewhat agree,Somewhat agree,Somewhat agree,0.75
+P0820,Season,Somewhat agree,Somewhat agree,Somewhat agree,Somewhat agree,0.75
+P0821,Prestige,Somewhat agree,Strongly agree,Somewhat agree,Somewhat agree,0.8125
+P0822,Prestige,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,0.0
+P0823,Individual,Somewhat agree,Neither agree nor disagree,Somewhat agree,Neither agree nor disagree,0.625
+P0824,Age,Somewhat agree,Somewhat agree,Somewhat agree,Somewhat agree,0.75
+P0825,Conformity,Somewhat disagree,Neither agree nor disagree,Somewhat agree,Neither agree nor disagree,0.5
+P0826,Individual,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,0.0
+P0827,Season,Strongly agree,Somewhat agree,Somewhat agree,Somewhat agree,0.8125
+P0828,Age,Somewhat agree,Strongly agree,Somewhat agree,Somewhat agree,0.8125
+P0829,Individual,Somewhat disagree,Somewhat agree,Somewhat agree,Somewhat agree,0.625
+P0830,Prestige,Neither agree nor disagree,Somewhat agree,Neither agree nor disagree,Neither agree nor disagree,0.5625
+P0831,Season,Strongly agree,Strongly agree,Somewhat agree,Somewhat agree,0.875
+P0832,Conformity,Somewhat agree,Neither agree nor disagree,Somewhat agree,Somewhat agree,0.6875
+P0833,Age,Neither agree nor disagree,Neither agree nor disagree,Somewhat agree,Somewhat disagree,0.5
+P0834,Prestige,Strongly agree,Strongly agree,Strong agree,Strong agree,1.0
+P0835,Individual,Neither agree nor disagree,Somewhat agree,Neither agree nor disagree,Neither agree nor disagree,0.5625
+P0836,Conformity,Somewhat agree,Somewhat agree,Somewhat agree,Somewhat agree,0.75
+P0837,Season,Neither agree nor disagree,Somewhat agree,Somewhat agree,Somewhat agree,0.6875
+P0838,Individual,Neither agree nor disagree,Strongly agree,Somewhat agree,Neither agree nor disagree,0.6875
+P0839,Prestige,Somewhat agree,Somewhat agree,Somewhat agree,Somewhat agree,0.75
+P0840,Age,Somewhat disagree,Somewhat agree,Neither agree nor disagree,Neither agree nor disagree,0.5
+P0841,Conformity,Strongly disagree,Somewhat agree,Strongly disagree,Strongly disagree,0.1875
+P0842,Season,Somewhat agree,Somewhat agree,Strong agree,Somewhat agree,0.8125
+P0843,Conformity,Somewhat agree,Somewhat agree,Somewhat agree,Somewhat agree,0.75
+P0844,Season,Neither agree nor disagree,Strongly agree,Strong agree,Strong agree,0.875
+P0845,Individual,Neither agree nor disagree,Somewhat agree,Somewhat agree,Somewhat agree,0.6875
+P0846,Age,Somewhat agree,Somewhat agree,Neither agree nor disagree,Somewhat agree,0.6875
+P0847,Prestige,Somewhat agree,Strongly agree,Strong agree,Strong agree,0.9375
+P0848,Age,Strongly disagree,Strongly disagree,Somewhat agree,Neither agree nor disagree,0.3125
+P0849,Individual,Strongly agree,Somewhat agree,Somewhat agree,Somewhat agree,0.8125
+P0850,Prestige,Somewhat disagree,Strongly disagree,Strongly disagree,Strongly disagree,0.0625
+P0851,Conformity,Somewhat agree,Neither agree nor disagree,Strong agree,Somewhat agree,0.75
+P0852,Season,Neither agree nor disagree,Neither agree nor disagree,Somewhat agree,Neither agree nor disagree,0.5625
+P0853,Individual,Strongly agree,Somewhat agree,Somewhat agree,Strong agree,0.875
+P0854,Season,Somewhat agree,Strongly agree,Strong agree,Strong agree,0.9375
+P0855,Prestige,Somewhat agree,Strongly agree,Somewhat agree,Somewhat agree,0.8125
+P0856,Conformity,Somewhat agree,Strongly agree,Strong agree,Somewhat agree,0.875
+P0857,Age,Somewhat agree,Somewhat agree,Strong agree,Somewhat agree,0.8125
+P0858,Age,Somewhat agree,Somewhat agree,Somewhat agree,Somewhat agree,0.75
+P0859,Prestige,Somewhat agree,Strongly agree,Somewhat agree,Strong agree,0.875
+P0860,Season,Somewhat disagree,Strongly disagree,Somewhat agree,Somewhat disagree,0.3125
+P0861,Individual,Somewhat agree,Somewhat disagree,Somewhat agree,Somewhat agree,0.625
+P0862,Conformity,Somewhat agree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree,0.5625
+P0863,Conformity,Somewhat disagree,Neither agree nor disagree,Somewhat agree,Somewhat agree,0.5625
+P0864,Season,Neither agree nor disagree,Somewhat agree,Somewhat agree,Somewhat agree,0.6875
+P0865,Age,Strongly agree,Somewhat agree,Strong agree,Somewhat agree,0.875
+P0866,Individual,Somewhat agree,Somewhat agree,Somewhat disagree,Somewhat disagree,0.5
+P0867,Prestige,Somewhat disagree,Somewhat disagree,Somewhat agree,Somewhat agree,0.5
+P0868,Season,Strongly agree,Somewhat agree,Strong agree,Strong agree,0.9375
+P0869,Prestige,Neither agree nor disagree,Neither agree nor disagree,Somewhat agree,Strong agree,0.6875
+P0870,Individual,Somewhat agree,Neither agree nor disagree,Somewhat agree,Strong agree,0.75
+P0871,Conformity,Somewhat agree,Strongly agree,Strong agree,Somewhat agree,0.875
+P0872,Individual,Somewhat disagree,Somewhat agree,Somewhat agree,Somewhat agree,0.625
+P0873,Age,Somewhat agree,Somewhat agree,Strong agree,Strong agree,0.875
+P0874,Prestige,Strongly agree,Strongly agree,Somewhat agree,Strong agree,0.9375
+P0875,Conformity,Neither agree nor disagree,Somewhat disagree,Neither agree nor disagree,Neither agree nor disagree,0.4375
+P0876,Age,Somewhat agree,Somewhat agree,Strong agree,Somewhat agree,0.8125
+P0877,Season,Somewhat disagree,Somewhat disagree,Somewhat disagree,Somewhat disagree,0.25
+P0878,Conformity,Strongly disagree,Somewhat agree,Somewhat disagree,Somewhat disagree,0.3125
+P0879,Prestige,Strongly disagree,Strongly disagree,Neither agree nor disagree,Strongly disagree,0.125
+P0880,Individual,Somewhat agree,Strongly agree,Somewhat agree,Somewhat agree,0.8125
+P0881,Season,Somewhat disagree,Somewhat agree,Strong agree,Somewhat disagree,0.5625
+P0882,Age,Somewhat agree,Strongly agree,Strong agree,Strong agree,0.9375
+P0883,Age,Somewhat disagree,Strongly disagree,Strongly disagree,Strongly disagree,0.0625
+P0884,Conformity,Neither agree nor disagree,Somewhat disagree,Neither agree nor disagree,Neither agree nor disagree,0.4375
+P0885,Season,Neither agree nor disagree,Somewhat disagree,Neither agree nor disagree,Somewhat agree,0.5
+P0886,Prestige,Somewhat agree,Strongly agree,Strong agree,Somewhat agree,0.875
+P0887,Individual,Somewhat agree,Strongly agree,Somewhat disagree,Somewhat disagree,0.5625
+P0888,Season,Somewhat agree,Somewhat agree,Neither agree nor disagree,Somewhat agree,0.6875
+P0889,Age,Neither agree nor disagree,Somewhat disagree,Somewhat agree,Neither agree nor disagree,0.5
+P0890,Individual,Somewhat agree,Somewhat agree,Somewhat agree,Somewhat agree,0.75
+P0891,Conformity,Somewhat agree,Somewhat agree,Somewhat agree,Somewhat agree,0.75
+P0892,Prestige,Neither agree nor disagree,Somewhat agree,Somewhat disagree,Somewhat agree,0.5625
+P0893,Season,Somewhat agree,Somewhat agree,Somewhat agree,Somewhat agree,0.75
+P0894,Age,Somewhat agree,Somewhat agree,Somewhat agree,Somewhat agree,0.75
+P0895,Conformity,Somewhat disagree,Somewhat disagree,Somewhat disagree,Somewhat disagree,0.25
+P0896,Prestige,Somewhat agree,Somewhat agree,Somewhat agree,Somewhat agree,0.75
+P0897,Individual,Strongly agree,Strongly agree,Somewhat agree,Somewhat agree,0.875
+P0898,Conformity,Neither agree nor disagree,Somewhat agree,Strong agree,Strong agree,0.8125
+P0899,Season,Strongly agree,Strongly agree,Strong agree,Somewhat agree,0.9375
+P0900,Individual,Somewhat agree,Neither agree nor disagree,Somewhat agree,Somewhat agree,0.6875
+P0901,Prestige,Strongly agree,Somewhat agree,Strong agree,Strong agree,0.9375
+P0902,Age,Somewhat disagree,Somewhat agree,Somewhat agree,Somewhat disagree,0.5
+P0903,Individual,Neither agree nor disagree,Somewhat agree,Somewhat agree,Somewhat agree,0.6875
